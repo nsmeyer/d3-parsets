@@ -1,0 +1,2017 @@
+NUTS_ID,LEVL_CODE,CNTR_CODE,NAME_LATN,NUTS_NAME,MOUNT_TYPE,URBN_TYPE,COAST_TYPE,FID,Longitude,Latitude
+DEA28,"3",DE,Euskirchen,Euskirchen,"4","2","3",DEA28,6.641,50.5382
+DEA29,"3",DE,Heinsberg,Heinsberg,"4","2","3",DEA29,6.1717,51.0525
+DEA2A,"3",DE,Oberbergischer Kreis,Oberbergischer Kreis,"4","2","3",DEA2A,7.5224,51.0215
+DEA2B,"3",DE,Rheinisch-Bergischer Kreis,Rheinisch-Bergischer Kreis,"4","1","3",DEA2B,7.1917,51.022
+DEA2C,"3",DE,Rhein-Sieg-Kreis,Rhein-Sieg-Kreis,"4","1","3",DEA2C,7.2626,50.7726
+DEA2D,"3",DE,Städteregion Aachen,Städteregion Aachen,"4","1","3",DEA2D,6.2155,50.7581
+DEA31,"3",DE,"Bottrop, Kreisfreie Stadt","Bottrop, Kreisfreie Stadt","4","1","3",DEA31,6.912,51.5631
+DEA32,"3",DE,"Gelsenkirchen, Kreisfreie Stadt","Gelsenkirchen, Kreisfreie Stadt","4","1","3",DEA32,7.0849,51.5335
+DEA33,"3",DE,"Münster, Kreisfreie Stadt","Münster, Kreisfreie Stadt","4","1","3",DEA33,7.6332,51.9518
+DEA34,"3",DE,Borken,Borken,"4","2","3",DEA34,6.9093,51.9662
+DEA35,"3",DE,Coesfeld,Coesfeld,"4","1","3",DEA35,7.4136,51.8518
+DEA36,"3",DE,Recklinghausen,Recklinghausen,"4","1","3",DEA36,7.1595,51.671
+DEA37,"3",DE,Steinfurt,Steinfurt,"4","2","3",DEA37,7.5476,52.2058
+DEA38,"3",DE,Warendorf,Warendorf,"4","2","3",DEA38,7.9518,51.8703
+DEA41,"3",DE,"Bielefeld, Kreisfreie Stadt","Bielefeld, Kreisfreie Stadt","4","1","3",DEA41,8.5488,52.0166
+DEA42,"3",DE,Gütersloh,Gütersloh,"4","1","3",DEA42,8.4224,51.8573
+DEA43,"3",DE,Herford,Herford,"4","1","3",DEA43,8.6257,52.166
+DEA44,"3",DE,Höxter,Höxter,"4","3","3",DEA44,9.1726,51.6626
+DEA45,"3",DE,Lippe,Lippe,"4","2","3",DEA45,8.9483,51.9838
+DEA46,"3",DE,Minden-Lübbecke,Minden-Lübbecke,"4","2","3",DEA46,8.7112,52.3226
+DEA47,"3",DE,Paderborn,Paderborn,"4","2","3",DEA47,8.7144,51.6618
+DEA51,"3",DE,"Bochum, Kreisfreie Stadt","Bochum, Kreisfreie Stadt","4","1","3",DEA51,7.2166,51.4814
+DEA52,"3",DE,"Dortmund, Kreisfreie Stadt","Dortmund, Kreisfreie Stadt","4","1","3",DEA52,7.452,51.5063
+DEA53,"3",DE,"Hagen, Kreisfreie Stadt","Hagen, Kreisfreie Stadt","4","1","3",DEA53,7.5224,51.3587
+DEA54,"3",DE,"Hamm, Kreisfreie Stadt","Hamm, Kreisfreie Stadt","4","1","3",DEA54,7.8199,51.6737
+DEA55,"3",DE,"Herne, Kreisfreie Stadt","Herne, Kreisfreie Stadt","4","1","3",DEA55,7.1781,51.5302
+DEA56,"3",DE,Ennepe-Ruhr-Kreis,Ennepe-Ruhr-Kreis,"4","1","3",DEA56,7.3205,51.3474
+DEA57,"3",DE,Hochsauerlandkreis,Hochsauerlandkreis,"2","2","3",DEA57,8.4172,51.271
+DEA58,"3",DE,Märkischer Kreis,Märkischer Kreis,"4","1","3",DEA58,7.7215,51.2714
+DEA59,"3",DE,Olpe,Olpe,"2","2","3",DEA59,7.9532,51.0798
+DEA5A,"3",DE,Siegen-Wittgenstein,Siegen-Wittgenstein,"2","2","3",DEA5A,8.1938,50.9308
+DEA5B,"3",DE,Soest,Soest,"4","2","3",DEA5B,8.1857,51.5701
+DEA5C,"3",DE,Unna,Unna,"4","1","3",DEA5C,7.7306,51.5453
+DEB11,"3",DE,"Koblenz, Kreisfreie Stadt","Koblenz, Kreisfreie Stadt","4","2","3",DEB11,7.6181,50.3552
+DEB12,"3",DE,Ahrweiler,Ahrweiler,"2","2","3",DEB12,7.0691,50.4799
+DEB13,"3",DE,Altenkirchen (Westerwald),Altenkirchen (Westerwald),"4","3","3",DEB13,7.7402,50.7908
+DEB14,"3",DE,Bad Kreuznach,Bad Kreuznach,"4","2","3",DEB14,7.6885,49.8254
+DEB15,"3",DE,Birkenfeld,Birkenfeld,"3","3","3",DEB15,7.272,49.7113
+DEB17,"3",DE,Mayen-Koblenz,Mayen-Koblenz,"4","2","3",DEB17,7.3331,50.3304
+DEB18,"3",DE,Neuwied,Neuwied,"4","2","3",DEB18,7.4566,50.5416
+DEB1A,"3",DE,Rhein-Lahn-Kreis,Rhein-Lahn-Kreis,"3","2","3",DEB1A,7.8408,50.2607
+DEB1B,"3",DE,Westerwaldkreis,Westerwaldkreis,"4","3","3",DEB1B,7.8652,50.5496
+DEB1C,"3",DE,Cochem-Zell,Cochem-Zell,"3","3","3",DEB1C,7.1649,50.1316
+DEB1D,"3",DE,Rhein-Hunsrück-Kreis,Rhein-Hunsrück-Kreis,"1","3","3",DEB1D,7.501,50.0415
+DEB21,"3",DE,"Trier, Kreisfreie Stadt","Trier, Kreisfreie Stadt","4","2","3",DEB21,6.6698,49.7704
+DEB22,"3",DE,Bernkastel-Wittlich,Bernkastel-Wittlich,"3","3","3",DEB22,6.9647,49.9272
+DEB23,"3",DE,Eifelkreis Bitburg-Prüm,Eifelkreis Bitburg-Prüm,"4","3","3",DEB23,6.4459,50.0681
+DEB24,"3",DE,Vulkaneifel,Vulkaneifel,"4","3","3",DEB24,6.7687,50.234
+DEB25,"3",DE,Trier-Saarburg,Trier-Saarburg,"3","2","3",DEB25,6.7122,49.6518
+DEB31,"3",DE,"Frankenthal (Pfalz), Kreisfreie Stadt","Frankenthal (Pfalz), Kreisfreie Stadt","4","1","3",DEB31,8.3846,49.5515
+DEB32,"3",DE,"Kaiserslautern, Kreisfreie Stadt","Kaiserslautern, Kreisfreie Stadt","4","2","3",DEB32,7.7231,49.4377
+DEB33,"3",DE,"Landau in der Pfalz, Kreisfreie Stadt","Landau in der Pfalz, Kreisfreie Stadt","4","1","3",DEB33,8.1138,49.1973
+DEB34,"3",DE,"Ludwigshafen am Rhein, Kreisfreie Stadt","Ludwigshafen am Rhein, Kreisfreie Stadt","4","1","3",DEB34,8.4067,49.4836
+DEB35,"3",DE,"Mainz, Kreisfreie Stadt","Mainz, Kreisfreie Stadt","4","1","3",DEB35,8.2488,49.982
+DEB36,"3",DE,"Neustadt an der Weinstraße, Kreisfreie Stadt","Neustadt an der Weinstraße, Kreisfreie Stadt","4","2","3",DEB36,8.1585,49.3541
+DEB37,"3",DE,"Pirmasens, Kreisfreie Stadt","Pirmasens, Kreisfreie Stadt","4","3","3",DEB37,7.5847,49.2018
+DEB38,"3",DE,"Speyer, Kreisfreie Stadt","Speyer, Kreisfreie Stadt","4","1","3",DEB38,8.4443,49.3209
+DEB39,"3",DE,"Worms, Kreisfreie Stadt","Worms, Kreisfreie Stadt","4","1","3",DEB39,8.3246,49.6312
+DEB3A,"3",DE,"Zweibrücken, Kreisfreie Stadt","Zweibrücken, Kreisfreie Stadt","4","2","3",DEB3A,7.3606,49.247
+DEB3B,"3",DE,Alzey-Worms,Alzey-Worms,"4","3","3",DEB3B,8.1601,49.742
+DEB3C,"3",DE,Bad Dürkheim,Bad Dürkheim,"4","2","3",DEB3C,8.1144,49.4587
+DEB3D,"3",DE,Donnersbergkreis,Donnersbergkreis,"4","3","3",DEB3D,7.9153,49.6231
+DEB3E,"3",DE,Germersheim,Germersheim,"4","1","3",DEB3E,8.2407,49.0475
+DEB3F,"3",DE,"Kaiserslautern, Landkreis","Kaiserslautern, Landkreis","4","2","3",DEB3F,7.538,49.4143
+DEB3G,"3",DE,Kusel,Kusel,"4","3","3",DEB3G,7.4677,49.5499
+DEB3H,"3",DE,Südliche Weinstraße,Südliche Weinstraße,"4","2","3",DEB3H,7.9846,49.1
+DEB3I,"3",DE,Rhein-Pfalz-Kreis,Rhein-Pfalz-Kreis,"4","1","3",DEB3I,8.3705,49.4064
+DEB3J,"3",DE,Mainz-Bingen,Mainz-Bingen,"4","2","3",DEB3J,8.0673,49.946
+DEB3K,"3",DE,Südwestpfalz,Südwestpfalz,"4","3","3",DEB3K,7.7631,49.1846
+DEC01,"3",DE,Regionalverband Saarbrücken,Regionalverband Saarbrücken,"4","1","3",DEC01,6.9696,49.2655
+DEC02,"3",DE,Merzig-Wadern,Merzig-Wadern,"4","2","3",DEC02,6.6386,49.4877
+DEC03,"3",DE,Neunkirchen,Neunkirchen,"4","2","3",DEC03,7.1116,49.3853
+DEC04,"3",DE,Saarlouis,Saarlouis,"4","1","3",DEC04,6.7732,49.3289
+DEC05,"3",DE,Saarpfalz-Kreis,Saarpfalz-Kreis,"4","1","3",DEC05,7.2484,49.2521
+DEC06,"3",DE,St. Wendel,St. Wendel,"4","2","3",DEC06,7.0935,49.5237
+DED21,"3",DE,"Dresden, Kreisfreie Stadt","Dresden, Kreisfreie Stadt","4","1","3",DED21,13.7782,51.0697
+DED2C,"3",DE,Bautzen,Bautzen,"4","3","3",DED2C,14.213,51.2706
+DED2D,"3",DE,Görlitz,Görlitz,"4","2","3",DED2D,14.8426,51.2074
+DED2E,"3",DE,Meißen,Meißen,"4","2","3",DED2E,13.4964,51.244
+DED2F,"3",DE,Sächsische Schweiz-Osterzgebirge,Sächsische Schweiz-Osterzgebirge,"4","1","3",DED2F,13.8699,50.8845
+DED41,"3",DE,"Chemnitz, Kreisfreie Stadt","Chemnitz, Kreisfreie Stadt","4","2","3",DED41,12.899,50.8105
+DED42,"3",DE,Erzgebirgskreis,Erzgebirgskreis,"3","2","3",DED42,12.9429,50.6064
+DED43,"3",DE,Mittelsachsen,Mittelsachsen,"4","2","3",DED43,13.1359,50.957
+DED44,"3",DE,Vogtlandkreis,Vogtlandkreis,"4","2","3",DED44,12.2257,50.4807
+DED45,"3",DE,Zwickau,Zwickau,"4","2","3",DED45,12.528,50.7575
+DED51,"3",DE,"Leipzig, Kreisfreie Stadt","Leipzig, Kreisfreie Stadt","4","1","3",DED51,12.3884,51.3207
+DED52,"3",DE,Leipzig,Leipzig,"4","1","3",DED52,12.5787,51.2071
+DED53,"3",DE,Nordsachsen,Nordsachsen,"4","3","3",DED53,12.7018,51.5399
+DEE01,"3",DE,"Dessau-Roßlau, Kreisfreie Stadt","Dessau-Roßlau, Kreisfreie Stadt","4","2","3",DEE01,12.2333,51.8538
+DEE02,"3",DE,"Halle (Saale), Kreisfreie Stadt","Halle (Saale), Kreisfreie Stadt","4","2","3",DEE02,11.9712,51.4788
+DEE03,"3",DE,"Magdeburg, Kreisfreie Stadt","Magdeburg, Kreisfreie Stadt","4","2","3",DEE03,11.654,52.1098
+DEE04,"3",DE,Altmarkkreis Salzwedel,Altmarkkreis Salzwedel,"4","3","3",DEE04,11.2091,52.6917
+DEE05,"3",DE,Anhalt-Bitterfeld,Anhalt-Bitterfeld,"4","2","3",DEE05,12.2227,51.6539
+DEE06,"3",DE,Jerichower Land,Jerichower Land,"4","3","3",DEE06,12.0287,52.2465
+DEE07,"3",DE,Börde,Börde,"4","2","3",DEE07,11.3383,52.2188
+DEE08,"3",DE,Burgenlandkreis,Burgenlandkreis,"4","3","3",DEE08,11.8873,51.1428
+DEE09,"3",DE,Harz,Harz,"4","2","3",DEE09,10.9426,51.8365
+DEE0A,"3",DE,Mansfeld-Südharz,Mansfeld-Südharz,"4","3","3",DEE0A,11.3363,51.5388
+DEE0B,"3",DE,Saalekreis,Saalekreis,"4","2","3",DEE0B,11.8139,51.4546
+DEE0C,"3",DE,Salzlandkreis,Salzlandkreis,"4","2","3",DEE0C,11.6514,51.8466
+DEE0D,"3",DE,Stendal,Stendal,"4","3","3",DEE0D,11.8487,52.6975
+DEE0E,"3",DE,Wittenberg,Wittenberg,"4","3","3",DEE0E,12.6887,51.8237
+DEF01,"3",DE,"Flensburg, Kreisfreie Stadt","Flensburg, Kreisfreie Stadt","4","2","1",DEF01,9.4499,54.79
+DEF02,"3",DE,"Kiel, Kreisfreie Stadt","Kiel, Kreisfreie Stadt","4","1","1",DEF02,10.1325,54.3399
+DEF03,"3",DE,"Lübeck, Kreisfreie Stadt","Lübeck, Kreisfreie Stadt","4","2","1",DEF03,10.7198,53.8762
+DEF04,"3",DE,"Neumünster, Kreisfreie Stadt","Neumünster, Kreisfreie Stadt","4","2","2",DEF04,9.9876,54.0759
+DEF05,"3",DE,Dithmarschen,Dithmarschen,"4","3","1",DEF05,9.1134,54.1311
+DEF06,"3",DE,Herzogtum Lauenburg,Herzogtum Lauenburg,"4","2","3",DEF06,10.6018,53.5834
+DEF07,"3",DE,Nordfriesland,Nordfriesland,"4","3","1",DEF07,8.9686,54.626
+DEF08,"3",DE,Ostholstein,Ostholstein,"4","2","1",DEF08,10.7223,54.1287
+DEF09,"3",DE,Pinneberg,Pinneberg,"4","1","1",DEF09,9.7333,53.7118
+DEF0A,"3",DE,Plön,Plön,"4","1","1",DEF0A,10.3394,54.2122
+DEF0B,"3",DE,Rendsburg-Eckernförde,Rendsburg-Eckernförde,"4","2","1",DEF0B,9.7664,54.2695
+DEF0C,"3",DE,Schleswig-Flensburg,Schleswig-Flensburg,"4","2","1",DEF0C,9.4555,54.6078
+DEF0D,"3",DE,Segeberg,Segeberg,"4","2","3",DEF0D,10.128,53.9185
+DEF0E,"3",DE,Steinburg,Steinburg,"4","2","2",DEF0E,9.5005,53.9173
+DEF0F,"3",DE,Stormarn,Stormarn,"4","2","3",DEF0F,10.3401,53.7297
+DEG01,"3",DE,"Erfurt, Kreisfreie Stadt","Erfurt, Kreisfreie Stadt","4","2","3",DEG01,11.019,50.9705
+DEG02,"3",DE,"Gera, Kreisfreie Stadt","Gera, Kreisfreie Stadt","4","2","3",DEG02,12.089,50.9231
+DEG03,"3",DE,"Jena, Kreisfreie Stadt","Jena, Kreisfreie Stadt","1","2","3",DEG03,11.5646,50.9349
+DEG04,"3",DE,"Suhl, Kreisfreie Stadt","Suhl, Kreisfreie Stadt","3","2","3",DEG04,10.7083,50.6155
+DEG05,"3",DE,"Weimar, Kreisfreie Stadt","Weimar, Kreisfreie Stadt","4","2","3",DEG05,11.3211,50.9756
+DEG06,"3",DE,Eichsfeld,Eichsfeld,"4","3","3",DEG06,10.264,51.3828
+DEG07,"3",DE,Nordhausen,Nordhausen,"4","2","3",DEG07,10.7289,51.5018
+DEG09,"3",DE,Unstrut-Hainich-Kreis,Unstrut-Hainich-Kreis,"4","3","3",DEG09,10.5565,51.1796
+DEG0A,"3",DE,Kyffhäuserkreis,Kyffhäuserkreis,"4","3","3",DEG0A,10.9741,51.3268
+DEG0B,"3",DE,Schmalkalden-Meiningen,Schmalkalden-Meiningen,"3","2","3",DEG0B,10.4022,50.6368
+DEG0C,"3",DE,Gotha,Gotha,"4","3","3",DEG0C,10.6992,50.9104
+DEG0D,"3",DE,Sömmerda,Sömmerda,"4","2","3",DEG0D,11.1531,51.1429
+DEG0E,"3",DE,Hildburghausen,Hildburghausen,"2","3","3",DEG0E,10.7305,50.4355
+DEG0F,"3",DE,Ilm-Kreis,Ilm-Kreis,"3","3","3",DEG0F,10.9671,50.7399
+DEG0G,"3",DE,Weimarer Land,Weimarer Land,"4","2","3",DEG0G,11.5503,51.0456
+DEG0H,"3",DE,Sonneberg,Sonneberg,"3","3","3",DEG0H,11.1008,50.4382
+DEG0I,"3",DE,Saalfeld-Rudolstadt,Saalfeld-Rudolstadt,"3","2","3",DEG0I,11.3187,50.6374
+DEG0J,"3",DE,Saale-Holzland-Kreis,Saale-Holzland-Kreis,"4","2","3",DEG0J,11.7272,50.8999
+DEG0K,"3",DE,Saale-Orla-Kreis,Saale-Orla-Kreis,"4","3","3",DEG0K,11.7275,50.5792
+DEG0L,"3",DE,Greiz,Greiz,"4","2","3",DEG0L,12.0927,50.7025
+DEG0M,"3",DE,Altenburger Land,Altenburger Land,"4","2","3",DEG0M,12.3995,50.9501
+DEG0N,"3",DE,"Eisenach, Kreisfreie Stadt","Eisenach, Kreisfreie Stadt","4","3","3",DEG0N,10.3211,50.9883
+DEG0P,"3",DE,Wartburgkreis,Wartburgkreis,"4","3","3",DEG0P,10.2176,50.8904
+DK011,"3",DK,Byen København,Byen København,"4","1","1",DK011,12.5934,55.624
+DK012,"3",DK,Københavns omegn,Københavns omegn,"4","1","1",DK012,12.419,55.6853
+DK013,"3",DK,Nordsjælland,Nordsjælland,"4","2","1",DK013,12.293,55.9121
+DK014,"3",DK,Bornholm,Bornholm,"4","3","1",DK014,14.9214,55.1222
+DK021,"3",DK,Østsjælland,Østsjælland,"4","2","1",DK021,12.0799,55.5797
+DK022,"3",DK,Vest- og Sydsjælland,Vest- og Sydsjælland,"4","3","1",DK022,11.6823,55.4082
+DK031,"3",DK,Fyn,Fyn,"4","2","1",DK031,10.5571,55.2379
+DK032,"3",DK,Sydjylland,Sydjylland,"4","2","1",DK032,9.0569,55.4038
+DK041,"3",DK,Vestjylland,Vestjylland,"4","3","1",DK041,8.8576,56.2716
+DK042,"3",DK,Østjylland,Østjylland,"4","2","1",DK042,10.0178,56.2136
+DK050,"3",DK,Nordjylland,Nordjylland,"4","3","1",DK050,9.953,57.2719
+EE001,"3",EE,Põhja-Eesti,Põhja-Eesti,"4","1","1",EE001,25.3053,59.2842
+EE004,"3",EE,Lääne-Eesti,Lääne-Eesti,"4","3","1",EE004,24.3076,58.5393
+EE006,"3",EE,Kesk-Eesti,Kesk-Eesti,"4","3","1",EE006,25.6263,59.0584
+EE007,"3",EE,Kirde-Eesti,Kirde-Eesti,"4","2","1",EE007,27.336,59.1732
+EE008,"3",EE,Lõuna-Eesti,Lõuna-Eesti,"4","3","3",EE008,26.4951,58.247
+EL301,"3",EL,Voreios Tomeas Athinon,Βόρειος Τομέας Αθηνών,"4","1","2",EL301,23.8012,38.0451
+EL302,"3",EL,Dytikos Tomeas Athinon,Δυτικός Τομέας Αθηνών,"4","1","1",EL302,23.6742,38.0192
+EL303,"3",EL,Kentrikos Tomeas Athinon,Κεντρικός Τομέας Αθηνών,"4","1","2",EL303,23.7566,37.9791
+EL304,"3",EL,Notios Tomeas Athinon,Νότιος Τομέας Αθηνών,"4","1","1",EL304,23.7395,37.9016
+EL305,"3",EL,Anatoliki Attiki,Ανατολική Αττική,"2","1","1",EL305,23.9407,37.8959
+EL306,"3",EL,Dytiki Attiki,Δυτική Αττική,"2","1","1",EL306,23.3965,38.0858
+EL307,"3",EL,"Peiraias, Nisoi","Πειραιάς, Νήσοι","2","1","1",EL307,22.9824,36.2443
+EL411,"3",EL,"Lesvos, Limnos","Λέσβος, Λήμνος","3","3","1",EL411,26.0189,39.1974
+EL412,"3",EL,"Ikaria, Samos","Ικαρία, Σάμος","3","3","1",EL412,26.806,37.7313
+EL413,"3",EL,Chios,Χίος,"2","2","1",EL413,26.0265,38.4077
+EL421,"3",EL,"Kalymnos, Karpathos, Kos, Rodos","Κάλυμνος, Κάρπαθος, Κως, Ρόδος","2","2","1",EL421,27.9147,36.1601
+EL422,"3",EL,"Andros, Thira, Kea, Milos, Mykonos, Naxos, Paros,  Syros, Tinos","Άνδρος, Θήρα, Κέα, Μήλος, Μύκονος, Νάξος, Πάρος, Σύρος, Τήνος","2","3","1",EL422,25.48,37.0472
+EL431,"3",EL,Irakleio,Ηράκλειο,"2","2","1",EL431,25.1337,35.1469
+EL432,"3",EL,Lasithi,Λασίθι,"2","3","1",EL432,26.0291,35.1076
+EL433,"3",EL,Rethymni,Ρεθύμνη,"3","3","1",EL433,24.5993,35.2638
+EL434,"3",EL,Chania,Χανιά,"2","2","1",EL434,23.9478,35.3603
+EL511,"3",EL,Evros,Έβρος,"4","2","1",EL511,26.1538,41.2036
+EL512,"3",EL,Xanthi,Ξάνθη,"2","2","1",EL512,24.8923,41.1586
+EL513,"3",EL,Rodopi,Ροδόπη,"2","3","1",EL513,25.5038,41.1102
+EL514,"3",EL,Drama,Δράμα,"2","2","2",EL514,24.204,41.3128
+EL515,"3",EL,"Thasos, Kavala","Θάσος, Καβάλα","3","3","1",EL515,24.3406,40.9786
+EL521,"3",EL,Imathia,Ημαθία,"2","2","1",EL521,22.2606,40.554
+EL522,"3",EL,Thessaloniki,Θεσσαλονίκη,"2","1","1",EL522,23.1252,40.695
+EL523,"3",EL,Kilkis,Κιλκίς,"4","3","2",EL523,22.7978,41.0527
+EL524,"3",EL,Pella,Πέλλα,"2","3","2",EL524,22.1313,40.8905
+EL525,"3",EL,Pieria,Πιερία,"4","2","1",EL525,22.4282,40.2691
+EL526,"3",EL,Serres,Σέρρες,"2","3","1",EL526,23.5376,41.0856
+EL527,"3",EL,Chalkidiki,Χαλκιδική,"2","3","1",EL527,23.4324,40.4128
+EL531,"3",EL,"Grevena, Kozani","Γρεβενά, Κοζάνη","3","3","3",EL531,21.6126,40.2023
+EL532,"3",EL,Kastoria,Καστοριά,"3","2","3",EL532,21.1485,40.4647
+EL533,"3",EL,Florina,Φλώρινα,"3","3","3",EL533,21.4299,40.7541
+EL541,"3",EL,"Arta, Preveza","Άρτα, Πρέβεζα","2","3","1",EL541,20.9663,39.2373
+EL542,"3",EL,Thesprotia,Θεσπρωτία,"3","3","1",EL542,20.4014,39.5259
+EL543,"3",EL,Ioannina,Ιωάννινα,"3","2","3",EL543,20.8113,39.8021
+EL611,"3",EL,"Karditsa, Trikala","Καρδίτσα, Τρίκαλα","2","3","3",EL611,21.7057,39.5008
+EL612,"3",EL,Larisa,Λάρισα,"2","2","1",EL612,22.4055,39.6943
+EL613,"3",EL,"Magnisia, Sporades","Μαγνησία, Σποράδες","2","2","1",EL613,22.6523,39.1903
+EL621,"3",EL,Zakynthos,Ζάκυνθος,"2","3","1",EL621,20.7642,37.7923
+EL622,"3",EL,Kerkyra,Κέρκυρα,"4","3","1",EL622,19.7805,39.6984
+EL623,"3",EL,"Ithaki, Kefallinia","Ιθάκη, Κεφαλληνία","3","3","1",EL623,20.5459,38.2459
+EL624,"3",EL,Lefkada,Λευκάδα,"3","3","1",EL624,20.6494,38.7128
+EL631,"3",EL,Aitoloakarnania,Αιτωλοακαρνανία,"2","3","1",EL631,21.3834,38.6849
+EL632,"3",EL,Achaia,Αχαΐα,"2","2","1",EL632,21.94,38.0533
+EL633,"3",EL,Ileia,Ηλεία,"4","3","1",EL633,21.5796,37.7287
+EL641,"3",EL,Voiotia,Βοιωτία,"3","3","1",EL641,23.0907,38.3684
+EL642,"3",EL,Evvoia,Εύβοια,"2","3","1",EL642,23.741,38.5324
+EL643,"3",EL,Evrytania,Ευρυτανία,"3","3","2",EL643,21.697,38.9853
+EL644,"3",EL,Fthiotida,Φθιώτιδα,"3","3","1",EL644,22.2503,39.0198
+EL645,"3",EL,Fokida,Φωκίδα,"3","3","1",EL645,22.2371,38.5439
+EL651,"3",EL,"Argolida, Arkadia","Αργολίδα, Αρκαδία","3","3","1",EL651,22.4963,37.5398
+EL652,"3",EL,Korinthia,Κορινθία,"2","2","1",EL652,22.7044,37.9177
+EL653,"3",EL,"Lakonia, Messinia","Λακωνία, Μεσσηνία","2","3","1",EL653,22.3124,37.0396
+ES111,"3",ES,A Coruña,A Coruña,"2","2","1",ES111,-8.4781,43.093
+ES112,"3",ES,Lugo,Lugo,"2","3","1",ES112,-7.4452,43.0167
+ES113,"3",ES,Ourense,Ourense,"3","3","3",ES113,-7.5385,42.1201
+ES114,"3",ES,Pontevedra,Pontevedra,"2","2","1",ES114,-8.4513,42.4335
+ES120,"3",ES,Asturias,Asturias,"2","2","1",ES120,-5.9972,43.3017
+ES130,"3",ES,Cantabria,Cantabria,"2","2","1",ES130,-4.0606,43.1875
+ES211,"3",ES,Araba/Álava,Araba/Álava,"3","1","3",ES211,-2.6816,42.8541
+ES212,"3",ES,Gipuzkoa,Gipuzkoa,"2","1","1",ES212,-2.1867,43.156
+ES213,"3",ES,Bizkaia,Bizkaia,"3","1","1",ES213,-2.8328,43.2576
+ES220,"3",ES,Navarra,Navarra,"3","2","3",ES220,-1.6508,42.7117
+ES230,"3",ES,La Rioja,La Rioja,"2","2","3",ES230,-2.4332,42.3132
+ES241,"3",ES,Huesca,Huesca,"2","2","3",ES241,-0.0859,42.2138
+ES242,"3",ES,Teruel,Teruel,"3","3","3",ES242,-0.8345,40.6511
+ES243,"3",ES,Zaragoza,Zaragoza,"2","1","3",ES243,-1.055,41.6013
+AL,"0",AL,SHQIPËRIA,SHQIPËRIA,"0","0","0",AL,20.0708,41.1389
+AT,"0",AT,ÖSTERREICH,ÖSTERREICH,"0","0","0",AT,14.1373,47.5847
+BE,"0",BE,BELGIQUE-BELGIË,BELGIQUE-BELGIË,"0","0","0",BE,4.6593,50.6429
+BG,"0",BG,BULGARIA,БЪЛГАРИЯ,"0","0","0",BG,25.235,42.7546
+CH,"0",CH,SCHWEIZ/SUISSE/SVIZZERA,SCHWEIZ/SUISSE/SVIZZERA,"0","0","3",CH,8.2129,46.9548
+CY,"0",CY,KYPROS,ΚΥΠΡΟΣ,"0","0","0",CY,33.1739,35.0284
+CZ,"0",CZ,ČESKÁ REPUBLIKA,ČESKÁ REPUBLIKA,"0","0","0",CZ,15.3276,49.7382
+DE,"0",DE,DEUTSCHLAND,DEUTSCHLAND,"0","0","0",DE,10.3786,51.0735
+DK,"0",DK,DANMARK,DANMARK,"0","0","0",DK,9.3193,56.0271
+EE,"0",EE,EESTI,EESTI,"0","0","0",EE,25.8548,58.6709
+EL,"0",EL,ELLADA,ΕΛΛΑΔΑ,"0","0","0",EL,22.5402,39.4982
+ES,"0",ES,ESPAÑA,ESPAÑA,"0","0","0",ES,-3.5521,40.3816
+FI,"0",FI,SUOMI / FINLAND,SUOMI / FINLAND,"0","0","0",FI,26.2795,64.4974
+FR,"0",FR,FRANCE,FRANCE,"0","0","0",FR,2.5059,46.6183
+HR,"0",HR,HRVATSKA,HRVATSKA,"0","0","0",HR,16.4894,43.756
+HU,"0",HU,MAGYARORSZÁG,MAGYARORSZÁG,"0","0","0",HU,19.4066,47.1616
+IE,"0",IE,IRELAND,IRELAND,"0","0","0",IE,-8.0902,53.1794
+IS,"0",IS,ÍSLAND,ÍSLAND,"0","0","0",IS,-18.8569,64.756
+IT,"0",IT,ITALIA,ITALIA,"0","0","0",IT,12.5322,42.837
+LI,"0",LI,LIECHTENSTEIN,LIECHTENSTEIN,"0","0","0",LI,9.5534,47.1383
+LT,"0",LT,LIETUVA,LIETUVA,"0","0","0",LT,23.9197,55.3351
+LU,"0",LU,LUXEMBOURG,LUXEMBOURG,"0","0","0",LU,6.0943,49.771
+LV,"0",LV,LATVIJA,LATVIJA,"0","0","0",LV,26.382,56.6829
+ME,"0",ME,CRNA GORA,ЦРНА ГОРА,"0","0","0",ME,19.269,42.7721
+MK,"0",MK,North Macedonia,North Macedonia,"0","0","3",MK,21.6966,41.5981
+MT,"0",MT,MALTA,MALTA,"0","0","0",MT,14.4312,35.886
+NL,"0",NL,NEDERLAND,NEDERLAND,"0","0","0",NL,5.646,52.2932
+NO,"0",NO,NORGE,NORGE,"0","0","0",NO,9.2981,61.3875
+PL,"0",PL,POLSKA,POLSKA,"0","0","0",PL,19.4066,52.1309
+PT,"0",PT,PORTUGAL,PORTUGAL,"0","0","0",PT,-7.9703,39.6868
+RO,"0",RO,ROMÂNIA,ROMÂNIA,"0","0","0",RO,24.9778,45.8361
+RS,"0",RS,REPUBLIKA SRBIJA /РЕПУБЛИКА СРБИЈА,REPUBLIKA SRBIJA /РЕПУБЛИКА СРБИЈА,"0","0","3",RS,20.7975,44.2355
+SE,"0",SE,SVERIGE,SVERIGE,"0","0","0",SE,14.4445,60.6418
+SI,"0",SI,SLOVENIJA,SLOVENIJA,"0","0","0",SI,14.8169,46.1277
+SK,"0",SK,SLOVENSKO,SLOVENSKO,"0","0","0",SK,19.4741,48.7042
+TR,"0",TR,TÜRKIYE,TÜRKIYE,"0","0","0",TR,35.4709,38.9923
+UK,"0",UK,UNITED KINGDOM,UNITED KINGDOM,"0","0","0",UK,-2.1086,53.2786
+AL0,"1",AL,SHQIPËRIA,SHQIPËRIA,"0","0","0",AL0,20.0708,41.1389
+AT1,"1",AT,OSTÖSTERREICH,OSTÖSTERREICH,"0","0","0",AT1,15.8797,48.1513
+AT2,"1",AT,SÜDÖSTERREICH,SÜDÖSTERREICH,"0","0","0",AT2,14.6061,47.0797
+AT3,"1",AT,WESTÖSTERREICH,WESTÖSTERREICH,"0","0","0",AT3,12.2455,47.2803
+BE1,"1",BE,RÉGION DE BRUXELLES-CAPITALE/BRUSSELS HOOFDSTEDELIJK GEWEST,RÉGION DE BRUXELLES-CAPITALE/BRUSSELS HOOFDSTEDELIJK GEWEST,"0","0","0",BE1,4.3569,50.8401
+BE2,"1",BE,VLAAMS GEWEST,VLAAMS GEWEST,"0","0","0",BE2,4.9852,51.1013
+BE3,"1",BE,RÉGION WALLONNE,RÉGION WALLONNE,"0","0","0",BE3,4.8252,50.4595
+BG3,"1",BG,SEVERNA I YUGOIZTOCHNA BULGARIA,СЕВЕРНА И ЮГОИЗТОЧНА БЪЛГАРИЯ,"0","0","0",BG3,25.8853,43.1525
+BG4,"1",BG,YUGOZAPADNA I YUZHNA TSENTRALNA BULGARIA,ЮГОЗАПАДНА И ЮЖНА ЦЕНТРАЛНА БЪЛГАРИЯ,"0","0","0",BG4,24.1941,42.1249
+CH0,"1",CH,SCHWEIZ/SUISSE/SVIZZERA,SCHWEIZ/SUISSE/SVIZZERA,"0","0","0",CH0,8.2129,46.9548
+CY0,"1",CY,Kypros,ΚΥΠΡΟΣ,"0","0","0",CY0,33.1739,35.0284
+CZ0,"1",CZ,ČESKÁ REPUBLIKA,ČESKÁ REPUBLIKA,"0","0","0",CZ0,15.3276,49.7382
+DE1,"1",DE,BADEN-WÜRTTEMBERG,BADEN-WÜRTTEMBERG,"0","0","0",DE1,9.0509,48.5342
+DE2,"1",DE,BAYERN,BAYERN,"0","0","0",DE2,11.4213,48.9474
+DE3,"1",DE,BERLIN,BERLIN,"0","0","0",DE3,13.4022,52.5005
+DE4,"1",DE,BRANDENBURG,BRANDENBURG,"0","0","0",DE4,12.1381,53.0836
+DE5,"1",DE,BREMEN,BREMEN,"0","0","0",DE5,8.7877,53.1065
+DE6,"1",DE,HAMBURG,HAMBURG,"0","0","0",DE6,10.01,53.5392
+DE7,"1",DE,HESSEN,HESSEN,"0","0","0",DE7,9.0325,50.6006
+DE8,"1",DE,MECKLENBURG-VORPOMMERN,MECKLENBURG-VORPOMMERN,"0","0","0",DE8,12.4675,53.7138
+DE9,"1",DE,NIEDERSACHSEN,NIEDERSACHSEN,"0","0","0",DE9,9.1837,52.7621
+DEA,"1",DE,NORDRHEIN-WESTFALEN,NORDRHEIN-WESTFALEN,"0","0","0",DEA,7.5507,51.4749
+DEB,"1",DE,RHEINLAND-PFALZ,RHEINLAND-PFALZ,"0","0","0",DEB,7.9074,49.5093
+DEC,"1",DE,SAARLAND,SAARLAND,"0","0","0",DEC,6.957,49.3922
+DED,"1",DE,SACHSEN,SACHSEN,"0","0","0",DED,13.3332,51.0583
+DEE,"1",DE,SACHSEN-ANHALT,SACHSEN-ANHALT,"0","0","0",DEE,11.6996,52.011
+DEF,"1",DE,SCHLESWIG-HOLSTEIN,SCHLESWIG-HOLSTEIN,"0","0","0",DEF,9.8212,54.0804
+DEG,"1",DE,THÜRINGEN,THÜRINGEN,"0","0","0",DEG,11.0218,50.9044
+DK0,"1",DK,DANMARK,DANMARK,"0","0","0",DK0,9.3193,56.0271
+EE0,"1",EE,EESTI,EESTI,"0","0","0",EE0,25.8548,58.6709
+EL3,"1",EL,ATTIKI,ATTIKΗ,"0","0","0",EL3,23.8114,38.0548
+EL4,"1",EL,"NISIA AIGAIOU, KRITI","NΗΣΙΑ ΑΙΓΑΙΟΥ, KΡΗΤΗ","0","0","0",EL4,24.8224,35.2248
+EL5,"1",EL,VOREIA ELLADA,ΒΟΡΕΙΑ ΕΛΛΑΔΑ,"0","0","0",EL5,23.3044,40.7986
+EL6,"1",EL,KENTRIKI ELLADA,ΚΕΝΤΡΙΚΗ ΕΛΛΑΔΑ,"0","0","0",EL6,22.198,39.0501
+ES1,"1",ES,NOROESTE,NOROESTE,"0","0","0",ES1,-7.6953,42.8192
+ES2,"1",ES,NORESTE,NORESTE,"0","0","0",ES2,-1.1301,41.8962
+ES3,"1",ES,COMUNIDAD DE MADRID,COMUNIDAD DE MADRID,"0","0","0",ES3,-3.7119,40.5008
+ES4,"1",ES,CENTRO (ES),CENTRO (ES),"0","0","0",ES4,-5.8894,40.5556
+ES5,"1",ES,ESTE,ESTE,"0","0","0",ES5,2.0051,41.8473
+ES6,"1",ES,SUR,SUR,"0","0","0",ES6,-4.261,37.5155
+ES7,"1",ES,CANARIAS,CANARIAS,"0","0","0",ES7,-16.5646,28.2457
+FI1,"1",FI,MANNER-SUOMI,MANNER-SUOMI,"0","0","0",FI1,26.2795,64.4974
+FI2,"1",FI,ÅLAND,ÅLAND,"0","0","0",FI2,20.0931,60.2653
+FR1,"1",FR,ILE-DE-FRANCE,ILE-DE-FRANCE,"0","0","0",FR1,2.5234,48.7196
+FRB,"1",FR,CENTRE - VAL DE LOIRE,CENTRE - VAL DE LOIRE,"0","0","0",FRB,1.6776,47.4811
+FRC,"1",FR,BOURGOGNE-FRANCHE-COMTÉ,BOURGOGNE-FRANCHE-COMTÉ,"0","0","0",FRC,4.8083,47.2297
+FRD,"1",FR,NORMANDIE,NORMANDIE,"0","0","0",FRD,0.0112,48.8652
+FRE,"1",FR,NORD-PAS DE CALAIS-PICARDIE,NORD-PAS DE CALAIS-PICARDIE,"0","0","0",FRE,2.7686,49.9703
+FRF,"1",FR,ALSACE-CHAMPAGNE-ARDENNE-LORRAINE,ALSACE-CHAMPAGNE-ARDENNE-LORRAINE,"0","0","0",FRF,5.6267,48.6914
+FRG,"1",FR,PAYS DE LA LOIRE,PAYS DE LA LOIRE,"0","0","0",FRG,-0.7959,47.4936
+FRH,"1",FR,BRETAGNE,BRETAGNE,"0","0","0",FRH,-2.7883,48.1657
+FRI,"1",FR,AQUITAINE-LIMOUSIN-POITOU-CHARENTES,AQUITAINE-LIMOUSIN-POITOU-CHARENTES,"0","0","0",FRI,0.3897,45.4822
+FRJ,"1",FR,LANGUEDOC-ROUSSILLON-MIDI-PYRÉNÉES,LANGUEDOC-ROUSSILLON-MIDI-PYRÉNÉES,"0","0","0",FRJ,2.1442,43.707
+FRK,"1",FR,AUVERGNE-RHÔNE-ALPES,AUVERGNE-RHÔNE-ALPES,"0","0","0",FRK,4.5927,45.2815
+FRL,"1",FR,PROVENCE-ALPES-CÔTE D’AZUR,PROVENCE-ALPES-CÔTE D’AZUR,"0","0","0",FRL,6.0641,43.9629
+FRM,"1",FR,CORSE,CORSE,"0","0","0",FRM,9.0976,42.1267
+FRY,"1",FR,RUP FR - RÉGIONS ULTRAPÉRIPHÉRIQUES FRANÇAISES,RUP FR - RÉGIONS ULTRAPÉRIPHÉRIQUES FRANÇAISES,"0","0","0",FRY,-53.2263,3.9221
+HR0,"1",HR,HRVATSKA,HRVATSKA,"0","0","0",HR0,16.4894,43.756
+HU1,"1",HU,KÖZÉP-MAGYARORSZÁG,KÖZÉP-MAGYARORSZÁG,"0","0","0",HU1,19.3111,47.4258
+HU2,"1",HU,DUNÁNTÚL,DUNÁNTÚL,"0","0","0",HU2,17.7321,46.8766
+HU3,"1",HU,ALFÖLD ÉS ÉSZAK,ALFÖLD ÉS ÉSZAK,"0","0","0",HU3,20.8493,47.3933
+IE0,"1",IE,IRELAND,IRELAND,"0","0","0",IE0,-8.0902,53.1794
+IS0,"1",IS,ÍSLAND,ÍSLAND,"0","0","0",IS0,-18.8569,64.756
+ITC,"1",IT,NORD-OVEST,NORD-OVEST,"0","0","0",ITC,8.7282,45.2602
+ITF,"1",IT,SUD,SUD,"0","0","0",ITF,15.5982,40.7741
+ITG,"1",IT,ISOLE,ISOLE,"0","0","0",ITG,14.1658,37.5704
+ITH,"1",IT,NORD-EST,NORD-EST,"0","0","0",ITH,11.5837,45.5007
+ITI,"1",IT,CENTRO (IT),CENTRO (IT),"0","0","0",ITI,12.1426,42.9451
+LI0,"1",LI,LIECHTENSTEIN,LIECHTENSTEIN,"0","0","0",LI0,9.5534,47.1383
+LT0,"1",LT,LIETUVA,LIETUVA,"0","0","0",LT0,23.9197,55.3351
+LU0,"1",LU,LUXEMBOURG,LUXEMBOURG,"0","0","0",LU0,6.0943,49.771
+LV0,"1",LV,LATVIJA,LATVIJA,"0","0","0",LV0,26.382,56.6829
+ME0,"1",ME,CRNA GORA,ЦРНА ГОРА,"0","0","0",ME0,19.269,42.7721
+MK0,"1",MK,Severna Makedonija,Severna Makedonija,"0","0","0",MK0,21.6966,41.5981
+MT0,"1",MT,MALTA,MALTA,"0","0","0",MT0,14.4312,35.886
+NL1,"1",NL,NOORD-NEDERLAND,NOORD-NEDERLAND,"0","0","0",NL1,6.3039,53.0445
+NL2,"1",NL,OOST-NEDERLAND,OOST-NEDERLAND,"0","0","0",NL2,5.9995,52.2953
+NL3,"1",NL,WEST-NEDERLAND,WEST-NEDERLAND,"0","0","0",NL3,4.7278,52.1805
+NL4,"1",NL,ZUID-NEDERLAND,ZUID-NEDERLAND,"0","0","0",NL4,5.4154,51.4562
+NO0,"1",NO,NORGE,NORGE,"0","0","0",NO0,9.2981,61.3875
+PL2,"1",PL,MAKROREGION POŁUDNIOWY,MAKROREGION POŁUDNIOWY,"0","0","0",PL2,19.6955,50.0734
+PL4,"1",PL,MAKROREGION PÓŁNOCNO-ZACHODNI,MAKROREGION PÓŁNOCNO-ZACHODNI,"0","0","0",PL4,16.2697,52.7258
+PL5,"1",PL,MAKROREGION POŁUDNIOWO-ZACHODNI,MAKROREGION POŁUDNIOWO-ZACHODNI,"0","0","0",PL5,16.8902,50.959
+PL6,"1",PL,MAKROREGION PÓŁNOCNY,MAKROREGION PÓŁNOCNY,"0","0","0",PL6,18.2223,53.6879
+PL7,"1",PL,MAKROREGION CENTRALNY,MAKROREGION CENTRALNY,"0","0","0",PL7,19.9395,51.2825
+PL8,"1",PL,MAKROREGION WSCHODNI,MAKROREGION WSCHODNI,"0","0","0",PL8,22.6288,50.58
+PL9,"1",PL,MAKROREGION WOJEWÓDZTWO MAZOWIECKIE,MAKROREGION WOJEWÓDZTWO MAZOWIECKIE,"0","0","0",PL9,21.0921,52.3675
+PT1,"1",PT,CONTINENTE,CONTINENTE,"0","0","0",PT1,-7.9703,39.6868
+PT2,"1",PT,REGIÃO AUTÓNOMA DOS AÇORES,REGIÃO AUTÓNOMA DOS AÇORES,"0","0","0",PT2,-25.3659,37.7846
+PT3,"1",PT,REGIÃO AUTÓNOMA DA MADEIRA,REGIÃO AUTÓNOMA DA MADEIRA,"0","0","0",PT3,-16.9503,32.7326
+RO1,"1",RO,MACROREGIUNEA UNU,MACROREGIUNEA UNU,"0","0","0",RO1,24.0679,46.7109
+RO2,"1",RO,MACROREGIUNEA DOI,MACROREGIUNEA DOI,"0","0","0",RO2,27.2368,46.1422
+RO3,"1",RO,MACROREGIUNEA TREI,MACROREGIUNEA TREI,"0","0","0",RO3,25.8887,44.5999
+RO4,"1",RO,MACROREGIUNEA PATRU,MACROREGIUNEA PATRU,"0","0","0",RO4,22.793,45.1822
+RS1,"1",RS,Srbija - sever,Србија - север,"0","0","0",RS1,20.1296,45.3065
+RS2,"1",RS,Srbija - jug,Србија - југ,"0","0","0",RS2,21.1282,43.7155
+SE1,"1",SE,ÖSTRA SVERIGE,ÖSTRA SVERIGE,"0","0","0",SE1,16.3811,59.264
+SE2,"1",SE,SÖDRA SVERIGE,SÖDRA SVERIGE,"0","0","0",SE2,13.8937,57.4031
+SE3,"1",SE,NORRA SVERIGE,NORRA SVERIGE,"0","0","0",SE3,17.9907,65.4426
+SI0,"1",SI,SLOVENIJA,SLOVENIJA,"0","0","0",SI0,14.8169,46.1277
+SK0,"1",SK,SLOVENSKO,SLOVENSKO,"0","0","0",SK0,19.4741,48.7042
+TR1,"1",TR,ISTANBUL,ISTANBUL,"0","0","0",TR1,28.4372,41.2186
+TR2,"1",TR,BATI MARMARA,BATI MARMARA,"0","0","0",TR2,27.5552,39.8295
+TR3,"1",TR,EGE,EGE,"0","0","0",TR3,28.9162,38.3116
+TR4,"1",TR,DOGU MARMARA,DOGU MARMARA,"0","0","0",TR4,30.4583,40.2257
+TR5,"1",TR,BATI ANADOLU,BATI ANADOLU,"0","0","0",TR5,32.6695,38.5109
+TR6,"1",TR,AKDENIZ,AKDENIZ,"0","0","0",TR6,33.4793,36.5454
+TR7,"1",TR,ORTA ANADOLU,ORTA ANADOLU,"0","0","0",TR7,35.6542,39.1198
+TR8,"1",TR,BATI KARADENIZ,BATI KARADENIZ,"0","0","0",TR8,34.5682,40.997
+TR9,"1",TR,DOGU KARADENIZ,DOGU KARADENIZ,"0","0","0",TR9,39.6499,40.7675
+TRA,"1",TR,KUZEYDOGU ANADOLU,KUZEYDOGU ANADOLU,"0","0","0",TRA,41.8165,40.0453
+TRB,"1",TR,ORTADOGU ANADOLU,ORTADOGU ANADOLU,"0","0","0",TRB,42.9302,38.4148
+TRC,"1",TR,GÜNEYDOGU ANADOLU,GÜNEYDOGU ANADOLU,"0","0","0",TRC,39.9543,37.5691
+UKC,"1",UK,NORTH EAST (ENGLAND),NORTH EAST (ENGLAND),"0","0","0",UKC,-1.8954,55.0288
+UKD,"1",UK,NORTH WEST (ENGLAND),NORTH WEST (ENGLAND),"0","0","0",UKD,-3.1445,54.5081
+UKE,"1",UK,YORKSHIRE AND THE HUMBER,YORKSHIRE AND THE HUMBER,"0","0","0",UKE,-1.2945,53.9865
+UKF,"1",UK,EAST MIDLANDS (ENGLAND),EAST MIDLANDS (ENGLAND),"0","0","0",UKF,-0.8249,52.9216
+UKG,"1",UK,WEST MIDLANDS (ENGLAND),WEST MIDLANDS (ENGLAND),"0","0","0",UKG,-2.2577,52.4833
+UKH,"1",UK,EAST OF ENGLAND,EAST OF ENGLAND,"0","0","0",UKH,0.5219,52.2646
+UKI,"1",UK,LONDON,LONDON,"0","0","0",UKI,-0.0983,51.4149
+UKJ,"1",UK,SOUTH EAST (ENGLAND),SOUTH EAST (ENGLAND),"0","0","0",UKJ,-1.125,51.4257
+UKK,"1",UK,SOUTH WEST (ENGLAND),SOUTH WEST (ENGLAND),"0","0","0",UKK,-2.4879,51.2108
+UKL,"1",UK,WALES,WALES,"0","0","0",UKL,-3.6942,52.3015
+UKM,"1",UK,SCOTLAND,SCOTLAND,"0","0","0",UKM,-4.0265,56.5484
+UKN,"1",UK,NORTHERN IRELAND,NORTHERN IRELAND,"0","0","0",UKN,-6.6253,54.6306
+AL01,"2",AL,Veri,Veri,"0","0","0",AL01,19.9783,41.9425
+AL02,"2",AL,Qender,Qender,"0","0","0",AL02,20.0573,41.1369
+AL03,"2",AL,Jug,Jug,"0","0","0",AL03,20.1546,40.4698
+AT11,"2",AT,Burgenland,Burgenland,"0","0","0",AT11,16.2874,47.2361
+AT12,"2",AT,Niederösterreich,Niederösterreich,"0","0","0",AT12,15.7601,48.2589
+AT13,"2",AT,Wien,Wien,"0","0","0",AT13,16.3932,48.2028
+AT21,"2",AT,Kärnten,Kärnten,"0","0","0",AT21,14.4629,46.7161
+AT22,"2",AT,Steiermark,Steiermark,"0","0","0",AT22,15.5247,47.1818
+AT31,"2",AT,Oberösterreich,Oberösterreich,"0","0","0",AT31,13.9503,48.143
+AT32,"2",AT,Salzburg,Salzburg,"0","0","0",AT32,13.0002,47.2823
+AT33,"2",AT,Tirol,Tirol,"0","0","0",AT33,10.7635,47.1809
+AT34,"2",AT,Vorarlberg,Vorarlberg,"0","0","0",AT34,9.8851,47.2366
+BE10,"2",BE,Région de Bruxelles-Capitale/ Brussels Hoofdstedelijk Gewest,Région de Bruxelles-Capitale/ Brussels Hoofdstedelijk Gewest,"0","0","0",BE10,4.3569,50.8401
+BE21,"2",BE,Prov. Antwerpen,Prov. Antwerpen,"0","0","0",BE21,4.7245,51.2212
+BE22,"2",BE,Prov. Limburg (BE),Prov. Limburg (BE),"0","0","0",BE22,5.4121,50.9817
+BE23,"2",BE,Prov. Oost-Vlaanderen,Prov. Oost-Vlaanderen,"0","0","0",BE23,3.8091,51.0316
+BE24,"2",BE,Prov. Vlaams-Brabant,Prov. Vlaams-Brabant,"0","0","0",BE24,4.5725,50.8737
+BE25,"2",BE,Prov. West-Vlaanderen,Prov. West-Vlaanderen,"0","0","0",BE25,3.0517,51.0178
+BE31,"2",BE,Prov. Brabant Wallon,Prov. Brabant Wallon,"0","0","0",BE31,4.5923,50.6659
+BE32,"2",BE,Prov. Hainaut,Prov. Hainaut,"0","0","0",BE32,3.917,50.5255
+BE33,"2",BE,Prov. Liège,Prov. Liège,"0","0","0",BE33,5.731,50.5203
+BE34,"2",BE,Prov. Luxembourg (BE),Prov. Luxembourg (BE),"0","0","0",BE34,5.5211,49.9568
+BE35,"2",BE,Prov. Namur,Prov. Namur,"0","0","0",BE35,4.867,50.2736
+BG31,"2",BG,Severozapaden,Северозападен,"0","0","0",BG31,23.8763,43.4201
+BG32,"2",BG,Severen tsentralen,Северен централен,"0","0","0",BG32,25.593,43.2223
+BG33,"2",BG,Severoiztochen,Североизточен,"0","0","0",BG33,27.3512,43.3648
+BG34,"2",BG,Yugoiztochen,Югоизточен,"0","0","0",BG34,26.5534,42.4799
+BG41,"2",BG,Yugozapaden,Югозападен,"0","0","0",BG41,23.3357,42.3235
+BG42,"2",BG,Yuzhen tsentralen,Южен централен,"0","0","0",BG42,25.1669,41.7421
+CH01,"2",CH,Région lémanique,Région lémanique,"0","0","0",CH01,7.2169,46.1381
+CH02,"2",CH,Espace Mittelland,Espace Mittelland,"0","0","0",CH02,7.4335,46.9075
+CH03,"2",CH,Nordwestschweiz,Nordwestschweiz,"0","0","0",CH03,8.1976,47.4201
+CH04,"2",CH,Zürich,Zürich,"0","0","0",CH04,8.6461,47.4074
+CH05,"2",CH,Ostschweiz,Ostschweiz,"0","0","0",CH05,9.5701,46.7402
+CH06,"2",CH,Zentralschweiz,Zentralschweiz,"0","0","0",CH06,8.44,46.9706
+CH07,"2",CH,Ticino,Ticino,"0","0","0",CH07,8.8082,46.3045
+CY00,"2",CY,Kypros,Κύπρος,"0","0","0",CY00,33.1739,35.0284
+CZ01,"2",CZ,Praha,Praha,"0","0","0",CZ01,14.463,50.0663
+CZ02,"2",CZ,Střední Čechy,Střední Čechy,"0","0","0",CZ02,14.4549,49.7423
+CZ03,"2",CZ,Jihozápad,Jihozápad,"0","0","0",CZ03,13.9941,49.1276
+CZ04,"2",CZ,Severozápad,Severozápad,"0","0","0",CZ04,13.4304,50.3978
+CZ05,"2",CZ,Severovýchod,Severovýchod,"0","0","0",CZ05,15.7801,50.2782
+CZ06,"2",CZ,Jihovýchod,Jihovýchod,"0","0","0",CZ06,16.1756,49.2407
+CZ07,"2",CZ,Střední Morava,Střední Morava,"0","0","0",CZ07,17.4358,49.539
+CZ08,"2",CZ,Moravskoslezsko,Moravskoslezsko,"0","0","0",CZ08,18.0098,49.8029
+DE11,"2",DE,Stuttgart,Stuttgart,"0","0","0",DE11,9.624,49.0149
+DE12,"2",DE,Karlsruhe,Karlsruhe,"0","0","0",DE12,8.6727,49.0144
+DE13,"2",DE,Freiburg,Freiburg,"0","0","0",DE13,8.2189,48.0237
+DE14,"2",DE,Tübingen,Tübingen,"0","0","0",DE14,9.5041,48.1316
+DE21,"2",DE,Oberbayern,Oberbayern,"0","0","0",DE21,11.7436,48.1065
+DE22,"2",DE,Niederbayern,Niederbayern,"0","0","0",DE22,12.8023,48.7009
+DE23,"2",DE,Oberpfalz,Oberpfalz,"0","0","0",DE23,12.1142,49.3959
+DE24,"2",DE,Oberfranken,Oberfranken,"0","0","0",DE24,11.383,50.0492
+DE25,"2",DE,Mittelfranken,Mittelfranken,"0","0","0",DE25,10.7811,49.3524
+DE26,"2",DE,Unterfranken,Unterfranken,"0","0","0",DE26,9.9396,50.0119
+DE27,"2",DE,Schwaben,Schwaben,"0","0","0",DE27,10.5277,48.168
+DE30,"2",DE,Berlin,Berlin,"0","0","0",DE30,13.4022,52.5005
+DE40,"2",DE,Brandenburg,Brandenburg,"0","0","0",DE40,12.1381,53.0836
+DE50,"2",DE,Bremen,Bremen,"0","0","0",DE50,8.7877,53.1065
+DE60,"2",DE,Hamburg,Hamburg,"0","0","0",DE60,10.01,53.5392
+DE71,"2",DE,Darmstadt,Darmstadt,"0","0","0",DE71,8.7603,50.0613
+DE72,"2",DE,Gießen,Gießen,"0","0","0",DE72,8.7915,50.7134
+DE73,"2",DE,Kassel,Kassel,"0","0","0",DE73,9.4556,51.0515
+DE80,"2",DE,Mecklenburg-Vorpommern,Mecklenburg-Vorpommern,"0","0","0",DE80,12.4675,53.7138
+DE91,"2",DE,Braunschweig,Braunschweig,"0","0","0",DE91,10.3557,52.0498
+DE92,"2",DE,Hannover,Hannover,"0","0","0",DE92,9.3691,52.3963
+DE93,"2",DE,Lüneburg,Lüneburg,"0","0","0",DE93,10.0416,52.9952
+DE94,"2",DE,Weser-Ems,Weser-Ems,"0","0","0",DE94,7.7849,52.9118
+DEA1,"2",DE,Düsseldorf,Düsseldorf,"0","0","0",DEA1,6.5988,51.4326
+DEA2,"2",DE,Köln,Köln,"0","0","0",DEA2,6.8087,50.8283
+DEA3,"2",DE,Münster,Münster,"0","0","0",DEA3,7.4022,51.9458
+DEA4,"2",DE,Detmold,Detmold,"0","0","0",DEA4,8.7809,51.9362
+DEA5,"2",DE,Arnsberg,Arnsberg,"0","0","0",DEA5,7.9928,51.3119
+DEB1,"2",DE,Koblenz,Koblenz,"0","0","0",DEB1,7.5124,50.2543
+DEB2,"2",DE,Trier,Trier,"0","0","0",DEB2,6.703,49.9762
+DEB3,"2",DE,Rheinhessen-Pfalz,Rheinhessen-Pfalz,"0","0","0",DEB3,7.9492,49.4587
+DEC0,"2",DE,Saarland,Saarland,"0","0","0",DEC0,6.957,49.3922
+DED2,"2",DE,Dresden,Dresden,"0","0","0",DED2,14.1267,51.1809
+DED4,"2",DE,Chemnitz,Chemnitz,"0","0","0",DED4,12.8143,50.7323
+DED5,"2",DE,Leipzig,Leipzig,"0","0","0",DED5,12.6704,51.3583
+DEE0,"2",DE,Sachsen-Anhalt,Sachsen-Anhalt,"0","0","0",DEE0,11.6996,52.011
+DEF0,"2",DE,Schleswig-Holstein,Schleswig-Holstein,"0","0","0",DEF0,9.8212,54.0804
+DEG0,"2",DE,Thüringen,Thüringen,"0","0","0",DEG0,11.0218,50.9044
+DK01,"2",DK,Hovedstaden,Hovedstaden,"0","0","0",DK01,12.3296,55.8618
+DK02,"2",DK,Sjælland,Sjælland,"0","0","0",DK02,11.7509,55.4376
+DK03,"2",DK,Syddanmark,Syddanmark,"0","0","0",DK03,9.0569,55.4038
+DK04,"2",DK,Midtjylland,Midtjylland,"0","0","0",DK04,9.3996,56.2457
+DK05,"2",DK,Nordjylland,Nordjylland,"0","0","0",DK05,9.953,57.2719
+EE00,"2",EE,Eesti,Eesti,"0","0","0",EE00,25.8548,58.6709
+EL30,"2",EL,Attiki,Aττική,"0","0","0",EL30,23.8114,38.0548
+EL41,"2",EL,Voreio Aigaio,Βόρειο Αιγαίο,"0","0","0",EL41,26.0189,39.1974
+EL42,"2",EL,Notio Aigaio,Νότιο Αιγαίο,"0","0","0",EL42,27.9147,36.1601
+EL43,"2",EL,Kriti,Κρήτη,"0","0","0",EL43,24.8224,35.2248
+EL51,"2",EL,"Anatoliki Makedonia, Thraki","Aνατολική Μακεδονία, Θράκη","0","0","0",EL51,25.8503,41.0757
+EL52,"2",EL,Kentriki Makedonia,Κεντρική Μακεδονία,"0","0","0",EL52,22.9126,40.7891
+EL53,"2",EL,Dytiki Makedonia,Δυτική Μακεδονία,"0","0","0",EL53,21.4875,40.3646
+EL54,"2",EL,Ipeiros,Ήπειρος,"0","0","0",EL54,20.7851,39.6039
+EL61,"2",EL,Thessalia,Θεσσαλία,"0","0","0",EL61,22.1493,39.5533
+EL62,"2",EL,Ionia Nisia,Ιόνια Νησιά,"0","0","0",EL62,20.5459,38.2459
+EL63,"2",EL,Dytiki Ellada,Δυτική Ελλάδα,"0","0","0",EL63,21.5005,37.8708
+EL64,"2",EL,Sterea Ellada,Στερεά Ελλάδα,"0","0","0",EL64,22.7247,38.558
+EL65,"2",EL,Peloponnisos,Πελοπόννησος,"0","0","0",EL65,22.463,37.397
+ES11,"2",ES,Galicia,Galicia,"0","0","0",ES11,-7.8957,42.7431
+ES12,"2",ES,Principado de Asturias,Principado de Asturias,"0","0","0",ES12,-5.9972,43.3017
+ES13,"2",ES,Cantabria,Cantabria,"0","0","0",ES13,-4.0606,43.1875
+ES21,"2",ES,País Vasco,País Vasco,"0","0","0",ES21,-2.5863,43.0651
+ES22,"2",ES,Comunidad Foral de Navarra,Comunidad Foral de Navarra,"0","0","0",ES22,-1.6508,42.7117
+ES23,"2",ES,La Rioja,La Rioja,"0","0","0",ES23,-2.4332,42.3132
+ES24,"2",ES,Aragón,Aragón,"0","0","0",ES24,-0.6751,41.507
+ES30,"2",ES,Comunidad de Madrid,Comunidad de Madrid,"0","0","0",ES30,-3.7119,40.5008
+ES41,"2",ES,Castilla y León,Castilla y León,"0","0","0",ES41,-4.8172,41.7447
+ES42,"2",ES,Castilla-La Mancha,Castilla-La Mancha,"0","0","0",ES42,-3.1358,39.2748
+ES43,"2",ES,Extremadura,Extremadura,"0","0","0",ES43,-6.1601,39.1892
+ES51,"2",ES,Cataluña,Cataluña,"0","0","0",ES51,1.5078,41.8005
+ES52,"2",ES,Comunidad Valenciana,Comunidad Valenciana,"0","0","0",ES52,-0.54,39.3945
+ES53,"2",ES,Illes Balears,Illes Balears,"0","0","0",ES53,2.9634,39.6075
+ES61,"2",ES,Andalucía,Andalucía,"0","0","0",ES61,-4.5804,37.4607
+ES62,"2",ES,Región de Murcia,Región de Murcia,"0","0","0",ES62,-1.4907,37.9999
+ES63,"2",ES,Ciudad Autónoma de Ceuta,Ciudad Autónoma de Ceuta,"0","0","0",ES63,-5.3543,35.8958
+ES64,"2",ES,Ciudad Autónoma de Melilla,Ciudad Autónoma de Melilla,"0","0","0",ES64,-2.9509,35.297
+ES70,"2",ES,Canarias,Canarias,"0","0","0",ES70,-16.5646,28.2457
+FI19,"2",FI,Länsi-Suomi,Länsi-Suomi,"0","0","0",FI19,23.7142,62.3222
+FI1B,"2",FI,Helsinki-Uusimaa,Helsinki-Uusimaa,"0","0","0",FI1B,24.7512,60.3817
+FI1C,"2",FI,Etelä-Suomi,Etelä-Suomi,"0","0","0",FI1C,25.7012,61.2225
+FI1D,"2",FI,Pohjois- ja Itä-Suomi,Pohjois- ja Itä-Suomi,"0","0","0",FI1D,27.0844,65.6366
+FI20,"2",FI,Åland,Åland,"0","0","0",FI20,20.0931,60.2653
+FR10,"2",FR,Ile-de-France,Ile-de-France,"0","0","0",FR10,2.5234,48.7196
+FRB0,"2",FR,Centre - Val de Loire,Centre - Val de Loire,"0","0","0",FRB0,1.6776,47.4811
+FRC1,"2",FR,Bourgogne,Bourgogne,"0","0","0",FRC1,4.1531,47.2537
+FRC2,"2",FR,Franche-Comté,Franche-Comté,"0","0","0",FRC2,6.0795,47.1972
+FRD1,"2",FR,Basse-Normandie,Basse-Normandie,"0","0","0",FRD1,-0.4742,48.9092
+FRD2,"2",FR,Haute-Normandie,Haute-Normandie,"0","0","0",FRD2,1.0286,49.3909
+FRE1,"2",FR,Nord-Pas de Calais,Nord-Pas de Calais,"0","0","0",FRE1,2.7098,50.4789
+FRE2,"2",FR,Picardie,Picardie,"0","0","0",FRE2,2.7999,49.6406
+FRF1,"2",FR,Alsace,Alsace,"0","0","0",FRF1,7.4515,48.3183
+FRF2,"2",FR,Champagne-Ardenne,Champagne-Ardenne,"0","0","0",FRF2,4.5387,48.7435
+FRF3,"2",FR,Lorraine,Lorraine,"0","0","0",FRF3,6.1359,48.755
+FRG0,"2",FR,Pays de la Loire,Pays de la Loire,"0","0","0",FRG0,-0.7959,47.4936
+FRH0,"2",FR,Bretagne,Bretagne,"0","0","0",FRH0,-2.7883,48.1657
+FRI1,"2",FR,Aquitaine,Aquitaine,"0","0","0",FRI1,-0.2186,44.3694
+FRI2,"2",FR,Limousin,Limousin,"0","0","0",FRI2,1.7204,45.7692
+FRI3,"2",FR,Poitou-Charentes,Poitou-Charentes,"0","0","0",FRI3,-0.0669,46.1644
+FRJ1,"2",FR,Languedoc-Roussillon,Languedoc-Roussillon,"0","0","0",FRJ1,3.25,43.6073
+FRJ2,"2",FR,Midi-Pyrénées,Midi-Pyrénées,"0","0","0",FRJ2,1.4911,43.771
+FRK1,"2",FR,Auvergne,Auvergne,"0","0","0",FRK1,3.1584,45.6611
+FRK2,"2",FR,Rhône-Alpes,Rhône-Alpes,"0","0","0",FRK2,5.3448,45.442
+FRL0,"2",FR,Provence-Alpes-Côte d’Azur,Provence-Alpes-Côte d’Azur,"0","0","0",FRL0,6.0641,43.9629
+FRM0,"2",FR,Corse,Corse,"0","0","0",FRM0,9.0976,42.1267
+FRY1,"2",FR,Guadeloupe,Guadeloupe,"0","0","0",FRY1,-61.6877,16.1776
+FRY2,"2",FR,Martinique,Martinique,"0","0","0",FRY2,-60.9149,14.5657
+FRY3,"2",FR,Guyane,Guyane,"0","0","0",FRY3,-53.2263,3.9221
+FRY4,"2",FR,La Réunion,La Réunion,"0","0","0",FRY4,55.5328,-21.1271
+FRY5,"2",FR,Mayotte,Mayotte,"0","0","0",FRY5,45.1546,-12.8294
+HR03,"2",HR,Jadranska Hrvatska,Jadranska Hrvatska,"0","0","0",HR03,15.5424,44.4289
+HR04,"2",HR,Kontinentalna Hrvatska,Kontinentalna Hrvatska,"0","0","0",HR04,17.0076,45.5914
+HU11,"2",HU,Budapest,Budapest,"0","0","0",HU11,19.1023,47.4819
+HU12,"2",HU,Pest,Pest,"0","0","0",HU12,19.04,47.1995
+HU21,"2",HU,Közép-Dunántúl,Közép-Dunántúl,"0","0","0",HU21,18.1148,47.2298
+HU22,"2",HU,Nyugat-Dunántúl,Nyugat-Dunántúl,"0","0","0",HU22,16.9918,47.1895
+HU23,"2",HU,Dél-Dunántúl,Dél-Dunántúl,"0","0","0",HU23,18.0211,46.3423
+HU31,"2",HU,Észak-Magyarország,Észak-Magyarország,"0","0","0",HU31,20.5247,47.9955
+HU32,"2",HU,Észak-Alföld,Észak-Alföld,"0","0","0",HU32,21.3424,47.5817
+HU33,"2",HU,Dél-Alföld,Dél-Alföld,"0","0","0",HU33,19.5165,46.585
+IE04,"2",IE,Northern and Western,Northern and Western,"0","0","0",IE04,-8.358,53.7512
+IE05,"2",IE,Southern,Southern,"0","0","0",IE05,-8.3667,52.3625
+IE06,"2",IE,Eastern and Midland,Eastern and Midland,"0","0","0",IE06,-7.0156,53.3622
+IS00,"2",IS,Ísland,Ísland,"0","0","0",IS00,-18.8569,64.756
+ITC1,"2",IT,Piemonte,Piemonte,"0","0","0",ITC1,7.9189,45.0634
+ITC2,"2",IT,Valle d'Aosta/Vallée d'Aoste,Valle d'Aosta/Vallée d'Aoste,"0","0","0",ITC2,7.3925,45.7281
+ITC3,"2",IT,Liguria,Liguria,"0","0","0",ITC3,8.1521,44.1573
+ITC4,"2",IT,Lombardia,Lombardia,"0","0","0",ITC4,9.773,45.6127
+ITF1,"2",IT,Abruzzo,Abruzzo,"0","0","0",ITF1,13.8714,42.2341
+ITF2,"2",IT,Molise,Molise,"0","0","0",ITF2,14.5396,41.5949
+ITF3,"2",IT,Campania,Campania,"0","0","0",ITF3,14.7373,41.0387
+ITF4,"2",IT,Puglia,Puglia,"0","0","0",ITF4,16.5847,41.0043
+ITF5,"2",IT,Basilicata,Basilicata,"0","0","0",ITF5,16.0794,40.5157
+ITF6,"2",IT,Calabria,Calabria,"0","0","0",ITF6,16.3822,39.1604
+ITG1,"2",IT,Sicilia,Sicilia,"0","0","0",ITG1,14.1658,37.5704
+ITG2,"2",IT,Sardegna,Sardegna,"0","0","0",ITG2,9.0348,40.0775
+ITH1,"2",IT,Provincia Autonoma di Bolzano/Bozen,Provincia Autonoma di Bolzano/Bozen,"0","0","0",ITH1,11.4241,46.7053
+ITH2,"2",IT,Provincia Autonoma di Trento,Provincia Autonoma di Trento,"0","0","0",ITH2,10.859,46.1313
+ITH3,"2",IT,Veneto,Veneto,"0","0","0",ITH3,11.8546,45.661
+ITH4,"2",IT,Friuli-Venezia Giulia,Friuli-Venezia Giulia,"0","0","0",ITH4,13.0495,46.1665
+ITH5,"2",IT,Emilia-Romagna,Emilia-Romagna,"0","0","0",ITH5,11.0296,44.5224
+ITI1,"2",IT,Toscana,Toscana,"0","0","0",ITI1,11.1306,43.4794
+ITI2,"2",IT,Umbria,Umbria,"0","0","0",ITI2,12.4893,42.9717
+ITI3,"2",IT,Marche,Marche,"0","0","0",ITI3,13.153,43.3477
+ITI4,"2",IT,Lazio,Lazio,"0","0","0",ITI4,12.7501,41.9898
+LI00,"2",LI,Liechtenstein,Liechtenstein,"0","0","0",LI00,9.5534,47.1383
+LT01,"2",LT,Sostinės regionas,Sostinės regionas,"0","0","0",LT01,25.2289,54.8166
+LT02,"2",LT,Vidurio ir vakarų Lietuvos regionas,Vidurio ir vakarų Lietuvos regionas,"0","0","0",LT02,23.6621,55.4314
+LU00,"2",LU,Luxembourg,Luxembourg,"0","0","0",LU00,6.0943,49.771
+LV00,"2",LV,Latvija,Latvija,"0","0","0",LV00,26.382,56.6829
+ME00,"2",ME,Crna Gora,Црна Гора,"0","0","0",ME00,19.269,42.7721
+MK00,"2",MK,Severna Makedonija,Severna Makedonija,"0","0","0",MK00,21.6966,41.5981
+MT00,"2",MT,Malta,Malta,"0","0","0",MT00,14.4312,35.886
+NL11,"2",NL,Groningen,Groningen,"0","0","0",NL11,6.6929,53.2675
+NL12,"2",NL,Friesland (NL),Friesland (NL),"0","0","0",NL12,5.8002,53.0649
+NL13,"2",NL,Drenthe,Drenthe,"0","0","0",NL13,6.6292,52.8638
+NL21,"2",NL,Overijssel,Overijssel,"0","0","0",NL21,6.4397,52.4452
+NL22,"2",NL,Gelderland,Gelderland,"0","0","0",NL22,5.9378,52.0672
+NL23,"2",NL,Flevoland,Flevoland,"0","0","0",NL23,5.4817,52.5438
+NL31,"2",NL,Utrecht,Utrecht,"0","0","0",NL31,5.2003,52.0749
+NL32,"2",NL,Noord-Holland,Noord-Holland,"0","0","0",NL32,4.9123,52.5945
+NL33,"2",NL,Zuid-Holland,Zuid-Holland,"0","0","0",NL33,4.4867,51.9388
+NL34,"2",NL,Zeeland,Zeeland,"0","0","0",NL34,3.7883,51.3073
+NL41,"2",NL,Noord-Brabant,Noord-Brabant,"0","0","0",NL41,5.4595,51.5461
+NL42,"2",NL,Limburg (NL),Limburg (NL),"0","0","0",NL42,5.9292,51.1854
+NO01,"2",NO,Oslo og Akershus,Oslo og Akershus,"0","0","0",NO01,11.1277,60.0118
+NO02,"2",NO,Hedmark og Oppland,Hedmark og Oppland,"0","0","0",NO02,10.4214,61.4284
+NO03,"2",NO,Sør-Østlandet,Sør-Østlandet,"0","0","0",NO03,8.8892,59.8798
+NO04,"2",NO,Agder og Rogaland,Agder og Rogaland,"0","0","0",NO04,7.2237,58.8281
+NO05,"2",NO,Vestlandet,Vestlandet,"0","0","0",NO05,6.8971,61.4404
+NO06,"2",NO,Trøndelag,Trøndelag,"0","0","0",NO06,11.543,63.4618
+NO07,"2",NO,Nord-Norge,Nord-Norge,"0","0","0",NO07,21.5272,69.6179
+PL21,"2",PL,Małopolskie,Małopolskie,"0","0","0",PL21,20.269,49.8534
+PL22,"2",PL,Śląskie,Śląskie,"0","0","0",PL22,19.0098,50.3338
+PL41,"2",PL,Wielkopolskie,Wielkopolskie,"0","0","0",PL41,16.6724,52.4977
+PL42,"2",PL,Zachodniopomorskie,Zachodniopomorskie,"0","0","0",PL42,15.5715,53.5694
+PL43,"2",PL,Lubuskie,Lubuskie,"0","0","0",PL43,15.3339,52.1704
+PL51,"2",PL,Dolnośląskie,Dolnośląskie,"0","0","0",PL51,16.4117,51.0982
+PL52,"2",PL,Opolskie,Opolskie,"0","0","0",PL52,17.9145,50.6548
+PL61,"2",PL,Kujawsko-pomorskie,Kujawsko-pomorskie,"0","0","0",PL61,18.5077,53.08
+PL62,"2",PL,Warmińsko-mazurskie,Warmińsko-mazurskie,"0","0","0",PL62,20.8301,53.8611
+PL63,"2",PL,Pomorskie,Pomorskie,"0","0","0",PL63,18.0655,54.2886
+PL71,"2",PL,Łódzkie,Łódzkie,"0","0","0",PL71,19.4079,51.6087
+PL72,"2",PL,Świętokrzyskie,Świętokrzyskie,"0","0","0",PL72,20.7865,50.7667
+PL81,"2",PL,Lubelskie,Lubelskie,"0","0","0",PL81,22.888,51.2295
+PL82,"2",PL,Podkarpackie,Podkarpackie,"0","0","0",PL82,22.1554,49.9638
+PL84,"2",PL,Podlaskie,Podlaskie,"0","0","0",PL84,22.9446,53.2669
+PL91,"2",PL,Warszawski stołeczny,Warszawski stołeczny,"0","0","0",PL91,21.1387,52.2328
+PL92,"2",PL,Mazowiecki regionalny,Mazowiecki regionalny,"0","0","0",PL92,21.2088,51.5285
+PT11,"2",PT,Norte,Norte,"0","0","0",PT11,-7.6933,41.4531
+PT15,"2",PT,Algarve,Algarve,"0","0","0",PT15,-8.1299,37.2026
+PT16,"2",PT,Centro (PT),Centro (PT),"0","0","0",PT16,-7.9946,40.1425
+PT17,"2",PT,Área Metropolitana de Lisboa,Área Metropolitana de Lisboa,"0","0","0",PT17,-8.8878,38.6221
+PT18,"2",PT,Alentejo,Alentejo,"0","0","0",PT18,-8.0017,38.4793
+PT20,"2",PT,Região Autónoma dos Açores,Região Autónoma dos Açores,"0","0","0",PT20,-25.3659,37.7846
+PT30,"2",PT,Região Autónoma da Madeira,Região Autónoma da Madeira,"0","0","0",PT30,-16.9503,32.7326
+RO11,"2",RO,Nord-Vest,Nord-Vest,"0","0","0",RO11,23.3458,47.225
+RO12,"2",RO,Centru,Centru,"0","0","0",RO12,24.8114,46.186
+RO21,"2",RO,Nord-Est,Nord-Est,"0","0","0",RO21,26.6947,47.0893
+RO22,"2",RO,Sud-Est,Sud-Est,"0","0","0",RO22,26.9744,45.4531
+RO31,"2",RO,Sud - Muntenia,Sud - Muntenia,"0","0","0",RO31,25.3492,44.5192
+RO32,"2",RO,Bucureşti - Ilfov,Bucureşti - Ilfov,"0","0","0",RO32,26.144,44.5139
+RO41,"2",RO,Sud-Vest Oltenia,Sud-Vest Oltenia,"0","0","0",RO41,23.6859,44.5996
+RO42,"2",RO,Vest,Vest,"0","0","0",RO42,21.9876,45.7133
+RS11,"2",RS,Beogradski region,Београдски регион,"0","0","0",RS11,20.427,44.6593
+RS12,"2",RS,Region Vojvodine,Регион Војводине,"0","0","0",RS12,20.0822,45.4071
+RS21,"2",RS,Region Šumadije i Zapadne Srbije,Регион Шумадије и Западне Србије,"0","0","0",RS21,20.3387,43.8543
+RS22,"2",RS,Region Južne i Istočne Srbije,Регион Јужне и Источне Србије,"0","0","0",RS22,21.9268,43.5784
+SE11,"2",SE,Stockholm,Stockholm,"0","0","0",SE11,17.7435,59.3515
+SE12,"2",SE,Östra Mellansverige,Östra Mellansverige,"0","0","0",SE12,16.1149,59.2274
+SE21,"2",SE,Småland med öarna,Småland med öarna,"0","0","0",SE21,14.9913,57.2133
+SE22,"2",SE,Sydsverige,Sydsverige,"0","0","0",SE22,13.5247,55.9113
+SE23,"2",SE,Västsverige,Västsverige,"0","0","0",SE23,12.872,58.1109
+SE31,"2",SE,Norra Mellansverige,Norra Mellansverige,"0","0","0",SE31,14.5481,60.7468
+SE32,"2",SE,Mellersta Norrland,Mellersta Norrland,"0","0","0",SE32,15.1767,63.215
+SE33,"2",SE,Övre Norrland,Övre Norrland,"0","0","0",SE33,19.2906,66.2411
+SI03,"2",SI,Vzhodna Slovenija,Vzhodna Slovenija,"0","0","0",SI03,15.2754,46.1724
+SI04,"2",SI,Zahodna Slovenija,Zahodna Slovenija,"0","0","0",SI04,14.2228,46.1532
+SK01,"2",SK,Bratislavský kraj,Bratislavský kraj,"0","0","0",SK01,17.1607,48.2998
+SK02,"2",SK,Západné Slovensko,Západné Slovensko,"0","0","0",SK02,18.0701,48.4057
+SK03,"2",SK,Stredné Slovensko,Stredné Slovensko,"0","0","0",SK03,19.3647,48.796
+SK04,"2",SK,Východné Slovensko,Východné Slovensko,"0","0","0",SK04,21.2527,48.9446
+TR10,"2",TR,Istanbul,Istanbul,"0","0","0",TR10,28.4372,41.2186
+TR21,"2",TR,"Tekirdag, Edirne, Kirklareli","Tekirdag, Edirne, Kirklareli","0","0","0",TR21,27.1771,41.3638
+TR22,"2",TR,"Balikesir, Çanakkale","Balikesir, Çanakkale","0","0","0",TR22,27.5552,39.8295
+TR31,"2",TR,Izmir,Izmir,"0","0","0",TR31,27.4507,38.2226
+TR32,"2",TR,"Aydin, Denizli, Mugla","Aydin, Denizli, Mugla","0","0","0",TR32,28.6686,37.4862
+TR33,"2",TR,"Manisa, Afyonkarahisar, Kütahya, Usak","Manisa, Afyonkarahisar, Kütahya, Usak","0","0","0",TR33,29.3921,39.0271
+TR41,"2",TR,"Bursa, Eskisehir, Bilecik","Bursa, Eskisehir, Bilecik","0","0","0",TR41,30.0705,40.0322
+TR42,"2",TR,"Kocaeli, Sakarya, Düzce, Bolu, Yalova","Kocaeli, Sakarya, Düzce, Bolu, Yalova","0","0","0",TR42,30.9257,40.7122
+TR51,"2",TR,Ankara,Ankara,"0","0","0",TR51,32.5952,39.7927
+TR52,"2",TR,"Konya, Karaman","Konya, Karaman","0","0","0",TR52,32.7078,37.853
+TR61,"2",TR,"Antalya, Isparta, Burdur","Antalya, Isparta, Burdur","0","0","0",TR61,30.9185,37.6071
+TR62,"2",TR,"Adana, Mersin","Adana, Mersin","0","0","0",TR62,35.4737,37.1632
+TR63,"2",TR,"Hatay, Kahramanmaras, Osmaniye","Hatay, Kahramanmaras, Osmaniye","0","0","0",TR63,36.7707,37.8993
+TR71,"2",TR,"Kirikkale, Aksaray, Nigde, Nevsehir, Kirsehir","Kirikkale, Aksaray, Nigde, Nevsehir, Kirsehir","0","0","0",TR71,34.2196,38.7572
+TR72,"2",TR,"Kayseri, Sivas, Yozgat","Kayseri, Sivas, Yozgat","0","0","0",TR72,36.3987,39.3094
+TR81,"2",TR,"Zonguldak, Karabük, Bartin","Zonguldak, Karabük, Bartin","0","0","0",TR81,32.3423,41.2956
+TR82,"2",TR,"Kastamonu, Çankiri, Sinop","Kastamonu, Çankiri, Sinop","0","0","0",TR82,33.863,41.3029
+TR83,"2",TR,"Samsun, Tokat, Çorum, Amasya","Samsun, Tokat, Çorum, Amasya","0","0","0",TR83,35.6272,40.7051
+TR90,"2",TR,Trabzon,Trabzon,"0","0","0",TR90,39.6499,40.7675
+TRA1,"2",TR,"Erzurum, Erzincan, Bayburt","Erzurum, Erzincan, Bayburt","0","0","0",TRA1,40.7694,39.9544
+TRA2,"2",TR,"Agri, Kars, Igdir, Ardahan","Agri, Kars, Igdir, Ardahan","0","0","0",TRA2,43.1979,40.1624
+TRB1,"2",TR,"Malatya, Elazig, Bingöl, Tunceli","Malatya, Elazig, Bingöl, Tunceli","0","0","0",TRB1,39.3088,38.816
+TRB2,"2",TR,"Van, Mus, Bitlis, Hakkari","Van, Mus, Bitlis, Hakkari","0","0","0",TRB2,43.1179,38.4148
+TRC1,"2",TR,"Gaziantep, Adiyaman, Kilis","Gaziantep, Adiyaman, Kilis","0","0","0",TRC1,37.1299,36.9478
+TRC2,"2",TR,"Sanliurfa, Diyarbakir","Sanliurfa, Diyarbakir","0","0","0",TRC2,40.5043,38.0763
+TRC3,"2",TR,"Mardin, Batman, Sirnak, Siirt","Mardin, Batman, Sirnak, Siirt","0","0","0",TRC3,41.6596,37.5875
+UKC1,"2",UK,Tees Valley and Durham,Tees Valley and Durham,"0","0","0",UKC1,-1.7005,54.6684
+UKC2,"2",UK,Northumberland and Tyne and Wear,Northumberland and Tyne and Wear,"0","0","0",UKC2,-2.0012,55.2213
+UKD1,"2",UK,Cumbria,Cumbria,"0","0","0",UKD1,-2.8724,54.5973
+UKD3,"2",UK,Greater Manchester,Greater Manchester,"0","0","0",UKD3,-2.2804,53.5121
+UKD4,"2",UK,Lancashire,Lancashire,"0","0","0",UKD4,-2.5722,53.849
+UKD6,"2",UK,Cheshire,Cheshire,"0","0","0",UKD6,-2.5124,53.206
+UKD7,"2",UK,Merseyside,Merseyside,"0","0","0",UKD7,-2.822,53.4125
+UKE1,"2",UK,East Yorkshire and Northern Lincolnshire,East Yorkshire and Northern Lincolnshire,"0","0","0",UKE1,-0.5216,53.8955
+UKE2,"2",UK,North Yorkshire,North Yorkshire,"0","0","0",UKE2,-1.4153,54.182
+UKE3,"2",UK,South Yorkshire,South Yorkshire,"0","0","0",UKE3,-1.3437,53.4546
+UKE4,"2",UK,West Yorkshire,West Yorkshire,"0","0","0",UKE4,-1.7053,53.7283
+UKF1,"2",UK,Derbyshire and Nottinghamshire,Derbyshire and Nottinghamshire,"0","0","0",UKF1,-1.4046,53.0705
+UKF2,"2",UK,"Leicestershire, Rutland and Northamptonshire","Leicestershire, Rutland and Northamptonshire","0","0","0",UKF2,-0.9539,52.5014
+UKF3,"2",UK,Lincolnshire,Lincolnshire,"0","0","0",UKF3,-0.2667,53.0953
+UKG1,"2",UK,"Herefordshire, Worcestershire and Warwickshire","Herefordshire, Worcestershire and Warwickshire","0","0","0",UKG1,-2.1682,52.2119
+UKG2,"2",UK,Shropshire and Staffordshire,Shropshire and Staffordshire,"0","0","0",UKG2,-2.4072,52.7367
+UKG3,"2",UK,West Midlands,West Midlands,"0","0","0",UKG3,-1.9345,52.4987
+UKH1,"2",UK,East Anglia,East Anglia,"0","0","0",UKH1,0.7184,52.4502
+UKH2,"2",UK,Bedfordshire and Hertfordshire,Bedfordshire and Hertfordshire,"0","0","0",UKH2,-0.3242,51.9386
+UKH3,"2",UK,Essex,Essex,"0","0","0",UKH3,0.4809,51.799
+UKI3,"2",UK,Inner London - West,Inner London - West,"0","0","0",UKI3,-0.1657,51.5276
+UKI4,"2",UK,Inner London - East,Inner London - East,"0","0","0",UKI4,-0.1042,51.5701
+UKI5,"2",UK,Outer London - East and North East,Outer London - East and North East,"0","0","0",UKI5,0.1893,51.5615
+UKI6,"2",UK,Outer London - South,Outer London - South,"0","0","0",UKI6,-0.0813,51.3773
+UKI7,"2",UK,Outer London - West and North West,Outer London - West and North West,"0","0","0",UKI7,-0.3338,51.5394
+UKJ1,"2",UK,"Berkshire, Buckinghamshire and Oxfordshire","Berkshire, Buckinghamshire and Oxfordshire","0","0","0",UKJ1,-1.0968,51.7136
+UKJ2,"2",UK,"Surrey, East and West Sussex","Surrey, East and West Sussex","0","0","0",UKJ2,-0.2235,51.0593
+UKJ3,"2",UK,Hampshire and Isle of Wight,Hampshire and Isle of Wight,"0","0","0",UKJ3,-1.2729,51.0785
+UKJ4,"2",UK,Kent,Kent,"0","0","0",UKJ4,0.6693,51.2181
+UKK1,"2",UK,"Gloucestershire, Wiltshire and Bristol/Bath area","Gloucestershire, Wiltshire and Bristol/Bath area","0","0","0",UKK1,-2.1142,51.5451
+UKK2,"2",UK,Dorset and Somerset,Dorset and Somerset,"0","0","0",UKK2,-2.6741,50.9956
+UKK3,"2",UK,Cornwall and Isles of Scilly,Cornwall and Isles of Scilly,"0","0","0",UKK3,-4.7762,50.4401
+UKK4,"2",UK,Devon,Devon,"0","0","0",UKK4,-3.8006,50.7449
+UKL1,"2",UK,West Wales and The Valleys,West Wales and The Valleys,"0","0","0",UKL1,-4.0889,52.0585
+UKL2,"2",UK,East Wales,East Wales,"0","0","0",UKL2,-3.3049,52.2896
+UKM5,"2",UK,North Eastern Scotland,North Eastern Scotland,"0","0","0",UKM5,-2.6876,57.2021
+UKM6,"2",UK,Highlands and Islands,Highlands and Islands,"0","0","0",UKM6,-4.7091,57.2257
+UKM7,"2",UK,Eastern Scotland,Eastern Scotland,"0","0","0",UKM7,-4.181,56.4433
+UKM8,"2",UK,West Central Scotland,West Central Scotland,"0","0","0",UKM8,-4.6016,55.8578
+UKM9,"2",UK,Southern Scotland,Southern Scotland,"0","0","0",UKM9,-3.6962,55.3604
+UKN0,"2",UK,Northern Ireland,Northern Ireland,"0","0","0",UKN0,-6.6253,54.6306
+AL013,"3",AL,Kukës,Kukës,"4","3","1",AL013,20.4035,42.0651
+AL015,"3",AL,Shkodër,Shkodër,"4","2","1",AL015,19.7021,42.163
+AL014,"3",AL,Lezhë,Lezhë,"4","3","3",AL014,19.8478,41.7838
+AL011,"3",AL,Dibër,Dibër,"4","3","3",AL011,20.2561,41.6039
+AL012,"3",AL,Durrës,Durrës,"4","2","1",AL012,19.7131,41.4939
+AL021,"3",AL,Elbasan,Elbasan,"4","3","2",AL021,20.1979,41.0678
+AL022,"3",AL,Tiranë,Tiranë,"4","1","1",AL022,19.7988,41.2646
+AL034,"3",AL,Korcë,Korcë,"4","2","1",AL034,20.6724,40.6225
+AL031,"3",AL,Berat,Berat,"4","3","3",AL031,20.1211,40.6243
+AL032,"3",AL,Fier,Fier,"4","3","2",AL032,19.6189,40.7642
+AL035,"3",AL,Vlorë,Vlorë,"4","3","2",AL035,19.8062,40.1597
+AL033,"3",AL,Gjirokastër,Gjirokastër,"4","3","1",AL033,20.1935,40.2
+AT111,"3",AT,Mittelburgenland,Mittelburgenland,"4","3","3",AT111,16.4448,47.5001
+AT112,"3",AT,Nordburgenland,Nordburgenland,"4","3","3",AT112,16.7761,47.8602
+AT113,"3",AT,Südburgenland,Südburgenland,"4","3","3",AT113,16.259,47.1655
+AT121,"3",AT,Mostviertel-Eisenwurzen,Mostviertel-Eisenwurzen,"2","3","3",AT121,15.0028,48.0522
+AT122,"3",AT,Niederösterreich-Süd,Niederösterreich-Süd,"3","2","3",AT122,15.9126,47.7944
+AT123,"3",AT,Sankt Pölten,Sankt Pölten,"2","3","3",AT123,15.6659,48.2154
+AT124,"3",AT,Waldviertel,Waldviertel,"4","3","3",AT124,15.3195,48.6361
+AT125,"3",AT,Weinviertel,Weinviertel,"4","3","3",AT125,16.0527,48.6264
+AT126,"3",AT,Wiener Umland/Nordteil,Wiener Umland/Nordteil,"4","1","3",AT126,16.6651,48.2982
+AT127,"3",AT,Wiener Umland/Südteil,Wiener Umland/Südteil,"4","2","3",AT127,16.4916,48.0397
+AT130,"3",AT,Wien,Wien,"4","1","3",AT130,16.3932,48.2028
+AT211,"3",AT,Klagenfurt-Villach,Klagenfurt-Villach,"3","2","3",AT211,14.2323,46.5808
+AT212,"3",AT,Oberkärnten,Oberkärnten,"3","3","3",AT212,13.3207,46.8369
+AT213,"3",AT,Unterkärnten,Unterkärnten,"3","3","3",AT213,14.7855,46.7785
+AT221,"3",AT,Graz,Graz,"3","2","3",AT221,15.362,47.1285
+AT222,"3",AT,Liezen,Liezen,"3","3","3",AT222,13.9612,47.4744
+AT223,"3",AT,Östliche Obersteiermark,Östliche Obersteiermark,"3","2","3",AT223,15.2058,47.5082
+AT224,"3",AT,Oststeiermark,Oststeiermark,"2","3","3",AT224,15.8146,47.1731
+AT225,"3",AT,West- und Südsteiermark,West- und Südsteiermark,"3","3","3",AT225,15.2485,46.873
+AT226,"3",AT,Westliche Obersteiermark,Westliche Obersteiermark,"3","3","3",AT226,14.4333,47.1806
+AT311,"3",AT,Innviertel,Innviertel,"4","3","3",AT311,13.5892,48.3447
+AT312,"3",AT,Linz-Wels,Linz-Wels,"4","2","3",AT312,14.1394,48.2306
+AT313,"3",AT,Mühlviertel,Mühlviertel,"3","3","3",AT313,14.652,48.3995
+AT314,"3",AT,Steyr-Kirchdorf,Steyr-Kirchdorf,"3","3","3",AT314,14.3256,47.8533
+AT315,"3",AT,Traunviertel,Traunviertel,"3","3","3",AT315,13.6794,47.8468
+AT321,"3",AT,Lungau,Lungau,"3","3","3",AT321,13.6571,47.1441
+AT322,"3",AT,Pinzgau-Pongau,Pinzgau-Pongau,"3","3","3",AT322,12.9093,47.3085
+AT323,"3",AT,Salzburg und Umgebung,Salzburg und Umgebung,"3","2","3",AT323,13.2114,47.7486
+AT331,"3",AT,Außerfern,Außerfern,"3","3","3",AT331,10.5848,47.4163
+AT332,"3",AT,Innsbruck,Innsbruck,"3","1","3",AT332,11.346,47.2034
+AT333,"3",AT,Osttirol,Osttirol,"3","3","3",AT333,12.5203,46.8935
+AT334,"3",AT,Tiroler Oberland,Tiroler Oberland,"3","3","3",AT334,10.7048,47.0679
+AT335,"3",AT,Tiroler Unterland,Tiroler Unterland,"3","3","3",AT335,12.0047,47.3871
+AT341,"3",AT,Bludenz-Bregenzer Wald,Bludenz-Bregenzer Wald,"3","3","3",AT341,9.9563,47.162
+AT342,"3",AT,Rheintal-Bodenseegebiet,Rheintal-Bodenseegebiet,"3","1","3",AT342,9.7221,47.3907
+BE100,"3",BE,Arr. de Bruxelles-Capitale/Arr. van Brussel-Hoofdstad,Arr. de Bruxelles-Capitale/Arr. van Brussel-Hoofdstad,"4","1","3",BE100,4.3569,50.8401
+BE211,"3",BE,Arr. Antwerpen,Arr. Antwerpen,"4","1","1",BE211,4.4941,51.2778
+BE212,"3",BE,Arr. Mechelen,Arr. Mechelen,"4","1","2",BE212,4.6359,51.0866
+BE213,"3",BE,Arr. Turnhout,Arr. Turnhout,"4","2","3",BE213,4.9502,51.2451
+BE221,"3",BE,Arr. Hasselt,Arr. Hasselt,"4","1","3",BE221,5.2723,50.955
+BE222,"3",BE,Arr. Maaseik,Arr. Maaseik,"4","2","3",BE222,5.5062,51.1363
+BE223,"3",BE,Arr. Tongeren,Arr. Tongeren,"4","2","3",BE223,5.5278,50.8431
+BE231,"3",BE,Arr. Aalst,Arr. Aalst,"4","1","2",BE231,3.9358,50.8772
+BE232,"3",BE,Arr. Dendermonde,Arr. Dendermonde,"4","1","2",BE232,4.0444,51.0409
+BE233,"3",BE,Arr. Eeklo,Arr. Eeklo,"4","2","2",BE233,3.5567,51.211
+BE234,"3",BE,Arr. Gent,Arr. Gent,"4","2","2",BE234,3.6607,51.0631
+BE235,"3",BE,Arr. Oudenaarde,Arr. Oudenaarde,"4","2","3",BE235,3.6328,50.8264
+BE236,"3",BE,Arr. Sint-Niklaas,Arr. Sint-Niklaas,"4","1","1",BE236,4.1423,51.1982
+BE241,"3",BE,Arr. Halle-Vilvoorde,Arr. Halle-Vilvoorde,"4","1","3",BE241,4.2611,50.7655
+BE242,"3",BE,Arr. Leuven,Arr. Leuven,"4","2","3",BE242,4.8498,50.891
+BE251,"3",BE,Arr. Brugge,Arr. Brugge,"4","2","1",BE251,3.2248,51.2013
+BE252,"3",BE,Arr. Diksmuide,Arr. Diksmuide,"4","2","2",BE252,2.89,51.0184
+BE253,"3",BE,Arr. Ieper,Arr. Ieper,"4","2","2",BE253,2.8697,50.8525
+BE254,"3",BE,Arr. Kortrijk,Arr. Kortrijk,"4","1","3",BE254,3.3066,50.8223
+BE255,"3",BE,Arr. Oostende,Arr. Oostende,"4","2","1",BE255,2.9506,51.1788
+BE256,"3",BE,Arr. Roeselare,Arr. Roeselare,"4","2","2",BE256,3.1187,50.9405
+BE257,"3",BE,Arr. Tielt,Arr. Tielt,"4","2","2",BE257,3.302,50.9991
+BE258,"3",BE,Arr. Veurne,Arr. Veurne,"4","2","1",BE258,2.6747,51.052
+BE310,"3",BE,Arr. Nivelles,Arr. Nivelles,"4","2","3",BE310,4.5923,50.6659
+BE321,"3",BE,Arr. Ath,Arr. Ath,"4","3","3",BE321,3.8135,50.6175
+BE322,"3",BE,Arr. Charleroi,Arr. Charleroi,"4","1","3",BE322,4.4222,50.4588
+BE323,"3",BE,Arr. Mons,Arr. Mons,"4","1","3",BE323,3.8846,50.4503
+BE324,"3",BE,Arr. Mouscron,Arr. Mouscron,"4","1","3",BE324,2.941,50.7571
+BE325,"3",BE,Arr. Soignies,Arr. Soignies,"4","2","3",BE325,4.0533,50.5958
+BE326,"3",BE,Arr. Thuin,Arr. Thuin,"4","2","3",BE326,4.2514,50.1983
+BE327,"3",BE,Arr. Tournai,Arr. Tournai,"4","3","3",BE327,3.4469,50.6318
+BE331,"3",BE,Arr. Huy,Arr. Huy,"4","3","3",BE331,5.3435,50.4874
+BE332,"3",BE,Arr. Liège,Arr. Liège,"4","1","3",BE332,5.6051,50.6197
+BE334,"3",BE,Arr. Waremme,Arr. Waremme,"4","3","3",BE334,5.2075,50.6727
+BE335,"3",BE,Arr. Verviers - communes francophones,Arr. Verviers - communes francophones,"2","2","3",BE335,5.912,50.4966
+BE336,"3",BE,Bezirk Verviers - Deutschsprachige Gemeinschaft,Bezirk Verviers - Deutschsprachige Gemeinschaft,"4","3","3",BE336,6.1862,50.3331
+BE341,"3",BE,Arr. Arlon,Arr. Arlon,"4","3","3",BE341,5.7483,49.6853
+BE342,"3",BE,Arr. Bastogne,Arr. Bastogne,"4","3","3",BE342,5.7523,50.0877
+BE343,"3",BE,Arr. Marche-en-Famenne,Arr. Marche-en-Famenne,"4","3","3",BE343,5.4892,50.2341
+BE344,"3",BE,Arr. Neufchâteau,Arr. Neufchâteau,"4","3","3",BE344,5.3112,49.8942
+BE345,"3",BE,Arr. Virton,Arr. Virton,"4","3","3",BE345,5.516,49.6521
+BE351,"3",BE,Arr. Dinant,Arr. Dinant,"4","3","3",BE351,5.0465,50.1804
+BE352,"3",BE,Arr. Namur,Arr. Namur,"4","2","3",BE352,4.8503,50.4665
+BE353,"3",BE,Arr. Philippeville,Arr. Philippeville,"4","3","3",BE353,4.5623,50.1578
+BG311,"3",BG,Vidin,Видин,"4","3","3",BG311,22.7031,43.8087
+BG312,"3",BG,Montana,Монтана,"4","2","3",BG312,23.1985,43.4924
+BG313,"3",BG,Vratsa,Враца,"4","2","3",BG313,23.7802,43.4228
+BG314,"3",BG,Pleven,Плевен,"4","2","3",BG314,24.6049,43.4768
+BG315,"3",BG,Lovech,Ловеч,"3","2","3",BG315,24.5493,43.0136
+BG321,"3",BG,Veliko Tarnovo,Велико Търново,"4","2","3",BG321,25.6302,43.1868
+BG322,"3",BG,Gabrovo,Габрово,"3","2","3",BG322,25.2208,42.9354
+BG323,"3",BG,Ruse,Русе,"4","2","3",BG323,25.9955,43.6698
+BG324,"3",BG,Razgrad,Разград,"4","3","3",BG324,26.6046,43.6342
+BG325,"3",BG,Silistra,Силистра,"4","3","3",BG325,27.0298,43.9371
+BG331,"3",BG,Varna,Варна,"4","2","1",BG331,27.5903,43.1761
+BG332,"3",BG,Dobrich,Добрич,"4","2","1",BG332,27.9421,43.6481
+BG333,"3",BG,Shumen,Шумен,"4","2","3",BG333,26.9958,43.2954
+BG334,"3",BG,Targovishte,Търговище,"4","3","3",BG334,26.3486,43.2288
+BG341,"3",BG,Burgas,Бургас,"4","2","1",BG341,27.2974,42.5062
+BG342,"3",BG,Sliven,Сливен,"2","2","3",BG342,26.2476,42.6827
+BG343,"3",BG,Yambol,Ямбол,"4","2","3",BG343,26.6421,42.2708
+BG344,"3",BG,Stara Zagora,Стара Загора,"2","2","3",BG344,25.5653,42.4441
+BG411,"3",BG,Sofia (stolitsa),София (столица),"3","1","3",BG411,23.3339,42.6747
+BG412,"3",BG,Sofia,София,"3","3","3",BG412,23.5847,42.2713
+BG413,"3",BG,Blagoevgrad,Благоевград,"3","2","3",BG413,23.441,41.7249
+BG414,"3",BG,Pernik,Перник,"3","2","3",BG414,22.8539,42.6307
+BG415,"3",BG,Kyustendil,Кюстендил,"3","2","3",BG415,22.9279,42.229
+BG421,"3",BG,Plovdiv,Пловдив,"2","2","3",BG421,24.8162,42.271
+BG422,"3",BG,Haskovo,Хасково,"4","2","3",BG422,25.9061,41.8458
+BG423,"3",BG,Pazardzhik,Пазарджик,"3","2","3",BG423,24.1462,42.1239
+BG424,"3",BG,Smolyan,Смолян,"3","3","3",BG424,24.6599,41.6299
+BG425,"3",BG,Kardzhali,Кърджали,"3","3","3",BG425,25.4055,41.5186
+CH011,"3",CH,Vaud,Vaud,"3","2","0",CH011,6.6207,46.5526
+CH012,"3",CH,Valais,Valais,"3","2","0",CH012,7.6429,46.2136
+CH013,"3",CH,Genève,Genève,"1","1","0",CH013,6.0889,46.2037
+CH021,"3",CH,Bern,Bern,"3","2","0",CH021,7.6225,46.8218
+CH022,"3",CH,Freiburg,Freiburg,"3","2","0",CH022,7.0955,46.6994
+CH023,"3",CH,Solothurn,Solothurn,"3","1","0",CH023,7.6783,47.3306
+CH024,"3",CH,Neuchâtel,Neuchâtel,"3","2","0",CH024,6.7941,46.9925
+CH025,"3",CH,Jura,Jura,"3","3","0",CH025,7.1556,47.3557
+CH031,"3",CH,Basel-Stadt,Basel-Stadt,"4","1","0",CH031,7.5933,47.5612
+CH032,"3",CH,Basel-Landschaft,Basel-Landschaft,"3","1","0",CH032,7.7339,47.4581
+CH033,"3",CH,Aargau,Aargau,"3","1","0",CH033,8.1543,47.4112
+CH040,"3",CH,Zürich,Zürich,"3","1","0",CH040,8.6461,47.4074
+CH051,"3",CH,Glarus,Glarus,"3","2","0",CH051,9.057,46.9722
+CH052,"3",CH,Schaffhausen,Schaffhausen,"3","2","0",CH052,8.5751,47.7254
+CH053,"3",CH,Appenzell Ausserrhoden,Appenzell Ausserrhoden,"3","2","0",CH053,9.4368,47.3855
+CH054,"3",CH,Appenzell Innerrhoden,Appenzell Innerrhoden,"3","2","0",CH054,9.401,47.3177
+CH055,"3",CH,St. Gallen,St. Gallen,"3","2","0",CH055,9.371,47.1144
+CH056,"3",CH,Graubünden,Graubünden,"3","3","0",CH056,9.6033,46.671
+CH057,"3",CH,Thurgau,Thurgau,"4","2","0",CH057,9.0814,47.5656
+CH061,"3",CH,Luzern,Luzern,"3","2","0",CH061,8.1328,47.0895
+CH062,"3",CH,Uri,Uri,"3","2","0",CH062,8.6285,46.7739
+CH063,"3",CH,Schwyz,Schwyz,"3","2","0",CH063,8.7659,47.0678
+CH064,"3",CH,Obwalden,Obwalden,"3","2","0",CH064,8.2244,46.8527
+CH065,"3",CH,Nidwalden,Nidwalden,"3","2","0",CH065,8.4268,46.9426
+CH066,"3",CH,Zug,Zug,"3","1","0",CH066,8.5158,47.1664
+CH070,"3",CH,Ticino,Ticino,"3","1","0",CH070,8.8082,46.3045
+CY000,"3",CY,Kypros,Κύπρος,"4","2","1",CY000,33.1739,35.0284
+CZ010,"3",CZ,Hlavní město Praha,Hlavní město Praha,"4","1","3",CZ010,14.463,50.0663
+CZ020,"3",CZ,Středočeský kraj,Středočeský kraj,"4","1","3",CZ020,14.4549,49.7423
+CZ031,"3",CZ,Jihočeský kraj,Jihočeský kraj,"4","3","3",CZ031,14.4121,49.1031
+CZ032,"3",CZ,Plzeňský kraj,Plzeňský kraj,"4","3","3",CZ032,13.2182,49.5984
+CZ041,"3",CZ,Karlovarský kraj,Karlovarský kraj,"3","2","3",CZ041,12.7187,50.1699
+CZ042,"3",CZ,Ústecký kraj,Ústecký kraj,"4","2","3",CZ042,13.839,50.5298
+CZ051,"3",CZ,Liberecký kraj,Liberecký kraj,"3","2","3",CZ051,14.9746,50.7347
+CZ052,"3",CZ,Královéhradecký kraj,Královéhradecký kraj,"4","2","3",CZ052,15.857,50.3898
+CZ053,"3",CZ,Pardubický kraj,Pardubický kraj,"4","3","3",CZ053,16.5068,49.8748
+CZ063,"3",CZ,Kraj Vysočina,Kraj Vysočina,"4","3","3",CZ063,15.679,49.4183
+CZ064,"3",CZ,Jihomoravský kraj,Jihomoravský kraj,"4","2","3",CZ064,16.6376,49.0775
+CZ071,"3",CZ,Olomoucký kraj,Olomoucký kraj,"2","2","3",CZ071,17.3605,49.6093
+CZ072,"3",CZ,Zlínský kraj,Zlínský kraj,"2","2","3",CZ072,17.7414,49.2254
+CZ080,"3",CZ,Moravskoslezský kraj,Moravskoslezský kraj,"4","2","3",CZ080,18.0098,49.8029
+DE111,"3",DE,"Stuttgart, Stadtkreis","Stuttgart, Stadtkreis","4","1","3",DE111,9.1805,48.7709
+DE112,"3",DE,Böblingen,Böblingen,"4","1","3",DE112,8.9488,48.6826
+DE113,"3",DE,Esslingen,Esslingen,"4","1","3",DE113,9.3645,48.6566
+DE114,"3",DE,Göppingen,Göppingen,"3","1","3",DE114,9.7197,48.668
+DE115,"3",DE,Ludwigsburg,Ludwigsburg,"4","1","3",DE115,9.1178,48.9393
+DE116,"3",DE,Rems-Murr-Kreis,Rems-Murr-Kreis,"4","1","3",DE116,9.4857,48.9009
+DE117,"3",DE,"Heilbronn, Stadtkreis","Heilbronn, Stadtkreis","4","2","3",DE117,9.192,49.1487
+DE118,"3",DE,"Heilbronn, Landkreis","Heilbronn, Landkreis","4","2","3",DE118,9.3502,49.1058
+DE119,"3",DE,Hohenlohekreis,Hohenlohekreis,"4","3","3",DE119,9.6199,49.2968
+DE11A,"3",DE,Schwäbisch Hall,Schwäbisch Hall,"4","3","3",DE11A,9.9093,49.1546
+DE11B,"3",DE,Main-Tauber-Kreis,Main-Tauber-Kreis,"4","3","3",DE11B,9.7343,49.5498
+DE11C,"3",DE,Heidenheim,Heidenheim,"4","2","3",DE11C,10.1768,48.6552
+DE11D,"3",DE,Ostalbkreis,Ostalbkreis,"4","2","3",DE11D,10.0905,48.8787
+DE121,"3",DE,"Baden-Baden, Stadtkreis","Baden-Baden, Stadtkreis","3","1","3",DE121,8.2384,48.748
+DE122,"3",DE,"Karlsruhe, Stadtkreis","Karlsruhe, Stadtkreis","4","1","3",DE122,8.35,49.0227
+DE123,"3",DE,"Karlsruhe, Landkreis","Karlsruhe, Landkreis","4","1","3",DE123,8.5695,49.1207
+DE124,"3",DE,Rastatt,Rastatt,"4","1","3",DE124,8.1881,48.6622
+DE125,"3",DE,"Heidelberg, Stadtkreis","Heidelberg, Stadtkreis","3","1","3",DE125,8.7044,49.4025
+DE126,"3",DE,"Mannheim, Stadtkreis","Mannheim, Stadtkreis","4","1","3",DE126,8.4917,49.5076
+DE127,"3",DE,Neckar-Odenwald-Kreis,Neckar-Odenwald-Kreis,"4","3","3",DE127,9.299,49.4768
+DE128,"3",DE,Rhein-Neckar-Kreis,Rhein-Neckar-Kreis,"4","1","3",DE128,8.7814,49.2938
+DE129,"3",DE,"Pforzheim, Stadtkreis","Pforzheim, Stadtkreis","2","2","3",DE129,8.7089,48.8741
+DE12A,"3",DE,Calw,Calw,"2","3","3",DE12A,8.6257,48.6807
+DE12B,"3",DE,Enzkreis,Enzkreis,"4","2","3",DE12B,8.7112,48.9586
+DE12C,"3",DE,Freudenstadt,Freudenstadt,"3","3","3",DE12C,8.4681,48.4803
+DE131,"3",DE,"Freiburg im Breisgau, Stadtkreis","Freiburg im Breisgau, Stadtkreis","4","2","3",DE131,7.8156,48.0039
+DE132,"3",DE,Breisgau-Hochschwarzwald,Breisgau-Hochschwarzwald,"2","2","3",DE132,7.9925,47.9497
+DE133,"3",DE,Emmendingen,Emmendingen,"2","2","3",DE133,7.887,48.1461
+DE134,"3",DE,Ortenaukreis,Ortenaukreis,"2","2","3",DE134,8.0257,48.4132
+DE135,"3",DE,Rottweil,Rottweil,"4","3","3",DE135,8.5319,48.2433
+DE136,"3",DE,Schwarzwald-Baar-Kreis,Schwarzwald-Baar-Kreis,"4","2","3",DE136,8.4117,48.0069
+DE137,"3",DE,Tuttlingen,Tuttlingen,"3","2","3",DE137,8.8082,48.0322
+DE138,"3",DE,Konstanz,Konstanz,"4","2","3",DE138,8.9072,47.7924
+DE139,"3",DE,Lörrach,Lörrach,"3","2","3",DE139,7.7669,47.6905
+DE13A,"3",DE,Waldshut,Waldshut,"3","2","3",DE13A,8.2154,47.6991
+DE141,"3",DE,Reutlingen,Reutlingen,"1","2","3",DE141,9.3457,48.4131
+DE142,"3",DE,"Tübingen, Landkreis","Tübingen, Landkreis","4","2","3",DE142,8.9841,48.4787
+DE143,"3",DE,Zollernalbkreis,Zollernalbkreis,"3","2","3",DE143,8.9316,48.2736
+DE144,"3",DE,"Ulm, Stadtkreis","Ulm, Stadtkreis","4","2","3",DE144,9.9806,48.4133
+DE145,"3",DE,Alb-Donau-Kreis,Alb-Donau-Kreis,"4","2","3",DE145,9.8251,48.4124
+DE146,"3",DE,Biberach,Biberach,"4","3","3",DE146,9.8023,48.0936
+DE147,"3",DE,Bodenseekreis,Bodenseekreis,"4","2","3",DE147,9.3895,47.703
+DE148,"3",DE,Ravensburg,Ravensburg,"4","2","3",DE148,9.7884,47.8283
+DE149,"3",DE,Sigmaringen,Sigmaringen,"4","3","3",DE149,9.2411,48.0316
+DE211,"3",DE,"Ingolstadt, Kreisfreie Stadt","Ingolstadt, Kreisfreie Stadt","4","2","3",DE211,11.3899,48.7426
+DE212,"3",DE,"München, Kreisfreie Stadt","München, Kreisfreie Stadt","4","1","3",DE212,11.5198,48.1637
+DE213,"3",DE,"Rosenheim, Kreisfreie Stadt","Rosenheim, Kreisfreie Stadt","4","2","3",DE213,12.1103,47.8478
+DE214,"3",DE,Altötting,Altötting,"4","2","3",DE214,12.7129,48.2209
+DE215,"3",DE,Berchtesgadener Land,Berchtesgadener Land,"3","2","3",DE215,12.9585,47.6345
+DE216,"3",DE,Bad Tölz-Wolfratshausen,Bad Tölz-Wolfratshausen,"2","2","3",DE216,11.4931,47.7446
+DE217,"3",DE,Dachau,Dachau,"4","2","3",DE217,11.3717,48.3296
+DE218,"3",DE,Ebersberg,Ebersberg,"4","2","3",DE218,11.8976,48.0988
+DE219,"3",DE,Eichstätt,Eichstätt,"4","2","3",DE219,11.3503,48.9002
+DE21A,"3",DE,Erding,Erding,"4","3","3",DE21A,11.9834,48.2958
+DE21B,"3",DE,Freising,Freising,"4","2","3",DE21B,11.741,48.4486
+DE21C,"3",DE,Fürstenfeldbruck,Fürstenfeldbruck,"4","2","3",DE21C,11.2134,48.1813
+DE21D,"3",DE,Garmisch-Partenkirchen,Garmisch-Partenkirchen,"3","2","3",DE21D,11.1356,47.5292
+DE21E,"3",DE,Landsberg am Lech,Landsberg am Lech,"4","3","3",DE21E,10.9503,48.0307
+DE21F,"3",DE,Miesbach,Miesbach,"3","2","3",DE21F,11.8015,47.7421
+DE21G,"3",DE,Mühldorf a. Inn,Mühldorf a. Inn,"4","3","3",DE21G,12.3843,48.2414
+DE21H,"3",DE,"München, Landkreis","München, Landkreis","4","1","3",DE21H,11.6164,48.0045
+DE21I,"3",DE,Neuburg-Schrobenhausen,Neuburg-Schrobenhausen,"4","3","3",DE21I,11.2005,48.6658
+DE21J,"3",DE,Pfaffenhofen a. d. Ilm,Pfaffenhofen a. d. Ilm,"4","2","3",DE21J,11.5147,48.5979
+DE21K,"3",DE,"Rosenheim, Landkreis","Rosenheim, Landkreis","4","2","3",DE21K,12.2696,47.9085
+DE21L,"3",DE,Starnberg,Starnberg,"4","2","3",DE21L,11.2803,48.0036
+DE21M,"3",DE,Traunstein,Traunstein,"4","3","3",DE21M,12.5883,47.8914
+DE21N,"3",DE,Weilheim-Schongau,Weilheim-Schongau,"4","2","3",DE21N,11.0556,47.8127
+DE221,"3",DE,"Landshut, Kreisfreie Stadt","Landshut, Kreisfreie Stadt","4","3","3",DE221,12.1455,48.5371
+DE222,"3",DE,"Passau, Kreisfreie Stadt","Passau, Kreisfreie Stadt","4","3","3",DE222,13.436,48.5815
+DE223,"3",DE,"Straubing, Kreisfreie Stadt","Straubing, Kreisfreie Stadt","4","3","3",DE223,12.5655,48.88
+DE224,"3",DE,Deggendorf,Deggendorf,"4","3","3",DE224,13.008,48.78
+DE225,"3",DE,Freyung-Grafenau,Freyung-Grafenau,"3","3","3",DE225,13.5072,48.8298
+DE226,"3",DE,Kelheim,Kelheim,"4","3","3",DE226,11.8263,48.7879
+DE227,"3",DE,"Landshut, Landkreis","Landshut, Landkreis","4","3","3",DE227,12.2092,48.4447
+DE228,"3",DE,"Passau, Landkreis","Passau, Landkreis","4","3","3",DE228,13.1947,48.505
+DE229,"3",DE,Regen,Regen,"3","3","3",DE229,13.0953,49.0178
+DE22A,"3",DE,Rottal-Inn,Rottal-Inn,"4","3","3",DE22A,12.862,48.4154
+DE22B,"3",DE,Straubing-Bogen,Straubing-Bogen,"4","3","3",DE22B,12.7024,48.8488
+DE22C,"3",DE,Dingolfing-Landau,Dingolfing-Landau,"4","3","3",DE22C,12.6484,48.6393
+DE231,"3",DE,"Amberg, Kreisfreie Stadt","Amberg, Kreisfreie Stadt","4","2","3",DE231,11.8462,49.4497
+DE232,"3",DE,"Regensburg, Kreisfreie Stadt","Regensburg, Kreisfreie Stadt","4","2","3",DE232,12.1147,49.011
+DE233,"3",DE,"Weiden i. d. Opf, Kreisfreie Stadt","Weiden i. d. Opf, Kreisfreie Stadt","4","3","3",DE233,12.134,49.6723
+DE234,"3",DE,Amberg-Sulzbach,Amberg-Sulzbach,"4","2","3",DE234,11.6972,49.4863
+DE235,"3",DE,Cham,Cham,"4","3","3",DE235,12.6871,49.2323
+DE236,"3",DE,Neumarkt i. d. OPf.,Neumarkt i. d. OPf.,"4","3","3",DE236,11.5695,49.2135
+DE237,"3",DE,Neustadt a. d. Waldnaab,Neustadt a. d. Waldnaab,"4","3","3",DE237,12.353,49.6544
+DE238,"3",DE,"Regensburg, Landkreis","Regensburg, Landkreis","4","2","3",DE238,11.8646,49.0848
+DE239,"3",DE,Schwandorf,Schwandorf,"4","3","3",DE239,12.2553,49.3642
+DE23A,"3",DE,Tirschenreuth,Tirschenreuth,"4","3","3",DE23A,12.377,49.8824
+DE241,"3",DE,"Bamberg, Kreisfreie Stadt","Bamberg, Kreisfreie Stadt","4","2","3",DE241,10.9005,49.8873
+DE242,"3",DE,"Bayreuth, Kreisfreie Stadt","Bayreuth, Kreisfreie Stadt","4","2","3",DE242,11.5867,49.9364
+DE243,"3",DE,"Coburg, Kreisfreie Stadt","Coburg, Kreisfreie Stadt","4","2","3",DE243,10.9544,50.2648
+DE244,"3",DE,"Hof, Kreisfreie Stadt","Hof, Kreisfreie Stadt","4","2","3",DE244,11.8997,50.3103
+DE245,"3",DE,"Bamberg, Landkreis","Bamberg, Landkreis","4","2","3",DE245,11.047,49.9167
+DE246,"3",DE,"Bayreuth, Landkreis","Bayreuth, Landkreis","4","2","3",DE246,11.5709,49.8098
+DE247,"3",DE,"Coburg, Landkreis","Coburg, Landkreis","4","2","3",DE247,10.8449,50.1989
+DE248,"3",DE,Forchheim,Forchheim,"4","2","3",DE248,11.1702,49.7212
+DE249,"3",DE,"Hof, Landkreis","Hof, Landkreis","4","2","3",DE249,11.851,50.2088
+DE24A,"3",DE,Kronach,Kronach,"3","3","3",DE24A,11.3739,50.3155
+DE24B,"3",DE,Kulmbach,Kulmbach,"4","3","3",DE24B,11.4703,50.1057
+DE24C,"3",DE,Lichtenfels,Lichtenfels,"4","3","3",DE24C,11.1497,50.1053
+DE24D,"3",DE,Wunsiedel i. Fichtelgebirge,Wunsiedel i. Fichtelgebirge,"4","3","3",DE24D,12.0345,50.0932
+DE251,"3",DE,"Ansbach, Kreisfreie Stadt","Ansbach, Kreisfreie Stadt","4","3","3",DE251,10.5702,49.2947
+DE252,"3",DE,"Erlangen, Kreisfreie Stadt","Erlangen, Kreisfreie Stadt","4","1","3",DE252,10.9782,49.5644
+DE253,"3",DE,"Fürth, Kreisfreie Stadt","Fürth, Kreisfreie Stadt","4","1","3",DE253,10.971,49.502
+DE254,"3",DE,"Nürnberg, Kreisfreie Stadt","Nürnberg, Kreisfreie Stadt","4","1","3",DE254,11.0745,49.438
+DE255,"3",DE,"Schwabach, Kreisfreie Stadt","Schwabach, Kreisfreie Stadt","4","1","3",DE255,11.0239,49.3372
+DE256,"3",DE,"Ansbach, Landkreis","Ansbach, Landkreis","4","3","3",DE256,10.3793,49.2162
+DE257,"3",DE,Erlangen-Höchstadt,Erlangen-Höchstadt,"4","1","3",DE257,10.9674,49.6554
+DE258,"3",DE,"Fürth, Landkreis","Fürth, Landkreis","4","1","3",DE258,10.8575,49.4448
+DE259,"3",DE,Nürnberger Land,Nürnberger Land,"4","2","3",DE259,11.3708,49.495
+DE25A,"3",DE,Neustadt a. d. Aisch-Bad Windsheim,Neustadt a. d. Aisch-Bad Windsheim,"4","3","3",DE25A,10.4657,49.5715
+DE25B,"3",DE,Roth,Roth,"4","2","3",DE25B,11.1098,49.2142
+DE25C,"3",DE,Weißenburg-Gunzenhausen,Weißenburg-Gunzenhausen,"4","3","3",DE25C,10.9126,49.0285
+DE261,"3",DE,"Aschaffenburg, Kreisfreie Stadt","Aschaffenburg, Kreisfreie Stadt","4","1","3",DE261,9.1566,49.9589
+DE262,"3",DE,"Schweinfurt, Kreisfreie Stadt","Schweinfurt, Kreisfreie Stadt","4","2","3",DE262,10.2227,50.0454
+DE263,"3",DE,"Würzburg, Kreisfreie Stadt","Würzburg, Kreisfreie Stadt","4","2","3",DE263,9.9403,49.7823
+DE264,"3",DE,"Aschaffenburg, Landkreis","Aschaffenburg, Landkreis","4","1","3",DE264,9.2333,50.0158
+DE265,"3",DE,Bad Kissingen,Bad Kissingen,"4","3","3",DE265,9.9572,50.2279
+DE266,"3",DE,Rhön-Grabfeld,Rhön-Grabfeld,"4","3","3",DE266,10.2794,50.3602
+DE267,"3",DE,Haßberge,Haßberge,"4","3","3",DE267,10.6221,50.085
+DE268,"3",DE,Kitzingen,Kitzingen,"4","3","3",DE268,10.2841,49.7637
+DE269,"3",DE,Miltenberg,Miltenberg,"2","2","3",DE269,9.2358,49.768
+DE26A,"3",DE,Main-Spessart,Main-Spessart,"4","3","3",DE26A,9.6607,49.9847
+DE26B,"3",DE,"Schweinfurt, Landkreis","Schweinfurt, Landkreis","4","2","3",DE26B,10.3699,49.9405
+DE26C,"3",DE,"Würzburg, Landkreis","Würzburg, Landkreis","4","2","3",DE26C,9.9189,49.6412
+DE271,"3",DE,"Augsburg, Kreisfreie Stadt","Augsburg, Kreisfreie Stadt","4","1","3",DE271,10.8981,48.3574
+DE272,"3",DE,"Kaufbeuren, Kreisfreie Stadt","Kaufbeuren, Kreisfreie Stadt","4","2","3",DE272,10.6157,47.8807
+DE273,"3",DE,"Kempten (Allgäu), Kreisfreie Stadt","Kempten (Allgäu), Kreisfreie Stadt","2","2","3",DE273,10.3108,47.738
+DE274,"3",DE,"Memmingen, Kreisfreie Stadt","Memmingen, Kreisfreie Stadt","4","3","3",DE274,10.158,47.9757
+DE275,"3",DE,Aichach-Friedberg,Aichach-Friedberg,"4","2","3",DE275,11.0527,48.4242
+DE276,"3",DE,"Augsburg, Landkreis","Augsburg, Landkreis","4","1","3",DE276,10.7307,48.3488
+DE277,"3",DE,Dillingen a.d. Donau,Dillingen a.d. Donau,"4","3","3",DE277,10.5246,48.5817
+DE278,"3",DE,Günzburg,Günzburg,"4","3","3",DE278,10.3786,48.3641
+DE279,"3",DE,Neu-Ulm,Neu-Ulm,"4","2","3",DE279,10.1296,48.2971
+DE27A,"3",DE,Lindau (Bodensee),Lindau (Bodensee),"3","2","3",DE27A,9.9207,47.5866
+DE27B,"3",DE,Ostallgäu,Ostallgäu,"4","2","3",DE27B,10.6398,47.6724
+DE27C,"3",DE,Unterallgäu,Unterallgäu,"4","3","3",DE27C,10.3726,48.0424
+DE27D,"3",DE,Donau-Ries,Donau-Ries,"4","3","3",DE27D,10.7139,48.8025
+DE27E,"3",DE,Oberallgäu,Oberallgäu,"3","2","3",DE27E,10.2463,47.5651
+DE300,"3",DE,Berlin,Berlin,"4","1","3",DE300,13.4022,52.5005
+DE401,"3",DE,"Brandenburg an der Havel, Kreisfreie Stadt","Brandenburg an der Havel, Kreisfreie Stadt","4","2","3",DE401,12.4759,52.4009
+DE402,"3",DE,"Cottbus, Kreisfreie Stadt","Cottbus, Kreisfreie Stadt","4","2","3",DE402,14.3457,51.7713
+DE403,"3",DE,"Frankfurt (Oder), Kreisfreie Stadt","Frankfurt (Oder), Kreisfreie Stadt","4","2","3",DE403,14.5026,52.3296
+DE404,"3",DE,"Potsdam, Kreisfreie Stadt","Potsdam, Kreisfreie Stadt","4","2","3",DE404,13.0328,52.4249
+DE405,"3",DE,Barnim,Barnim,"4","2","3",DE405,13.5881,52.7709
+DE406,"3",DE,Dahme-Spreewald,Dahme-Spreewald,"4","2","3",DE406,13.9335,52.0146
+DE407,"3",DE,Elbe-Elster,Elbe-Elster,"4","3","3",DE407,13.436,51.6157
+DE408,"3",DE,Havelland,Havelland,"4","2","3",DE408,12.6167,52.6128
+DE409,"3",DE,Märkisch-Oderland,Märkisch-Oderland,"4","2","3",DE409,14.0879,52.6658
+DE40A,"3",DE,Oberhavel,Oberhavel,"4","2","3",DE40A,13.2083,52.9027
+DE40B,"3",DE,Oberspreewald-Lausitz,Oberspreewald-Lausitz,"4","2","3",DE40B,13.9487,51.601
+DE40C,"3",DE,Oder-Spree,Oder-Spree,"4","2","3",DE40C,14.2268,52.232
+DE40D,"3",DE,Ostprignitz-Ruppin,Ostprignitz-Ruppin,"4","3","3",DE40D,12.6002,53.0011
+DE40E,"3",DE,Potsdam-Mittelmark,Potsdam-Mittelmark,"4","2","3",DE40E,12.6982,52.2338
+DE40F,"3",DE,Prignitz,Prignitz,"4","3","3",DE40F,11.9251,53.1023
+DE40G,"3",DE,Spree-Neiße,Spree-Neiße,"4","2","3",DE40G,14.4092,51.6213
+DE40H,"3",DE,Teltow-Fläming,Teltow-Fläming,"4","2","3",DE40H,13.2346,52.0713
+DE40I,"3",DE,Uckermark,Uckermark,"4","3","3",DE40I,13.8273,53.2555
+DE501,"3",DE,"Bremen, Kreisfreie Stadt","Bremen, Kreisfreie Stadt","4","1","3",DE501,8.7877,53.1065
+DE502,"3",DE,"Bremerhaven, Kreisfreie Stadt","Bremerhaven, Kreisfreie Stadt","4","2","1",DE502,8.5854,53.5445
+DE600,"3",DE,Hamburg,Hamburg,"4","1","1",DE600,10.01,53.5392
+DE711,"3",DE,"Darmstadt, Kreisfreie Stadt","Darmstadt, Kreisfreie Stadt","4","1","3",DE711,8.6803,49.9022
+DE712,"3",DE,"Frankfurt am Main, Kreisfreie Stadt","Frankfurt am Main, Kreisfreie Stadt","4","1","3",DE712,8.6575,50.1184
+DE713,"3",DE,"Offenbach am Main, Kreisfreie Stadt","Offenbach am Main, Kreisfreie Stadt","4","1","3",DE713,8.7679,50.0886
+DE714,"3",DE,"Wiesbaden, Kreisfreie Stadt","Wiesbaden, Kreisfreie Stadt","4","1","3",DE714,8.2577,50.0729
+DE715,"3",DE,Bergstraße,Bergstraße,"4","1","3",DE715,8.6572,49.6732
+DE716,"3",DE,Darmstadt-Dieburg,Darmstadt-Dieburg,"4","1","3",DE716,8.8023,49.8544
+DE717,"3",DE,Groß-Gerau,Groß-Gerau,"4","1","3",DE717,8.4688,49.9052
+DE718,"3",DE,Hochtaunuskreis,Hochtaunuskreis,"2","1","3",DE718,8.5141,50.2724
+DE719,"3",DE,Main-Kinzig-Kreis,Main-Kinzig-Kreis,"4","2","3",DE719,9.288,50.2434
+DE71A,"3",DE,Main-Taunus-Kreis,Main-Taunus-Kreis,"4","1","3",DE71A,8.4341,50.1112
+DE71B,"3",DE,Odenwaldkreis,Odenwaldkreis,"3","3","3",DE71B,8.9674,49.661
+DE71C,"3",DE,"Offenbach, Landkreis","Offenbach, Landkreis","4","1","3",DE71C,8.8094,50.0217
+DE71D,"3",DE,Rheingau-Taunus-Kreis,Rheingau-Taunus-Kreis,"2","2","3",DE71D,8.0845,50.1386
+DE71E,"3",DE,Wetteraukreis,Wetteraukreis,"4","2","3",DE71E,8.8727,50.358
+DE721,"3",DE,"Gießen, Landkreis","Gießen, Landkreis","4","2","3",DE721,8.8056,50.5786
+DE722,"3",DE,Lahn-Dill-Kreis,Lahn-Dill-Kreis,"4","2","3",DE722,8.3757,50.6323
+DE723,"3",DE,Limburg-Weilburg,Limburg-Weilburg,"4","2","3",DE723,8.2054,50.4204
+DE724,"3",DE,Marburg-Biedenkopf,Marburg-Biedenkopf,"4","2","3",DE724,8.7343,50.8356
+DE725,"3",DE,Vogelsbergkreis,Vogelsbergkreis,"4","3","3",DE725,9.2637,50.6443
+DE731,"3",DE,"Kassel, Kreisfreie Stadt","Kassel, Kreisfreie Stadt","4","2","3",DE731,9.46,51.3121
+DE732,"3",DE,Fulda,Fulda,"4","2","3",DE732,9.7645,50.5556
+DE733,"3",DE,Hersfeld-Rotenburg,Hersfeld-Rotenburg,"4","3","3",DE733,9.7616,50.8986
+DE734,"3",DE,"Kassel, Landkreis","Kassel, Landkreis","4","2","3",DE734,9.4111,51.4118
+DE735,"3",DE,Schwalm-Eder-Kreis,Schwalm-Eder-Kreis,"4","3","3",DE735,9.3637,51.0097
+DE736,"3",DE,Waldeck-Frankenberg,Waldeck-Frankenberg,"4","3","3",DE736,8.899,51.1805
+DE737,"3",DE,Werra-Meißner-Kreis,Werra-Meißner-Kreis,"2","3","3",DE737,9.9279,51.1847
+DE803,"3",DE,"Rostock, Kreisfreie Stadt","Rostock, Kreisfreie Stadt","4","2","1",DE803,12.196,54.2065
+DE804,"3",DE,"Schwerin, Kreisfreie Stadt","Schwerin, Kreisfreie Stadt","4","3","2",DE804,11.3911,53.6382
+DE80J,"3",DE,Mecklenburgische Seenplatte,Mecklenburgische Seenplatte,"4","3","3",DE80J,12.9964,53.5451
+DE80K,"3",DE,Landkreis Rostock,Landkreis Rostock,"4","2","1",DE80K,12.1852,53.8554
+DE80L,"3",DE,Vorpommern-Rügen,Vorpommern-Rügen,"4","3","1",DE80L,12.84,54.2102
+DE80M,"3",DE,Nordwestmecklenburg,Nordwestmecklenburg,"4","3","1",DE80M,11.2394,53.822
+DE80N,"3",DE,Vorpommern-Greifswald,Vorpommern-Greifswald,"4","3","1",DE80N,14.0558,53.5895
+DE80O,"3",DE,Ludwigslust-Parchim,Ludwigslust-Parchim,"4","3","3",DE80O,11.4634,53.3551
+DE911,"3",DE,"Braunschweig, Kreisfreie Stadt","Braunschweig, Kreisfreie Stadt","4","2","3",DE911,10.5209,52.2761
+DE912,"3",DE,"Salzgitter, Kreisfreie Stadt","Salzgitter, Kreisfreie Stadt","4","2","3",DE912,10.3764,52.1297
+DE913,"3",DE,"Wolfsburg, Kreisfreie Stadt","Wolfsburg, Kreisfreie Stadt","4","2","3",DE913,10.8045,52.391
+DE914,"3",DE,Gifhorn,Gifhorn,"4","2","3",DE914,10.6045,52.5782
+DE916,"3",DE,Goslar,Goslar,"3","2","3",DE916,10.3834,51.9074
+DE917,"3",DE,Helmstedt,Helmstedt,"4","3","3",DE917,10.8471,52.2532
+DE918,"3",DE,Northeim,Northeim,"4","3","3",DE918,9.8592,51.7412
+DE91A,"3",DE,Peine,Peine,"4","2","3",DE91A,10.2664,52.3031
+DE91B,"3",DE,Wolfenbüttel,Wolfenbüttel,"4","2","3",DE91B,10.6496,52.1347
+DE91C,"3",DE,Göttingen,Göttingen,"4","2","3",DE91C,9.9271,51.4986
+DE922,"3",DE,Diepholz,Diepholz,"4","2","3",DE922,8.6903,52.7393
+DE923,"3",DE,Hameln-Pyrmont,Hameln-Pyrmont,"4","2","3",DE923,9.4031,52.0931
+DE925,"3",DE,Hildesheim,Hildesheim,"4","2","3",DE925,9.9437,52.0825
+DE926,"3",DE,Holzminden,Holzminden,"4","3","3",DE926,9.555,51.8651
+DE927,"3",DE,Nienburg (Weser),Nienburg (Weser),"4","3","3",DE927,9.1428,52.6256
+DE928,"3",DE,Schaumburg,Schaumburg,"4","2","3",DE928,9.2068,52.2909
+DE929,"3",DE,Region Hannover,Region Hannover,"4","1","3",DE929,9.7415,52.4213
+DE931,"3",DE,Celle,Celle,"4","2","3",DE931,10.1033,52.724
+DE932,"3",DE,Cuxhaven,Cuxhaven,"4","2","1",DE932,8.8025,53.6161
+DE933,"3",DE,Harburg,Harburg,"4","2","3",DE933,9.9639,53.3152
+DE934,"3",DE,Lüchow-Dannenberg,Lüchow-Dannenberg,"4","3","3",DE934,11.1352,53.0141
+DE935,"3",DE,"Lüneburg, Landkreis","Lüneburg, Landkreis","4","2","3",DE935,10.6236,53.2734
+DE936,"3",DE,Osterholz,Osterholz,"4","2","2",DE936,8.8035,53.2445
+DE937,"3",DE,Rotenburg (Wümme),Rotenburg (Wümme),"4","3","3",DE937,9.2944,53.2574
+DE938,"3",DE,Heidekreis,Heidekreis,"4","2","3",DE938,9.7695,52.928
+DE939,"3",DE,Stade,Stade,"4","2","2",DE939,9.4253,53.596
+DE93A,"3",DE,Uelzen,Uelzen,"4","3","3",DE93A,10.5375,52.9839
+DE93B,"3",DE,Verden,Verden,"4","2","3",DE93B,9.1809,52.9701
+DE941,"3",DE,"Delmenhorst, Kreisfreie Stadt","Delmenhorst, Kreisfreie Stadt","4","1","2",DE941,8.6612,53.0575
+DE942,"3",DE,"Emden, Kreisfreie Stadt","Emden, Kreisfreie Stadt","4","2","1",DE942,7.2122,53.3598
+DE943,"3",DE,"Oldenburg (Oldenburg), Kreisfreie Stadt","Oldenburg (Oldenburg), Kreisfreie Stadt","4","2","2",DE943,8.2431,53.148
+DE944,"3",DE,"Osnabrück, Kreisfreie Stadt","Osnabrück, Kreisfreie Stadt","4","2","3",DE944,8.0377,52.2724
+DE945,"3",DE,"Wilhelmshaven, Kreisfreie Stadt","Wilhelmshaven, Kreisfreie Stadt","4","2","1",DE945,8.0813,53.5726
+DE946,"3",DE,Ammerland,Ammerland,"4","2","2",DE946,8.0072,53.1918
+DE947,"3",DE,Aurich,Aurich,"4","2","1",DE947,7.4713,53.4569
+DE948,"3",DE,Cloppenburg,Cloppenburg,"4","3","3",DE948,7.9354,52.8963
+DE949,"3",DE,Emsland,Emsland,"4","3","3",DE949,7.3808,52.735
+DE94A,"3",DE,Friesland (DE),Friesland (DE),"4","2","1",DE94A,7.9841,53.504
+DE94B,"3",DE,Grafschaft Bentheim,Grafschaft Bentheim,"4","2","3",DE94B,6.8528,52.548
+DE94C,"3",DE,Leer,Leer,"4","2","1",DE94C,7.5011,53.2323
+DE94D,"3",DE,"Oldenburg, Landkreis","Oldenburg, Landkreis","4","2","2",DE94D,8.373,52.9992
+DE94E,"3",DE,"Osnabrück, Landkreis","Osnabrück, Landkreis","4","2","3",DE94E,7.8226,52.5326
+DE94F,"3",DE,Vechta,Vechta,"4","2","3",DE94F,8.2312,52.6713
+DE94G,"3",DE,Wesermarsch,Wesermarsch,"4","2","1",DE94G,8.3955,53.3051
+DE94H,"3",DE,Wittmund,Wittmund,"4","3","1",DE94H,7.728,53.5735
+DEA11,"3",DE,"Düsseldorf, Kreisfreie Stadt","Düsseldorf, Kreisfreie Stadt","4","1","3",DEA11,6.8242,51.2247
+DEA12,"3",DE,"Duisburg, Kreisfreie Stadt","Duisburg, Kreisfreie Stadt","4","1","3",DEA12,6.7468,51.416
+DEA13,"3",DE,"Essen, Kreisfreie Stadt","Essen, Kreisfreie Stadt","4","1","3",DEA13,7.0202,51.4411
+DEA14,"3",DE,"Krefeld, Kreisfreie Stadt","Krefeld, Kreisfreie Stadt","4","1","3",DEA14,6.6118,51.3479
+DEA15,"3",DE,"Mönchengladbach, Kreisfreie Stadt","Mönchengladbach, Kreisfreie Stadt","4","1","3",DEA15,6.4127,51.1618
+DEA16,"3",DE,"Mülheim an der Ruhr, Kreisfreie Stadt","Mülheim an der Ruhr, Kreisfreie Stadt","4","1","3",DEA16,6.8615,51.4121
+DEA17,"3",DE,"Oberhausen, Kreisfreie Stadt","Oberhausen, Kreisfreie Stadt","4","1","3",DEA17,6.8484,51.513
+DEA18,"3",DE,"Remscheid, Kreisfreie Stadt","Remscheid, Kreisfreie Stadt","4","1","3",DEA18,7.2293,51.1729
+DEA19,"3",DE,"Solingen, Kreisfreie Stadt","Solingen, Kreisfreie Stadt","4","1","3",DEA19,7.0676,51.1609
+DEA1A,"3",DE,"Wuppertal, Kreisfreie Stadt","Wuppertal, Kreisfreie Stadt","4","1","3",DEA1A,7.1768,51.2561
+DEA1B,"3",DE,Kleve,Kleve,"4","2","3",DEA1B,6.2349,51.6185
+DEA1C,"3",DE,Mettmann,Mettmann,"4","1","3",DEA1C,6.9736,51.2575
+DEA1D,"3",DE,Rhein-Kreis Neuss,Rhein-Kreis Neuss,"4","1","3",DEA1D,6.6476,51.1529
+DEA1E,"3",DE,Viersen,Viersen,"4","1","3",DEA1E,6.3264,51.287
+DEA1F,"3",DE,Wesel,Wesel,"4","1","3",DEA1F,6.6307,51.6244
+DEA22,"3",DE,"Bonn, Kreisfreie Stadt","Bonn, Kreisfreie Stadt","4","1","3",DEA22,7.11,50.7018
+DEA23,"3",DE,"Köln, Kreisfreie Stadt","Köln, Kreisfreie Stadt","4","1","3",DEA23,6.9814,50.9539
+DEA24,"3",DE,"Leverkusen, Kreisfreie Stadt","Leverkusen, Kreisfreie Stadt","4","1","3",DEA24,6.9885,51.0549
+DEA26,"3",DE,Düren,Düren,"4","2","3",DEA26,6.446,50.8269
+DEA27,"3",DE,Rhein-Erft-Kreis,Rhein-Erft-Kreis,"4","1","3",DEA27,6.7209,50.9088
+NO060,"3",NO,Trøndelag,Trøndelag,"2","2","1",NO060,11.543,63.4618
+ES300,"3",ES,Madrid,Madrid,"4","1","3",ES300,-3.7119,40.5008
+ES411,"3",ES,Ávila,Ávila,"3","3","3",ES411,-4.9492,40.5774
+ES412,"3",ES,Burgos,Burgos,"2","2","3",ES412,-3.5854,42.346
+ES413,"3",ES,León,León,"2","2","3",ES413,-5.8356,42.6179
+ES414,"3",ES,Palencia,Palencia,"4","2","3",ES414,-4.541,42.3577
+ES415,"3",ES,Salamanca,Salamanca,"4","2","3",ES415,-6.0827,40.815
+ES416,"3",ES,Segovia,Segovia,"4","3","3",ES416,-4.0328,41.1753
+ES417,"3",ES,Soria,Soria,"4","3","3",ES417,-2.6219,41.6164
+ES418,"3",ES,Valladolid,Valladolid,"4","2","3",ES418,-5.0274,41.66
+ES419,"3",ES,Zamora,Zamora,"4","3","3",ES419,-5.974,41.7308
+ES421,"3",ES,Albacete,Albacete,"4","2","3",ES421,-1.9822,38.8241
+ES422,"3",ES,Ciudad Real,Ciudad Real,"4","2","3",ES422,-3.8946,38.8373
+ES423,"3",ES,Cuenca,Cuenca,"4","3","3",ES423,-2.2122,39.9029
+ES424,"3",ES,Guadalajara,Guadalajara,"3","2","3",ES424,-2.6486,40.8215
+ES425,"3",ES,Toledo,Toledo,"4","2","3",ES425,-4.137,39.9018
+ES431,"3",ES,Badajoz,Badajoz,"4","2","3",ES431,-6.0284,38.5385
+ES432,"3",ES,Cáceres,Cáceres,"4","2","3",ES432,-6.1633,39.7244
+ES511,"3",ES,Barcelona,Barcelona,"2","1","1",ES511,1.9719,41.7075
+ES512,"3",ES,Girona,Girona,"2","2","1",ES512,2.8142,42.0604
+ES513,"3",ES,Lleida,Lleida,"2","2","3",ES513,1.0492,42.0399
+ES514,"3",ES,Tarragona,Tarragona,"2","2","1",ES514,0.8119,41.0905
+ES521,"3",ES,Alicante / Alacant,Alicante / Alacant,"2","1","1",ES521,-0.5783,38.485
+ES522,"3",ES,Castellón / Castelló,Castellón / Castelló,"2","2","1",ES522,-0.1259,40.2428
+ES523,"3",ES,Valencia / València,Valencia / València,"2","1","1",ES523,-0.7783,39.3551
+ES531,"3",ES,Eivissa y Formentera,Eivissa y Formentera,"4","2","1",ES531,1.3845,38.9659
+ES532,"3",ES,Mallorca,Mallorca,"4","1","1",ES532,2.9634,39.6075
+ES533,"3",ES,Menorca,Menorca,"4","2","1",ES533,4.1293,39.9501
+ES611,"3",ES,Almería,Almería,"2","2","1",ES611,-2.3122,37.2109
+ES612,"3",ES,Cádiz,Cádiz,"4","1","1",ES612,-5.7747,36.5451
+ES613,"3",ES,Córdoba,Córdoba,"4","1","3",ES613,-4.8071,37.9917
+ES614,"3",ES,Granada,Granada,"3","2","1",ES614,-3.2531,37.3109
+ES615,"3",ES,Huelva,Huelva,"4","2","1",ES615,-6.8562,37.57
+ES616,"3",ES,Jaén,Jaén,"3","2","3",ES616,-3.4449,38.0178
+ES617,"3",ES,Málaga,Málaga,"2","1","1",ES617,-4.7139,36.8222
+ES618,"3",ES,Sevilla,Sevilla,"4","1","3",ES618,-5.6994,37.4274
+ES620,"3",ES,Murcia,Murcia,"2","1","1",ES620,-1.4907,37.9999
+ES630,"3",ES,Ceuta,Ceuta,"4","1","1",ES630,-5.3543,35.8958
+ES640,"3",ES,Melilla,Melilla,"4","2","1",ES640,-2.9509,35.297
+ES703,"3",ES,El Hierro,El Hierro,"3","3","1",ES703,-18.0218,27.7209
+ES704,"3",ES,Fuerteventura,Fuerteventura,"4","2","1",ES704,-13.9938,28.4434
+ES705,"3",ES,Gran Canaria,Gran Canaria,"2","1","1",ES705,-15.5854,27.9587
+ES706,"3",ES,La Gomera,La Gomera,"3","3","1",ES706,-17.232,28.1182
+ES707,"3",ES,La Palma,La Palma,"3","2","1",ES707,-17.8593,28.6941
+ES708,"3",ES,Lanzarote,Lanzarote,"4","2","1",ES708,-13.652,29.0118
+ES709,"3",ES,Tenerife,Tenerife,"3","1","1",ES709,-16.5646,28.2457
+FI193,"3",FI,Keski-Suomi,Keski-Suomi,"4","3","3",FI193,25.423,62.5304
+FI194,"3",FI,Etelä-Pohjanmaa,Etelä-Pohjanmaa,"4","3","3",FI194,23.0586,62.7285
+FI195,"3",FI,Pohjanmaa,Pohjanmaa,"4","3","1",FI195,22.1714,63.0675
+FI196,"3",FI,Satakunta,Satakunta,"4","3","1",FI196,22.1435,61.5286
+FI197,"3",FI,Pirkanmaa,Pirkanmaa,"4","2","3",FI197,23.6874,61.6805
+FI1B1,"3",FI,Helsinki-Uusimaa,Helsinki-Uusimaa,"4","1","1",FI1B1,24.7512,60.3817
+FI1C1,"3",FI,Varsinais-Suomi,Varsinais-Suomi,"4","2","1",FI1C1,22.6236,60.6291
+FI1C2,"3",FI,Kanta-Häme,Kanta-Häme,"4","2","3",FI1C2,24.3217,60.9288
+FI1C3,"3",FI,Päijät-Häme,Päijät-Häme,"4","2","3",FI1C3,25.7087,61.2199
+FI1C4,"3",FI,Kymenlaakso,Kymenlaakso,"4","2","1",FI1C4,26.9088,60.8172
+FI1C5,"3",FI,Etelä-Karjala,Etelä-Karjala,"4","2","2",FI1C5,28.3517,61.1915
+FI1D1,"3",FI,Etelä-Savo,Etelä-Savo,"4","3","3",FI1D1,27.8006,61.8795
+FI1D2,"3",FI,Pohjois-Savo,Pohjois-Savo,"4","3","3",FI1D2,27.4544,63.1688
+FI1D3,"3",FI,Pohjois-Karjala,Pohjois-Karjala,"4","3","3",FI1D3,29.9507,62.9067
+FI1D5,"3",FI,Keski-Pohjanmaa,Keski-Pohjanmaa,"4","3","1",FI1D5,24.0929,63.5971
+FI1D7,"3",FI,Lappi,Lappi,"4","3","1",FI1D7,26.3216,67.7164
+FI1D8,"3",FI,Kainuu,Kainuu,"4","3","3",FI1D8,28.7194,64.4994
+FI1D9,"3",FI,Pohjois-Pohjanmaa,Pohjois-Pohjanmaa,"4","3","1",FI1D9,26.6227,64.9399
+FI200,"3",FI,Åland,Åland,"4","3","1",FI200,20.0931,60.2653
+FR101,"3",FR,Paris,Paris,"4","1","3",FR101,2.3475,48.8562
+FR102,"3",FR,Seine-et-Marne,Seine-et-Marne,"4","2","3",FR102,2.9523,48.6531
+FR103,"3",FR,Yvelines,Yvelines,"4","1","3",FR103,1.855,48.8194
+FR104,"3",FR,Essonne,Essonne,"4","1","3",FR104,2.2454,48.5172
+FR105,"3",FR,Hauts-de-Seine,Hauts-de-Seine,"4","1","3",FR105,2.2662,48.7984
+FR106,"3",FR,Seine-Saint-Denis,Seine-Saint-Denis,"4","1","3",FR106,2.4751,48.913
+FR107,"3",FR,Val-de-Marne,Val-de-Marne,"4","1","3",FR107,2.4642,48.7738
+FR108,"3",FR,Val-d'Oise,Val-d'Oise,"4","1","3",FR108,2.0997,49.0878
+FRB01,"3",FR,Cher,Cher,"4","3","3",FRB01,2.4849,47.0565
+FRB02,"3",FR,Eure-et-Loir,Eure-et-Loir,"4","3","3",FRB02,1.3638,48.3952
+FRB03,"3",FR,Indre,Indre,"4","3","3",FRB03,1.5713,46.7678
+FRB04,"3",FR,Indre-et-Loire,Indre-et-Loire,"4","2","3",FRB04,0.6902,47.3254
+FRB05,"3",FR,Loir-et-Cher,Loir-et-Cher,"4","3","3",FRB05,1.4178,47.6135
+FRB06,"3",FR,Loiret,Loiret,"4","2","3",FRB06,2.3468,47.914
+FRC11,"3",FR,Côte-d’Or,Côte-d’Or,"4","2","3",FRC11,4.7694,47.4442
+FRC12,"3",FR,Nièvre,Nièvre,"4","3","3",FRC12,3.4978,47.1319
+FRC13,"3",FR,Saône-et-Loire,Saône-et-Loire,"4","3","3",FRC13,4.5277,46.6516
+FRC14,"3",FR,Yonne,Yonne,"4","3","3",FRC14,3.5778,47.8263
+FRC21,"3",FR,Doubs,Doubs,"2","2","3",FRC21,6.3627,47.1723
+FRC22,"3",FR,Jura,Jura,"3","3","3",FRC22,5.6992,46.7463
+FRC23,"3",FR,Haute-Saône,Haute-Saône,"4","3","3",FRC23,6.0696,47.6189
+FRC24,"3",FR,Territoire de Belfort,Territoire de Belfort,"4","2","3",FRC24,6.9277,47.6177
+FRD11,"3",FR,Calvados,Calvados,"4","2","1",FRD11,-0.3326,49.1013
+FRD12,"3",FR,Manche,Manche,"4","3","1",FRD12,-1.2956,49.0322
+FRD13,"3",FR,Orne,Orne,"4","3","3",FRD13,0.0347,48.6481
+FRD21,"3",FR,Eure,Eure,"4","3","1",FRD21,1.0056,48.9954
+FRD22,"3",FR,Seine-Maritime,Seine-Maritime,"4","2","1",FRD22,1.0674,49.6656
+FRE11,"3",FR,Nord,Nord,"4","1","1",FRE11,3.2459,50.4342
+FRE12,"3",FR,Pas-de-Calais,Pas-de-Calais,"4","2","1",FRE12,2.2762,50.5009
+FRE21,"3",FR,Aisne,Aisne,"4","3","3",FRE21,3.5603,49.561
+FRE22,"3",FR,Oise,Oise,"4","2","3",FRE22,2.4234,49.4088
+FRE23,"3",FR,Somme,Somme,"4","3","1",FRE23,2.2846,49.9522
+FRF11,"3",FR,Bas-Rhin,Bas-Rhin,"4","2","3",FRF11,7.5829,48.6629
+FRF12,"3",FR,Haut-Rhin,Haut-Rhin,"4","2","3",FRF12,7.2771,47.8592
+FRF21,"3",FR,Ardennes,Ardennes,"4","3","3",FRF21,4.6414,49.6202
+FRF22,"3",FR,Aube,Aube,"4","2","3",FRF22,4.161,48.2848
+FRF23,"3",FR,Marne,Marne,"4","2","3",FRF23,4.2368,49.0286
+FRF24,"3",FR,Haute-Marne,Haute-Marne,"4","3","3",FRF24,5.2279,48.129
+FRF31,"3",FR,Meurthe-et-Moselle,Meurthe-et-Moselle,"4","2","3",FRF31,6.1595,48.8034
+FRF32,"3",FR,Meuse,Meuse,"4","3","3",FRF32,5.3853,48.9708
+FRF33,"3",FR,Moselle,Moselle,"4","2","3",FRF33,6.6302,49.0459
+FRF34,"3",FR,Vosges,Vosges,"4","3","3",FRF34,6.3957,48.1954
+FRG01,"3",FR,Loire-Atlantique,Loire-Atlantique,"4","1","1",FRG01,-1.6818,47.3852
+FRG02,"3",FR,Maine-et-Loire,Maine-et-Loire,"4","2","3",FRG02,-0.5418,47.3901
+FRG03,"3",FR,Mayenne,Mayenne,"4","3","3",FRG03,-0.6631,48.1475
+FRG04,"3",FR,Sarthe,Sarthe,"4","3","3",FRG04,0.2335,47.9995
+FRG05,"3",FR,Vendée,Vendée,"4","3","1",FRG05,-1.2778,46.6799
+FRH01,"3",FR,Côtes-d’Armor,Côtes-d’Armor,"4","3","1",FRH01,-2.892,48.4218
+FRH02,"3",FR,Finistère,Finistère,"4","3","1",FRH02,-4.0066,48.2664
+FRH03,"3",FR,Ille-et-Vilaine,Ille-et-Vilaine,"4","2","1",FRH03,-1.6468,48.1421
+FRH04,"3",FR,Morbihan,Morbihan,"4","3","1",FRH04,-2.8006,47.8552
+FRI11,"3",FR,Dordogne,Dordogne,"4","3","3",FRI11,0.7348,45.1164
+FRI12,"3",FR,Gironde,Gironde,"4","1","1",FRI12,-0.4784,44.7947
+FRI13,"3",FR,Landes,Landes,"4","3","1",FRI13,-0.7952,43.952
+FRI14,"3",FR,Lot-et-Garonne,Lot-et-Garonne,"4","3","3",FRI14,0.4671,44.3568
+FRI15,"3",FR,Pyrénées-Atlantiques,Pyrénées-Atlantiques,"4","2","1",FRI15,-0.7667,43.277
+FRI21,"3",FR,Corrèze,Corrèze,"4","3","3",FRI21,1.8733,45.3598
+FRI22,"3",FR,Creuse,Creuse,"4","3","3",FRI22,2.0549,46.0885
+FRI23,"3",FR,Haute-Vienne,Haute-Vienne,"4","3","3",FRI23,1.2434,45.8832
+FRI31,"3",FR,Charente,Charente,"4","3","3",FRI31,0.228,45.7361
+FRI32,"3",FR,Charente-Maritime,Charente-Maritime,"4","3","1",FRI32,-0.6463,45.7799
+FRI33,"3",FR,Deux-Sèvres,Deux-Sèvres,"4","3","3",FRI33,-0.3119,46.5542
+FRI34,"3",FR,Vienne,Vienne,"4","3","3",FRI34,0.4657,46.5646
+FRJ11,"3",FR,Aude,Aude,"4","3","1",FRJ11,2.4368,43.1068
+FRJ12,"3",FR,Gard,Gard,"4","2","1",FRJ12,4.1739,43.995
+FRJ13,"3",FR,Hérault,Hérault,"4","2","1",FRJ13,3.3621,43.57
+FRJ14,"3",FR,Lozère,Lozère,"3","3","3",FRJ14,3.5066,44.536
+FRJ15,"3",FR,Pyrénées-Orientales,Pyrénées-Orientales,"2","2","1",FRJ15,2.5467,42.598
+FRJ21,"3",FR,Ariège,Ariège,"3","3","3",FRJ21,1.5019,42.9104
+FRJ22,"3",FR,Aveyron,Aveyron,"3","3","3",FRJ22,2.6921,44.2793
+FRJ23,"3",FR,Haute-Garonne,Haute-Garonne,"4","1","3",FRJ23,1.1888,43.3661
+FRJ24,"3",FR,Gers,Gers,"4","3","3",FRJ24,0.4453,43.7004
+FRJ25,"3",FR,Lot,Lot,"4","3","3",FRJ25,1.618,44.631
+FRJ26,"3",FR,Hautes-Pyrénées,Hautes-Pyrénées,"2","3","3",FRJ26,0.1688,43.0666
+FRJ27,"3",FR,Tarn,Tarn,"4","3","3",FRJ27,2.1907,43.7786
+FRJ28,"3",FR,Tarn-et-Garonne,Tarn-et-Garonne,"4","3","3",FRJ28,1.289,44.0848
+FRK11,"3",FR,Allier,Allier,"4","3","3",FRK11,3.1955,46.3875
+FRK12,"3",FR,Cantal,Cantal,"3","3","3",FRK12,2.7121,45.1512
+FRK13,"3",FR,Haute-Loire,Haute-Loire,"3","3","3",FRK13,3.7843,45.1209
+FRK14,"3",FR,Puy-de-Dôme,Puy-de-Dôme,"3","2","3",FRK14,3.1324,45.7079
+FRK21,"3",FR,Ain,Ain,"4","3","3",FRK21,5.1166,46.135
+FRK22,"3",FR,Ardèche,Ardèche,"3","3","3",FRK22,4.4081,44.7591
+FRK23,"3",FR,Drôme,Drôme,"2","3","3",FRK23,5.1689,44.6903
+FRK24,"3",FR,Isère,Isère,"2","2","3",FRK24,5.554,45.2794
+FRK25,"3",FR,Loire,Loire,"3","2","3",FRK25,4.1662,45.7218
+FRK26,"3",FR,Rhône,Rhône,"2","1","3",FRK26,4.6342,45.8751
+FRK27,"3",FR,Savoie,Savoie,"3","2","3",FRK27,6.4511,45.479
+FRK28,"3",FR,Haute-Savoie,Haute-Savoie,"3","2","3",FRK28,6.4565,46.0677
+FRL01,"3",FR,Alpes-de-Haute-Provence,Alpes-de-Haute-Provence,"3","3","3",FRL01,6.2467,44.0983
+FRL02,"3",FR,Hautes-Alpes,Hautes-Alpes,"3","3","3",FRL02,6.281,44.6697
+FRL03,"3",FR,Alpes-Maritimes,Alpes-Maritimes,"2","1","1",FRL03,7.1753,43.9206
+FRL04,"3",FR,Bouches-du-Rhône,Bouches-du-Rhône,"4","1","1",FRL04,5.0879,43.5469
+FRL05,"3",FR,Var,Var,"2","2","1",FRL05,6.2558,43.4655
+FRL06,"3",FR,Vaucluse,Vaucluse,"2","2","3",FRL06,5.1523,44.034
+FRM01,"3",FR,Corse-du-Sud,Corse-du-Sud,"3","3","1",FRM01,9.0303,41.8593
+FRM02,"3",FR,Haute-Corse,Haute-Corse,"3","3","1",FRM02,9.1671,42.3554
+FRY10,"3",FR,Guadeloupe,Guadeloupe,"4","2","1",FRY10,-61.6877,16.1776
+FRY20,"3",FR,Martinique,Martinique,"2","2","1",FRY20,-60.9149,14.5657
+FRY30,"3",FR,Guyane,Guyane,"4","2","1",FRY30,-53.2263,3.9221
+FRY40,"3",FR,La Réunion,La Réunion,"2","1","1",FRY40,55.5328,-21.1271
+FRY50,"3",FR,Mayotte,Mayotte,"2","2","1",FRY50,45.1546,-12.8294
+HR031,"3",HR,Primorsko-goranska županija,Primorsko-goranska županija,"3","2","1",HR031,14.6947,45.3624
+HR032,"3",HR,Ličko-senjska županija,Ličko-senjska županija,"3","3","1",HR032,15.404,44.7088
+HR033,"3",HR,Zadarska županija,Zadarska županija,"4","3","1",HR033,15.4417,44.1047
+HR034,"3",HR,Šibensko-kninska županija,Šibensko-kninska županija,"2","2","1",HR034,16.0847,43.8915
+HR035,"3",HR,Splitsko-dalmatinska županija,Splitsko-dalmatinska županija,"3","2","1",HR035,16.7337,43.6076
+HR036,"3",HR,Istarska županija,Istarska županija,"4","3","1",HR036,13.8984,45.2304
+HR037,"3",HR,Dubrovačko-neretvanska županija,Dubrovačko-neretvanska županija,"3","2","1",HR037,18.0656,42.6978
+HR041,"3",HR,Grad Zagreb,Grad Zagreb,"4","1","3",HR041,16.0217,45.8275
+HR042,"3",HR,Zagrebačka županija,Zagrebačka županija,"4","3","3",HR042,16.3595,45.8259
+HR043,"3",HR,Krapinsko-zagorska županija,Krapinsko-zagorska županija,"4","3","3",HR043,15.9302,46.0829
+HR044,"3",HR,Varaždinska županija,Varaždinska županija,"4","2","3",HR044,16.316,46.2405
+HR045,"3",HR,Koprivničko-križevačka županija,Koprivničko-križevačka županija,"4","3","3",HR045,16.8179,46.1784
+HR046,"3",HR,Međimurska županija,Međimurska županija,"4","3","3",HR046,16.5313,46.4035
+HR047,"3",HR,Bjelovarsko-bilogorska županija,Bjelovarsko-bilogorska županija,"4","3","3",HR047,16.9789,45.7362
+HR048,"3",HR,Virovitičko-podravska županija,Virovitičko-podravska županija,"4","3","3",HR048,17.5859,45.7332
+HR049,"3",HR,Požeško-slavonska županija,Požeško-slavonska županija,"4","3","3",HR049,17.5392,45.4196
+HR04A,"3",HR,Brodsko-posavska županija,Brodsko-posavska županija,"4","2","3",HR04A,17.8354,45.1402
+HR04B,"3",HR,Osječko-baranjska županija,Osječko-baranjska županija,"4","2","3",HR04B,18.4556,45.5621
+HR04C,"3",HR,Vukovarsko-srijemska županija,Vukovarsko-srijemska županija,"4","3","3",HR04C,18.8804,45.1749
+HR04D,"3",HR,Karlovačka županija,Karlovačka županija,"4","3","3",HR04D,15.4919,45.2952
+HR04E,"3",HR,Sisačko-moslavačka županija,Sisačko-moslavačka županija,"4","3","3",HR04E,16.4504,45.3598
+HU110,"3",HU,Budapest,Budapest,"4","1","3",HU110,19.1023,47.4819
+HU120,"3",HU,Pest,Pest,"4","2","3",HU120,19.04,47.1995
+HU211,"3",HU,Fejér,Fejér,"4","2","3",HU211,18.5356,47.1407
+HU212,"3",HU,Komárom-Esztergom,Komárom-Esztergom,"4","2","3",HU212,18.2812,47.6035
+HU213,"3",HU,Veszprém,Veszprém,"4","2","3",HU213,17.6261,47.1205
+HU221,"3",HU,Győr-Moson-Sopron,Győr-Moson-Sopron,"4","2","3",HU221,17.2958,47.6448
+HU222,"3",HU,Vas,Vas,"4","2","3",HU222,16.7256,47.1497
+HU223,"3",HU,Zala,Zala,"4","3","3",HU223,16.8935,46.6931
+HU231,"3",HU,Baranya,Baranya,"4","2","3",HU231,18.2084,46.0481
+HU232,"3",HU,Somogy,Somogy,"4","3","3",HU232,17.615,46.4462
+HU233,"3",HU,Tolna,Tolna,"4","3","3",HU233,18.5374,46.5127
+HU311,"3",HU,Borsod-Abaúj-Zemplén,Borsod-Abaúj-Zemplén,"4","2","3",HU311,20.9766,48.2055
+HU312,"3",HU,Heves,Heves,"4","3","3",HU312,20.176,47.7902
+HU313,"3",HU,Nógrád,Nógrád,"4","3","3",HU313,19.5107,47.9374
+HU321,"3",HU,Hajdú-Bihar,Hajdú-Bihar,"4","2","3",HU321,21.4487,47.4665
+HU322,"3",HU,Jász-Nagykun-Szolnok,Jász-Nagykun-Szolnok,"4","2","3",HU322,20.3292,47.1267
+HU323,"3",HU,Szabolcs-Szatmár-Bereg,Szabolcs-Szatmár-Bereg,"4","3","3",HU323,22.0849,47.9896
+HU331,"3",HU,Bács-Kiskun,Bács-Kiskun,"4","2","3",HU331,19.3743,46.5513
+HU332,"3",HU,Békés,Békés,"4","2","3",HU332,21.0091,46.7404
+HU333,"3",HU,Csongrád,Csongrád,"4","2","3",HU333,20.2446,46.4212
+IE041,"3",IE,Border,Border,"4","3","1",IE041,-7.8701,54.0414
+IE042,"3",IE,West,West,"4","3","1",IE042,-8.9524,53.6315
+IE051,"3",IE,Mid-West,Mid-West,"4","3","1",IE051,-8.4451,52.6373
+IE052,"3",IE,South-East,South-East,"4","3","1",IE052,-7.0657,52.4539
+IE053,"3",IE,South-West,South-West,"4","3","1",IE053,-9.1702,52.016
+IE061,"3",IE,Dublin,Dublin,"4","1","1",IE061,-6.2945,53.4
+IE062,"3",IE,Mid-East,Mid-East,"4","2","1",IE062,-6.7233,53.4117
+IE063,"3",IE,Midland,Midland,"4","3","3",IE063,-7.5173,53.3306
+IS001,"3",IS,Höfuðborgarsvæði,Höfuðborgarsvæði,"2","1","1",IS001,-21.5596,64.2169
+IS002,"3",IS,Landsbyggð,Landsbyggð,"2","3","1",IS002,-18.8569,64.756
+ITC11,"3",IT,Torino,Torino,"2","1","3",ITC11,7.447,45.1411
+ITC12,"3",IT,Vercelli,Vercelli,"4","2","3",ITC12,8.2059,45.3119
+ITC13,"3",IT,Biella,Biella,"3","2","3",ITC13,8.0828,45.5857
+ITC14,"3",IT,Verbano-Cusio-Ossola,Verbano-Cusio-Ossola,"3","2","3",ITC14,8.3494,46.0782
+ITC15,"3",IT,Novara,Novara,"4","2","3",ITC15,8.5688,45.5598
+ITC16,"3",IT,Cuneo,Cuneo,"2","3","3",ITC16,7.5902,44.4775
+ITC17,"3",IT,Asti,Asti,"4","3","3",ITC17,8.1922,44.8584
+ITC18,"3",IT,Alessandria,Alessandria,"4","3","3",ITC18,8.6438,44.8242
+ITC20,"3",IT,Valle d'Aosta/Vallée d'Aoste,Valle d'Aosta/Vallée d'Aoste,"3","2","3",ITC20,7.3925,45.7281
+ITC31,"3",IT,Imperia,Imperia,"3","1","1",ITC31,7.8205,43.9545
+ITC32,"3",IT,Savona,Savona,"3","2","1",ITC32,8.2959,44.2874
+ITC33,"3",IT,Genova,Genova,"2","1","1",ITC33,9.1457,44.458
+ITC34,"3",IT,La Spezia,La Spezia,"2","1","1",ITC34,9.7041,44.2379
+ITC41,"3",IT,Varese,Varese,"4","1","3",ITC41,8.7733,45.784
+ITC42,"3",IT,Como,Como,"2","1","3",ITC42,9.1549,45.9322
+ITC43,"3",IT,Lecco,Lecco,"3","1","3",ITC43,9.3945,45.9019
+ITC44,"3",IT,Sondrio,Sondrio,"3","2","3",ITC44,9.9353,46.209
+ITC46,"3",IT,Bergamo,Bergamo,"2","1","3",ITC46,9.7782,45.786
+ITC47,"3",IT,Brescia,Brescia,"2","2","3",ITC47,10.3289,45.6871
+ITC48,"3",IT,Pavia,Pavia,"4","2","3",ITC48,9.035,45.1156
+ITC49,"3",IT,Lodi,Lodi,"4","2","3",ITC49,9.5673,45.2442
+ITC4A,"3",IT,Cremona,Cremona,"4","2","3",ITC4A,9.9748,45.2262
+ITC4B,"3",IT,Mantova,Mantova,"4","3","3",ITC4B,10.7751,45.1147
+ITC4C,"3",IT,Milano,Milano,"4","1","3",ITC4C,9.1288,45.4757
+ITC4D,"3",IT,Monza e della Brianza,Monza e della Brianza,"4","1","3",ITC4D,9.2643,45.636
+ITF11,"3",IT,L'Aquila,L'Aquila,"3","3","3",ITF11,13.6188,42.1079
+ITF12,"3",IT,Teramo,Teramo,"2","2","1",ITF12,13.7473,42.6494
+ITF13,"3",IT,Pescara,Pescara,"2","2","1",ITF13,14.011,42.3565
+ITF14,"3",IT,Chieti,Chieti,"2","2","1",ITF14,14.3978,42.0935
+ITF21,"3",IT,Isernia,Isernia,"3","3","3",ITF21,14.2367,41.6433
+ITF22,"3",IT,Campobasso,Campobasso,"3","3","1",ITF22,14.7735,41.7087
+ITF31,"3",IT,Caserta,Caserta,"4","1","1",ITF31,14.1534,41.2107
+ITF32,"3",IT,Benevento,Benevento,"3","3","2",ITF32,14.7518,41.2581
+ITF33,"3",IT,Napoli,Napoli,"4","1","1",ITF33,14.3894,40.8728
+ITF34,"3",IT,Avellino,Avellino,"3","2","2",ITF34,15.0662,40.9958
+ITF35,"3",IT,Salerno,Salerno,"3","2","1",ITF35,15.2098,40.4622
+ITF43,"3",IT,Taranto,Taranto,"4","1","1",ITF43,17.2617,40.586
+ITF44,"3",IT,Brindisi,Brindisi,"4","1","1",ITF44,17.7151,40.6185
+ITF45,"3",IT,Lecce,Lecce,"4","1","1",ITF45,18.1382,40.2004
+ITF46,"3",IT,Foggia,Foggia,"4","3","1",ITF46,15.5446,41.5378
+ITF47,"3",IT,Bari,Bari,"4","1","1",ITF47,16.7545,40.9275
+ITF48,"3",IT,Barletta-Andria-Trani,Barletta-Andria-Trani,"4","1","1",ITF48,16.1792,41.1823
+ITF51,"3",IT,Potenza,Potenza,"3","3","1",ITF51,15.8718,40.5432
+ITF52,"3",IT,Matera,Matera,"3","2","1",ITF52,16.4741,40.4659
+ITF61,"3",IT,Cosenza,Cosenza,"3","2","1",ITF61,16.3184,39.5605
+ITF62,"3",IT,Crotone,Crotone,"4","2","1",ITF62,16.921,39.1914
+ITF63,"3",IT,Catanzaro,Catanzaro,"3","2","1",ITF63,16.4874,38.892
+ITF64,"3",IT,Vibo Valentia,Vibo Valentia,"3","3","1",ITF64,16.1968,38.617
+ITF65,"3",IT,Reggio di Calabria,Reggio di Calabria,"2","2","1",ITF65,16.0425,38.2796
+ITG11,"3",IT,Trapani,Trapani,"4","2","1",ITG11,12.7928,37.8145
+ITG12,"3",IT,Palermo,Palermo,"3","1","1",ITG12,13.5933,37.8875
+ITG13,"3",IT,Messina,Messina,"3","2","1",ITG13,15.0533,38.0145
+ITG14,"3",IT,Agrigento,Agrigento,"2","2","1",ITG14,13.4878,37.4634
+ITG15,"3",IT,Caltanissetta,Caltanissetta,"3","1","1",ITG15,14.2702,37.1875
+ITG16,"3",IT,Enna,Enna,"3","2","2",ITG16,14.4541,37.6154
+ITG17,"3",IT,Catania,Catania,"3","1","1",ITG17,15.0317,37.5929
+ITG18,"3",IT,Ragusa,Ragusa,"4","2","1",ITG18,14.6704,36.9186
+ITG19,"3",IT,Siracusa,Siracusa,"4","1","1",ITG19,15.0313,37.059
+ITG25,"3",IT,Sassari,Sassari,"2","2","1",ITG25,8.7084,40.6102
+ITG26,"3",IT,Nuoro,Nuoro,"3","3","1",ITG26,9.4743,40.3972
+ITG27,"3",IT,Cagliari,Cagliari,"2","2","1",ITG27,9.1873,39.4161
+ITG28,"3",IT,Oristano,Oristano,"4","3","1",ITG28,8.7298,40.0006
+ITG29,"3",IT,Olbia-Tempio,Olbia-Tempio,"2","2","1",ITG29,9.2987,40.8601
+ITG2A,"3",IT,Ogliastra,Ogliastra,"3","3","1",ITG2A,9.5148,39.9071
+ITG2B,"3",IT,Medio Campidano,Medio Campidano,"4","2","1",ITG2B,8.6981,39.5064
+ITG2C,"3",IT,Carbonia-Iglesias,Carbonia-Iglesias,"2","2","1",ITG2C,8.5807,39.2179
+ITH10,"3",IT,Bolzano-Bozen,Bolzano-Bozen,"3","3","3",ITH10,11.4241,46.7053
+ITH20,"3",IT,Trento,Trento,"3","2","3",ITH20,10.859,46.1313
+ITH31,"3",IT,Verona,Verona,"4","2","3",ITH31,11.0484,45.4191
+ITH32,"3",IT,Vicenza,Vicenza,"2","2","3",ITH32,11.5056,45.6558
+ITH33,"3",IT,Belluno,Belluno,"3","3","3",ITH33,12.1724,46.3127
+ITH34,"3",IT,Treviso,Treviso,"4","2","2",ITH34,12.2091,45.7949
+ITH35,"3",IT,Venezia,Venezia,"4","1","1",ITH35,12.8314,45.6957
+ITH36,"3",IT,Padova,Padova,"4","2","1",ITH36,11.7976,45.3499
+ITH37,"3",IT,Rovigo,Rovigo,"4","3","1",ITH37,11.8179,45.0442
+ITH41,"3",IT,Pordenone,Pordenone,"4","2","2",ITH41,12.693,46.093
+ITH42,"3",IT,Udine,Udine,"2","2","1",ITH42,13.1569,46.2394
+ITH43,"3",IT,Gorizia,Gorizia,"4","1","1",ITH43,13.4967,45.8625
+ITH44,"3",IT,Trieste,Trieste,"2","1","1",ITH44,13.8187,45.6506
+ITH51,"3",IT,Piacenza,Piacenza,"2","2","3",ITH51,9.6096,44.8607
+ITH52,"3",IT,Parma,Parma,"2","2","3",ITH52,10.0264,44.6755
+ITH53,"3",IT,Reggio nell'Emilia,Reggio nell'Emilia,"4","2","3",ITH53,10.5256,44.5975
+ITH54,"3",IT,Modena,Modena,"4","2","3",ITH54,10.8875,44.5385
+ITH55,"3",IT,Bologna,Bologna,"4","2","3",ITH55,11.3338,44.4095
+ITH56,"3",IT,Ferrara,Ferrara,"4","2","1",ITH56,11.8275,44.7804
+ITH57,"3",IT,Ravenna,Ravenna,"4","2","1",ITH57,11.9546,44.4092
+ITH58,"3",IT,Forlì-Cesena,Forlì-Cesena,"2","2","1",ITH58,12.0432,44.0373
+ITH59,"3",IT,Rimini,Rimini,"4","1","1",ITH59,12.5899,43.9976
+ITI11,"3",IT,Massa-Carrara,Massa-Carrara,"2","2","1",ITI11,10.0113,44.2545
+ITI12,"3",IT,Lucca,Lucca,"2","2","1",ITI12,10.4265,44.0059
+ITI13,"3",IT,Pistoia,Pistoia,"2","1","3",ITI13,10.852,43.9652
+ITI14,"3",IT,Firenze,Firenze,"2","1","3",ITI14,11.293,43.8117
+ITI15,"3",IT,Prato,Prato,"2","1","3",ITI15,11.0973,43.9692
+ITI16,"3",IT,Livorno,Livorno,"4","2","1",ITI16,10.6129,43.1861
+ITI17,"3",IT,Pisa,Pisa,"4","2","1",ITI17,10.6562,43.5078
+ITI18,"3",IT,Arezzo,Arezzo,"2","2","3",ITI18,11.8435,43.5445
+ITI19,"3",IT,Siena,Siena,"2","3","3",ITI19,11.4661,43.188
+ITI1A,"3",IT,Grosseto,Grosseto,"4","3","1",ITI1A,11.224,42.8029
+ITI21,"3",IT,Perugia,Perugia,"2","2","3",ITI21,12.5266,43.0729
+ITI22,"3",IT,Terni,Terni,"2","2","3",ITI22,12.3957,42.5878
+ITI31,"3",IT,Pesaro e Urbino,Pesaro e Urbino,"2","2","1",ITI31,12.6932,43.666
+ITI32,"3",IT,Ancona,Ancona,"4","2","1",ITI32,13.2048,43.5781
+ITI33,"3",IT,Macerata,Macerata,"2","2","1",ITI33,13.2643,43.1804
+ITI34,"3",IT,Ascoli Piceno,Ascoli Piceno,"2","2","1",ITI34,13.5562,42.8848
+ITI35,"3",IT,Fermo,Fermo,"4","2","1",ITI35,13.6213,43.0998
+ITI41,"3",IT,Viterbo,Viterbo,"1","3","1",ITI41,11.9864,42.4243
+ITI42,"3",IT,Rieti,Rieti,"3","3","3",ITI42,12.9591,42.3962
+ITI43,"3",IT,Roma,Roma,"4","1","1",ITI43,12.5151,41.7353
+ITI44,"3",IT,Latina,Latina,"4","2","1",ITI44,13.0484,41.469
+ITI45,"3",IT,Frosinone,Frosinone,"2","2","2",ITI45,13.5443,41.6298
+LI000,"3",LI,Liechtenstein,Liechtenstein,"3","1","3",LI000,9.5534,47.1383
+LT011,"3",LT,Vilniaus apskritis,Vilniaus apskritis,"4","1","3",LT011,25.2289,54.8166
+LT021,"3",LT,Alytaus apskritis,Alytaus apskritis,"4","2","3",LT021,24.1181,54.2163
+LT022,"3",LT,Kauno apskritis,Kauno apskritis,"4","2","3",LT022,23.8953,55.0753
+LT023,"3",LT,Klaipėdos apskritis,Klaipėdos apskritis,"4","2","1",LT023,21.5212,55.5169
+LT024,"3",LT,Marijampolės apskritis,Marijampolės apskritis,"4","3","3",LT024,23.1762,54.7044
+LT025,"3",LT,Panevėžio apskritis,Panevėžio apskritis,"4","2","3",LT025,24.7588,55.9226
+LT026,"3",LT,Šiaulių apskritis,Šiaulių apskritis,"4","2","3",LT026,23.2974,55.9302
+LT027,"3",LT,Tauragės apskritis,Tauragės apskritis,"4","3","3",LT027,22.4735,55.3132
+LT028,"3",LT,Telšių apskritis,Telšių apskritis,"4","2","3",LT028,22.1736,55.995
+LT029,"3",LT,Utenos apskritis,Utenos apskritis,"4","2","3",LT029,25.7033,55.4976
+LU000,"3",LU,Luxembourg,Luxembourg,"4","2","3",LU000,6.0943,49.771
+LV003,"3",LV,Kurzeme,Kurzeme,"4","2","1",LV003,22.0026,56.927
+LV005,"3",LV,Latgale,Latgale,"4","2","3",LV005,27.1705,56.3931
+LV006,"3",LV,Rīga,Rīga,"4","1","1",LV006,24.0987,56.9895
+LV007,"3",LV,Pierīga,Pierīga,"4","2","1",LV007,24.7718,57.2674
+LV008,"3",LV,Vidzeme,Vidzeme,"4","3","3",LV008,26.0506,57.2812
+LV009,"3",LV,Zemgale,Zemgale,"4","3","3",LV009,25.6636,56.46
+ME000,"3",ME,Crna Gora,Црна Гора,"4","2","1",ME000,19.269,42.7721
+MK001,"3",MK,Vardarski,Вардарски,"4","2","0",MK001,21.893,41.5637
+MK002,"3",MK,Istočen,Источен,"4","1","0",MK002,22.5019,41.9613
+MK003,"3",MK,Jugozapaden,Југозападен,"4","2","0",MK003,20.7246,41.2521
+MK004,"3",MK,Jugoistočen,Југоисточен,"4","2","0",MK004,22.5703,41.4166
+MK005,"3",MK,Пелагониски,Пелагониски,"4","2","0",MK005,21.4221,41.1645
+MK006,"3",MK,Pološki,Полошки,"4","1","0",MK006,20.8835,41.868
+MK007,"3",MK,Severoistočen,Североисточен,"4","1","0",MK007,21.9897,42.1629
+MK008,"3",MK,Skopski,Скопски,"4","1","0",MK008,21.4337,41.9688
+MT001,"3",MT,Malta,Malta,"4","1","1",MT001,14.4312,35.886
+MT002,"3",MT,Gozo and Comino/Għawdex u Kemmuna,Gozo and Comino/Għawdex u Kemmuna,"4","1","1",MT002,14.2507,36.0488
+NL111,"3",NL,Oost-Groningen,Oost-Groningen,"4","2","1",NL111,7.0323,53.093
+NL112,"3",NL,Delfzijl en omgeving,Delfzijl en omgeving,"4","2","1",NL112,6.8541,53.3445
+NL113,"3",NL,Overig Groningen,Overig Groningen,"4","2","1",NL113,6.5166,53.2645
+NL124,"3",NL,Noord-Friesland,Noord-Friesland,"4","2","1",NL124,5.8727,53.2367
+NL125,"3",NL,Zuidwest-Friesland,Zuidwest-Friesland,"4","2","1",NL125,5.5133,52.9504
+NL126,"3",NL,Zuidoost-Friesland,Zuidoost-Friesland,"4","2","2",NL126,6.09,52.9922
+NL131,"3",NL,Noord-Drenthe,Noord-Drenthe,"4","2","2",NL131,6.582,52.9891
+NL132,"3",NL,Zuidoost-Drenthe,Zuidoost-Drenthe,"4","2","3",NL132,6.8636,52.7814
+NL133,"3",NL,Zuidwest-Drenthe,Zuidwest-Drenthe,"4","2","3",NL133,6.3679,52.765
+NL211,"3",NL,Noord-Overijssel,Noord-Overijssel,"4","2","3",NL211,6.258,52.563
+NL212,"3",NL,Zuidwest-Overijssel,Zuidwest-Overijssel,"4","2","3",NL212,6.2438,52.3421
+NL213,"3",NL,Twente,Twente,"4","1","3",NL213,6.7082,52.3115
+NL221,"3",NL,Veluwe,Veluwe,"4","1","3",NL221,5.8083,52.2325
+NL224,"3",NL,Zuidwest-Gelderland,Zuidwest-Gelderland,"4","2","3",NL224,5.3134,51.8592
+NL225,"3",NL,Achterhoek,Achterhoek,"4","2","3",NL225,6.3962,52.0424
+NL226,"3",NL,Arnhem/Nijmegen,Arnhem/Nijmegen,"4","1","3",NL226,5.8809,51.9045
+NL230,"3",NL,Flevoland,Flevoland,"4","1","2",NL230,5.4817,52.5438
+NL310,"3",NL,Utrecht,Utrecht,"4","1","3",NL310,5.2003,52.0749
+NL321,"3",NL,Kop van Noord-Holland,Kop van Noord-Holland,"4","1","1",NL321,5.0168,52.7899
+NL323,"3",NL,IJmond,IJmond,"4","1","1",NL323,4.6517,52.4976
+NL324,"3",NL,Agglomeratie Haarlem,Agglomeratie Haarlem,"4","1","1",NL324,4.6016,52.3769
+NL325,"3",NL,Zaanstreek,Zaanstreek,"4","1","2",NL325,4.7924,52.4751
+NL327,"3",NL,Het Gooi en Vechtstreek,Het Gooi en Vechtstreek,"4","1","2",NL327,5.1384,52.2864
+NL328,"3",NL,Alkmaar en omgeving,Alkmaar en omgeving,"4","1","1",NL328,4.7449,52.6301
+NL329,"3",NL,Groot-Amsterdam,Groot-Amsterdam,"4","1","2",NL329,4.8454,52.3309
+NL332,"3",NL,Agglomeratie's-Gravenhage,Agglomeratie's-Gravenhage,"4","1","1",NL332,4.382,52.0768
+NL333,"3",NL,Delft en Westland,Delft en Westland,"4","1","1",NL333,4.2571,51.9893
+NL337,"3",NL,Agglomeratie Leiden en Bollenstreek,Agglomeratie Leiden en Bollenstreek,"4","1","1",NL337,4.4615,52.2066
+NL33A,"3",NL,Zuidoost-Zuid-Holland,Zuidoost-Zuid-Holland,"4","1","2",NL33A,4.8328,51.8554
+NL33B,"3",NL,Oost-Zuid-Holland,Oost-Zuid-Holland,"4","1","2",NL33B,4.72,52.0546
+NL33C,"3",NL,Groot-Rijnmond,Groot-Rijnmond,"4","1","1",NL33C,4.2298,51.7992
+NL341,"3",NL,Zeeuwsch-Vlaanderen,Zeeuwsch-Vlaanderen,"4","3","1",NL341,3.7883,51.3073
+NL342,"3",NL,Overig Zeeland,Overig Zeeland,"4","2","1",NL342,3.9835,51.4841
+NL411,"3",NL,West-Noord-Brabant,West-Noord-Brabant,"4","1","2",NL411,4.5325,51.5698
+NL412,"3",NL,Midden-Noord-Brabant,Midden-Noord-Brabant,"4","1","3",NL412,5.0164,51.6089
+NL413,"3",NL,Noordoost-Noord-Brabant,Noordoost-Noord-Brabant,"4","2","3",NL413,5.5216,51.6775
+NL414,"3",NL,Zuidoost-Noord-Brabant,Zuidoost-Noord-Brabant,"4","1","3",NL414,5.5077,51.4156
+NL421,"3",NL,Noord-Limburg,Noord-Limburg,"4","2","3",NL421,6.0243,51.4374
+NL422,"3",NL,Midden-Limburg,Midden-Limburg,"4","2","3",NL422,5.8793,51.1997
+NL423,"3",NL,Zuid-Limburg,Zuid-Limburg,"4","1","3",NL423,5.8743,50.8844
+NO011,"3",NO,Oslo,Oslo,"2","1","1",NO011,10.725,59.9863
+NO012,"3",NO,Akershus,Akershus,"4","1","1",NO012,11.1868,60.0173
+NO021,"3",NO,Hedmark,Hedmark,"2","3","3",NO021,11.436,61.4321
+NO022,"3",NO,Oppland,Oppland,"3","3","3",NO022,9.3485,61.4174
+NO031,"3",NO,Østfold,Østfold,"4","2","1",NO031,11.3282,59.3797
+NO032,"3",NO,Buskerud,Buskerud,"3","2","1",NO032,9.0352,60.4136
+NO033,"3",NO,Vestfold,Vestfold,"4","2","1",NO033,10.1344,59.3164
+NO034,"3",NO,Telemark,Telemark,"2","2","1",NO034,8.5209,59.5239
+NO041,"3",NO,Aust-Agder,Aust-Agder,"2","3","1",NO041,8.1156,58.6243
+NO042,"3",NO,Vest-Agder,Vest-Agder,"2","2","1",NO042,7.2052,58.4692
+NO043,"3",NO,Rogaland,Rogaland,"2","2","1",NO043,5.9724,58.7183
+NO051,"3",NO,Hordaland,Hordaland,"3","2","1",NO051,7.0427,60.1256
+NO052,"3",NO,Sogn og Fjordane,Sogn og Fjordane,"3","3","1",NO052,7.4438,60.8931
+NO053,"3",NO,Møre og Romsdal,Møre og Romsdal,"3","3","1",NO053,8.44,62.5453
+NO071,"3",NO,Nordland,Nordland,"3","3","1",NO071,14.7294,66.6409
+NO072,"3",NO,Troms,Troms,"3","3","1",NO072,19.5977,68.9285
+NO073,"3",NO,Finnmark,Finnmark,"4","3","1",NO073,24.1017,69.6385
+PL213,"3",PL,Miasto Kraków,Miasto Kraków,"4","1","3",PL213,19.9627,50.0507
+PL214,"3",PL,Krakowski,Krakowski,"4","2","3",PL214,20.4108,49.9914
+PL217,"3",PL,Tarnowski,Tarnowski,"4","3","3",PL217,20.9143,50.0147
+PL218,"3",PL,Nowosądecki,Nowosądecki,"3","3","3",PL218,20.7776,49.6039
+PL219,"3",PL,Nowotarski,Nowotarski,"3","3","3",PL219,20.0149,49.418
+PL21A,"3",PL,Oświęcimski,Oświęcimski,"4","2","3",PL21A,19.4558,50.0165
+PL224,"3",PL,Częstochowski,Częstochowski,"4","2","3",PL224,19.1845,50.817
+PL225,"3",PL,Bielski,Bielski,"3","2","3",PL225,19.0468,49.7074
+PL227,"3",PL,Rybnicki,Rybnicki,"4","1","3",PL227,18.4036,50.086
+PL228,"3",PL,Bytomski,Bytomski,"4","1","3",PL228,18.8189,50.5853
+PL229,"3",PL,Gliwicki,Gliwicki,"4","1","3",PL229,18.6441,50.3083
+PL22A,"3",PL,Katowicki,Katowicki,"4","1","3",PL22A,18.9973,50.2568
+PL22B,"3",PL,Sosnowiecki,Sosnowiecki,"4","1","3",PL22B,19.4957,50.4873
+PL22C,"3",PL,Tyski,Tyski,"4","1","3",PL22C,18.9296,50.0625
+PL411,"3",PL,Pilski,Pilski,"4","3","3",PL411,17.0806,53.1514
+PL414,"3",PL,Koniński,Koniński,"4","3","3",PL414,18.1125,52.2864
+PL415,"3",PL,Miasto Poznań,Miasto Poznań,"4","1","3",PL415,16.927,52.4042
+PL416,"3",PL,Kaliski,Kaliski,"4","3","3",PL416,17.8568,51.6684
+PL417,"3",PL,Leszczyński,Leszczyński,"4","3","3",PL417,16.4752,52.0849
+PL418,"3",PL,Poznański,Poznański,"4","2","3",PL418,17.0984,52.1926
+PL424,"3",PL,Miasto Szczecin,Miasto Szczecin,"4","2","2",PL424,14.6081,53.4392
+PL426,"3",PL,Koszaliński,Koszaliński,"4","2","1",PL426,16.1966,54.1534
+PL427,"3",PL,Szczecinecko-pyrzycki,Szczecinecko-pyrzycki,"4","3","3",PL427,15.8547,53.4107
+PL428,"3",PL,Szczeciński,Szczeciński,"4","2","1",PL428,14.8281,53.4688
+PL431,"3",PL,Gorzowski,Gorzowski,"4","2","3",PL431,15.2787,52.5643
+PL432,"3",PL,Zielonogórski,Zielonogórski,"4","2","3",PL432,15.3775,51.8757
+PL514,"3",PL,Miasto Wrocław,Miasto Wrocław,"4","1","3",PL514,16.9982,51.1237
+PL515,"3",PL,Jeleniogórski,Jeleniogórski,"4","2","3",PL515,15.601,51.0919
+PL516,"3",PL,Legnicko-głogowski,Legnicko-głogowski,"4","2","3",PL516,16.2191,51.4811
+PL517,"3",PL,Wałbrzyski,Wałbrzyski,"3","2","3",PL517,16.6201,50.592
+PL518,"3",PL,Wrocławski,Wrocławski,"4","2","3",PL518,17.0662,50.8257
+PL523,"3",PL,Nyski,Nyski,"4","3","3",PL523,17.4839,50.4358
+PL524,"3",PL,Opolski,Opolski,"4","2","3",PL524,18.1497,50.705
+PL613,"3",PL,Bydgosko-toruński,Bydgosko-toruński,"4","1","3",PL613,18.3475,53.086
+PL616,"3",PL,Grudziądzki,Grudziądzki,"4","3","3",PL616,19.0931,53.2573
+PL617,"3",PL,Inowrocławski,Inowrocławski,"4","3","3",PL617,18.0018,52.7979
+PL618,"3",PL,Świecki,Świecki,"4","3","3",PL618,18.0761,53.5661
+PL619,"3",PL,Włocławski,Włocławski,"4","3","3",PL619,18.9683,52.6562
+PL621,"3",PL,Elbląski,Elbląski,"4","2","1",PL621,19.772,53.8091
+PL622,"3",PL,Olsztyński,Olsztyński,"4","2","3",PL622,20.827,53.844
+PL623,"3",PL,Ełcki,Ełcki,"4","2","3",PL623,22.0785,53.9542
+PL633,"3",PL,Trójmiejski,Trójmiejski,"4","1","1",PL633,18.5788,54.3861
+PL634,"3",PL,Gdański,Gdański,"4","2","1",PL634,18.0929,54.4998
+PL636,"3",PL,Słupski,Słupski,"4","2","1",PL636,17.2914,54.3475
+PL637,"3",PL,Chojnicki,Chojnicki,"4","3","3",PL637,17.6097,53.8137
+PL638,"3",PL,Starogardzki,Starogardzki,"4","2","2",PL638,18.7902,53.881
+PL711,"3",PL,Miasto Łódź,Miasto Łódź,"4","1","3",PL711,19.4824,51.7659
+PL712,"3",PL,Łódzki,Łódzki,"4","1","3",PL712,19.7943,51.8233
+PL713,"3",PL,Piotrkowski,Piotrkowski,"4","3","3",PL713,19.7884,51.334
+PL714,"3",PL,Sieradzki,Sieradzki,"4","3","3",PL714,18.7549,51.4891
+PL715,"3",PL,Skierniewicki,Skierniewicki,"4","3","3",PL715,19.6775,52.1428
+PL721,"3",PL,Kielecki,Kielecki,"4","2","3",PL721,20.8348,50.8987
+PL722,"3",PL,Sandomiersko-jędrzejowski,Sandomiersko-jędrzejowski,"4","3","3",PL722,21.3265,50.634
+PL811,"3",PL,Bialski,Bialski,"4","3","3",PL811,23.131,51.7877
+PL812,"3",PL,Chełmsko-zamojski,Chełmsko-zamojski,"4","3","3",PL812,23.3224,50.7605
+PL814,"3",PL,Lubelski,Lubelski,"4","2","3",PL814,22.6386,51.2804
+PL815,"3",PL,Puławski,Puławski,"4","3","3",PL815,22.1192,51.4016
+PL821,"3",PL,Krośnieński,Krośnieński,"2","3","3",PL821,22.0577,49.5033
+PL822,"3",PL,Przemyski,Przemyski,"4","3","3",PL822,22.8259,50.0136
+PL823,"3",PL,Rzeszowski,Rzeszowski,"4","3","3",PL823,21.9264,50.054
+PL824,"3",PL,Tarnobrzeski,Tarnobrzeski,"4","3","3",PL824,21.9063,50.5975
+PL841,"3",PL,Białostocki,Białostocki,"4","2","3",PL841,23.3326,53.2415
+PL842,"3",PL,Łomżyński,Łomżyński,"4","3","3",PL842,22.7646,52.6519
+PL843,"3",PL,Suwalski,Suwalski,"4","3","3",PL843,22.9141,53.7964
+PL911,"3",PL,Miasto Warszawa,Miasto Warszawa,"4","1","3",PL911,21.0284,52.2406
+PL912,"3",PL,Warszawski wschodni,Warszawski wschodni,"4","2","3",PL912,21.4057,52.265
+PL913,"3",PL,Warszawski zachodni,Warszawski zachodni,"4","2","3",PL913,20.7789,52.1824
+PL921,"3",PL,Radomski,Radomski,"4","2","3",PL921,21.202,51.4272
+PL922,"3",PL,Ciechanowski,Ciechanowski,"4","3","3",PL922,20.3989,52.8487
+PL923,"3",PL,Płocki,Płocki,"4","3","3",PL923,19.7563,52.599
+PL924,"3",PL,Ostrołęcki,Ostrołęcki,"4","3","3",PL924,21.438,52.9925
+PL925,"3",PL,Siedlecki,Siedlecki,"4","3","3",PL925,22.2021,52.3384
+PL926,"3",PL,Żyrardowski,Żyrardowski,"4","3","3",PL926,20.2737,52.2166
+PT111,"3",PT,Alto Minho,Alto Minho,"2","3","1",PT111,-8.5052,41.8705
+PT112,"3",PT,Cávado,Cávado,"2","2","1",PT112,-8.4633,41.619
+PT119,"3",PT,Ave,Ave,"2","2","2",PT119,-8.2057,41.5262
+PT11A,"3",PT,Área Metropolitana do Porto,Área Metropolitana do Porto,"4","1","1",PT11A,-8.4882,41.1062
+PT11B,"3",PT,Alto Tâmega,Alto Tâmega,"3","3","3",PT11B,-7.6302,41.6642
+PT11C,"3",PT,Tâmega e Sousa,Tâmega e Sousa,"3","2","2",PT11C,-8.1152,41.1956
+PT11D,"3",PT,Douro,Douro,"3","3","3",PT11D,-7.4329,41.1566
+PT11E,"3",PT,Terras de Trás-os-Montes,Terras de Trás-os-Montes,"3","3","3",PT11E,-6.826,41.5841
+PT150,"3",PT,Algarve,Algarve,"4","2","1",PT150,-8.1299,37.2026
+PT16B,"3",PT,Oeste,Oeste,"4","3","1",PT16B,-9.1199,39.2885
+PT16D,"3",PT,Região de Aveiro,Região de Aveiro,"4","2","1",PT16D,-8.5128,40.6376
+PT16E,"3",PT,Região de Coimbra,Região de Coimbra,"4","3","1",PT16E,-8.3354,40.2176
+PT16F,"3",PT,Região de Leiria,Região de Leiria,"4","3","1",PT16F,-8.8099,39.7488
+PT16G,"3",PT,Viseu Dão Lafões,Viseu Dão Lafões,"3","3","3",PT16G,-7.9368,40.7086
+PT16H,"3",PT,Beira Baixa,Beira Baixa,"4","3","3",PT16H,-7.5191,39.8617
+PT16I,"3",PT,Médio Tejo,Médio Tejo,"4","3","3",PT16I,-8.2401,39.5844
+PT16J,"3",PT,Beiras e Serra da Estrela,Beiras e Serra da Estrela,"3","3","3",PT16J,-7.2846,40.5254
+PT170,"3",PT,Área Metropolitana de Lisboa,Área Metropolitana de Lisboa,"4","1","1",PT170,-8.8878,38.6221
+PT181,"3",PT,Alentejo Litoral,Alentejo Litoral,"4","3","1",PT181,-8.5526,37.9819
+PT184,"3",PT,Baixo Alentejo,Baixo Alentejo,"4","3","3",PT184,-7.8202,37.8602
+PT185,"3",PT,Lezíria do Tejo,Lezíria do Tejo,"4","3","1",PT185,-8.6158,39.1152
+PT186,"3",PT,Alto Alentejo,Alto Alentejo,"4","3","3",PT186,-7.6244,39.2868
+PT187,"3",PT,Alentejo Central,Alentejo Central,"4","3","3",PT187,-7.8568,38.5987
+PT200,"3",PT,Região Autónoma dos Açores,Região Autónoma dos Açores,"2","2","1",PT200,-25.3659,37.7846
+PT300,"3",PT,Região Autónoma da Madeira,Região Autónoma da Madeira,"3","1","1",PT300,-16.9503,32.7326
+RO111,"3",RO,Bihor,Bihor,"4","3","3",RO111,22.2065,46.9461
+RO112,"3",RO,Bistriţa-Năsăud,Bistriţa-Năsăud,"3","3","3",RO112,24.5271,47.2361
+RO113,"3",RO,Cluj,Cluj,"3","2","3",RO113,23.5458,46.8113
+RO114,"3",RO,Maramureş,Maramureş,"3","3","3",RO114,23.9978,47.6699
+RO115,"3",RO,Satu Mare,Satu Mare,"4","3","3",RO115,22.8733,47.7043
+RO116,"3",RO,Sălaj,Sălaj,"4","3","3",RO116,23.227,47.1896
+RO121,"3",RO,Alba,Alba,"2","3","3",RO121,23.485,46.1703
+RO122,"3",RO,Braşov,Braşov,"3","2","3",RO122,25.32,45.759
+RO123,"3",RO,Covasna,Covasna,"3","3","3",RO123,26.0292,45.9309
+RO124,"3",RO,Harghita,Harghita,"3","3","3",RO124,25.5576,46.5514
+RO125,"3",RO,Mureş,Mureş,"4","3","3",RO125,24.6949,46.6066
+RO126,"3",RO,Sibiu,Sibiu,"4","2","3",RO126,24.2599,45.8518
+RO211,"3",RO,Bacău,Bacău,"2","3","3",RO211,26.782,46.4173
+RO212,"3",RO,Botoşani,Botoşani,"4","3","3",RO212,26.7543,47.8448
+RO213,"3",RO,Iaşi,Iaşi,"4","2","3",RO213,27.2856,47.2041
+RO214,"3",RO,Neamţ,Neamţ,"2","3","3",RO214,26.3678,46.9759
+RO215,"3",RO,Suceava,Suceava,"2","3","3",RO215,25.8238,47.6153
+RO216,"3",RO,Vaslui,Vaslui,"4","3","3",RO216,27.7634,46.5187
+RO221,"3",RO,Brăila,Brăila,"4","2","3",RO221,27.6794,45.0886
+RO222,"3",RO,Buzău,Buzău,"4","3","3",RO222,26.7502,45.251
+RO223,"3",RO,Constanţa,Constanţa,"4","2","1",RO223,28.2621,44.2628
+RO224,"3",RO,Galaţi,Galaţi,"4","2","3",RO224,27.7776,45.7873
+RO225,"3",RO,Tulcea,Tulcea,"4","3","1",RO225,28.8551,44.9878
+RO226,"3",RO,Vrancea,Vrancea,"2","3","3",RO226,26.9753,45.7823
+RO311,"3",RO,Argeş,Argeş,"4","3","3",RO311,24.8772,45.0267
+RO312,"3",RO,Călăraşi,Călăraşi,"4","3","3",RO312,26.9557,44.2924
+RO313,"3",RO,Dâmboviţa,Dâmboviţa,"4","3","3",RO313,25.5006,44.8621
+RO314,"3",RO,Giurgiu,Giurgiu,"4","3","3",RO314,25.8826,44.1292
+RO315,"3",RO,Ialomiţa,Ialomiţa,"4","3","3",RO315,27.2151,44.6327
+RO316,"3",RO,Prahova,Prahova,"2","2","3",RO316,26.0175,45.1147
+RO317,"3",RO,Teleorman,Teleorman,"4","3","3",RO317,25.1911,44.0167
+RO321,"3",RO,Bucureşti,Bucureşti,"4","1","3",RO321,26.0895,44.4419
+RO322,"3",RO,Ilfov,Ilfov,"4","1","3",RO322,26.1598,44.5461
+RO411,"3",RO,Dolj,Dolj,"4","2","3",RO411,23.6316,44.1386
+RO412,"3",RO,Gorj,Gorj,"4","3","3",RO412,23.3297,45.0091
+RO413,"3",RO,Mehedinţi,Mehedinţi,"4","3","3",RO413,22.814,44.5902
+RO414,"3",RO,Olt,Olt,"4","3","3",RO414,24.4392,44.2458
+RO415,"3",RO,Vâlcea,Vâlcea,"2","3","3",RO415,24.109,45.1011
+RO421,"3",RO,Arad,Arad,"4","2","3",RO421,21.754,46.2622
+RO422,"3",RO,Caraş-Severin,Caraş-Severin,"2","3","3",RO422,22.028,45.1458
+RO423,"3",RO,Hunedoara,Hunedoara,"3","2","3",RO423,22.9385,45.7362
+RO424,"3",RO,Timiş,Timiş,"4","2","3",RO424,21.3552,45.7469
+RS110,"3",RS,Beogradska oblast,Београдска област,"4","1","0",RS110,20.427,44.6593
+RS121,"3",RS,Zapadnobačka oblast,Западнобачка област,"4","2","0",RS121,19.2197,45.7132
+RS122,"3",RS,Južnobanatska oblast,Јужнобанатска област,"4","2","0",RS122,20.9846,45.0049
+RS123,"3",RS,Južnobačka oblast,Јужнобачка област,"4","2","0",RS123,19.7343,45.402
+RS124,"3",RS,Severnobanatska oblast,Севернобанатска област,"4","2","0",RS124,20.1707,45.9265
+RS125,"3",RS,Severnobačka oblast,Севернобачка област,"4","2","0",RS125,19.6278,45.9331
+RS126,"3",RS,Srednjobanatska oblast,Средњобанатска област,"4","2","0",RS126,20.5171,45.441
+RS127,"3",RS,Sremska oblast,Сремска област,"4","2","0",RS127,19.6781,45.0376
+RS211,"3",RS,Zlatiborska oblast,Златиборска област,"4","2","0",RS211,19.7599,43.6515
+RS212,"3",RS,Kolubarska oblast,Колубарска област,"4","3","0",RS212,19.9509,44.3113
+RS213,"3",RS,Mačvanska oblast,Мачванска област,"4","3","0",RS213,19.358,44.5414
+RS214,"3",RS,Moravička oblast,Моравичка област,"4","2","0",RS214,20.3097,43.8156
+RS215,"3",RS,Pomoravska oblast,Поморавска област,"4","3","0",RS215,21.3684,43.9904
+RS216,"3",RS,Rasinska oblast,Расинска област,"4","3","0",RS216,21.1583,43.5166
+RS217,"3",RS,Raška oblast,Рашка област,"4","2","0",RS217,20.5563,43.3668
+RS218,"3",RS,Šumadijska oblast,Шумадијска област,"4","2","0",RS218,20.773,44.1235
+RS221,"3",RS,Borska oblast,Борска област,"4","2","0",RS221,22.2451,44.3035
+RS222,"3",RS,Braničevska oblast,Браничевска област,"4","3","0",RS222,21.5144,44.4736
+RS223,"3",RS,Zaječarska oblast,Зајечарска област,"4","2","0",RS223,22.153,43.7392
+RS224,"3",RS,Jablanička oblast,Јабланичка област,"4","2","0",RS224,21.9217,42.9217
+RS225,"3",RS,Nišavska oblast,Нишавска област,"4","2","0",RS225,21.9075,43.3469
+RS226,"3",RS,Pirotska oblast,Пиротска област,"4","2","0",RS226,22.592,43.14
+RS227,"3",RS,Podunavska oblast,Подунавска област,"4","2","0",RS227,20.9664,44.4577
+RS228,"3",RS,Pčinjska oblast,Пчињска област,"4","2","0",RS228,22.0606,42.5316
+RS229,"3",RS,Toplička oblast,Топличка област,"4","2","0",RS229,21.397,43.1473
+SE110,"3",SE,Stockholms län,Stockholms län,"4","1","1",SE110,17.7435,59.3515
+SE121,"3",SE,Uppsala län,Uppsala län,"4","2","1",SE121,17.5459,60.0412
+SE122,"3",SE,Södermanlands län,Södermanlands län,"4","2","1",SE122,16.7034,59.0691
+SE123,"3",SE,Östergötlands län,Östergötlands län,"4","2","1",SE123,15.6517,58.3642
+SE124,"3",SE,Örebro län,Örebro län,"4","2","3",SE124,14.9716,59.3633
+SE125,"3",SE,Västmanlands län,Västmanlands län,"4","2","3",SE125,16.1719,59.7454
+SE211,"3",SE,Jönköpings län,Jönköpings län,"4","2","3",SE211,14.4116,57.5365
+SE212,"3",SE,Kronobergs län,Kronobergs län,"4","3","3",SE212,14.5614,56.7739
+SE213,"3",SE,Kalmar län,Kalmar län,"4","3","1",SE213,16.0568,57.2358
+SE214,"3",SE,Gotlands län,Gotlands län,"4","3","1",SE214,18.5115,57.5066
+SE221,"3",SE,Blekinge län,Blekinge län,"4","2","1",SE221,15.2131,56.2897
+SE224,"3",SE,Skåne län,Skåne län,"4","2","1",SE224,13.6279,55.9618
+SE231,"3",SE,Hallands län,Hallands län,"4","2","1",SE231,12.8733,56.9396
+SE232,"3",SE,Västra Götalands län,Västra Götalands län,"4","1","1",SE232,12.9933,57.9886
+SE311,"3",SE,Värmlands län,Värmlands län,"4","2","3",SE311,13.1691,59.7861
+SE312,"3",SE,Dalarnas län,Dalarnas län,"4","3","3",SE312,14.3522,60.9663
+SE313,"3",SE,Gävleborgs län,Gävleborgs län,"4","2","1",SE313,16.3256,61.4409
+SE321,"3",SE,Västernorrlands län,Västernorrlands län,"4","2","1",SE321,17.2655,63.1044
+SE322,"3",SE,Jämtlands län,Jämtlands län,"4","3","3",SE322,14.2975,63.2619
+SE331,"3",SE,Västerbottens län,Västerbottens län,"4","2","1",SE331,17.7942,64.866
+SE332,"3",SE,Norrbottens län,Norrbottens län,"4","2","1",SE332,20.0599,66.9463
+SI031,"3",SI,Pomurska,Pomurska,"4","3","3",SI031,16.1953,46.6642
+SI032,"3",SI,Podravska,Podravska,"4","3","3",SI032,15.7614,46.4804
+SI033,"3",SI,Koroška,Koroška,"3","3","3",SI033,15.0967,46.5489
+SI034,"3",SI,Savinjska,Savinjska,"3","3","3",SI034,15.1886,46.2767
+SI035,"3",SI,Zasavska,Zasavska,"3","3","3",SI035,15.0032,46.0861
+SI036,"3",SI,Posavska,Posavska,"2","3","3",SI036,15.4175,45.9713
+SI037,"3",SI,Jugovzhodna Slovenija,Jugovzhodna Slovenija,"2","3","3",SI037,15.0229,45.7238
+SI038,"3",SI,Primorsko-notranjska,Primorsko-notranjska,"3","3","2",SI038,14.2956,45.679
+SI041,"3",SI,Osrednjeslovenska,Osrednjeslovenska,"2","2","3",SI041,14.5485,46.0395
+SI042,"3",SI,Gorenjska,Gorenjska,"3","2","3",SI042,14.1295,46.3153
+SI043,"3",SI,Goriška,Goriška,"3","3","2",SI043,13.7954,46.066
+SI044,"3",SI,Obalno-kraška,Obalno-kraška,"3","2","1",SI044,13.8572,45.5298
+SK010,"3",SK,Bratislavský kraj,Bratislavský kraj,"4","1","3",SK010,17.1607,48.2998
+SK021,"3",SK,Trnavský kraj,Trnavský kraj,"4","3","3",SK021,17.5692,48.3171
+SK022,"3",SK,Trenčiansky kraj,Trenčiansky kraj,"2","2","3",SK022,18.2322,48.8622
+SK023,"3",SK,Nitriansky kraj,Nitriansky kraj,"4","2","3",SK023,18.3208,48.1248
+SK031,"3",SK,Žilinský kraj,Žilinský kraj,"3","2","3",SK031,19.1683,49.1772
+SK032,"3",SK,Banskobystrický kraj,Banskobystrický kraj,"3","3","3",SK032,19.5128,48.5023
+SK041,"3",SK,Prešovský kraj,Prešovský kraj,"3","3","3",SK041,21.2254,49.1842
+SK042,"3",SK,Košický kraj,Košický kraj,"2","2","3",SK042,20.7963,48.7789
+TR100,"3",TR,Istanbul,Istanbul,"4","1","1",TR100,28.4372,41.2186
+TR211,"3",TR,Tekirdag,Tekirdag,"4","2","1",TR211,27.1258,40.9773
+TR212,"3",TR,Edirne,Edirne,"4","2","1",TR212,26.491,40.9842
+TR213,"3",TR,Kirklareli,Kirklareli,"4","2","1",TR213,27.4372,41.6835
+TR221,"3",TR,Balikesir,Balikesir,"2","2","1",TR221,27.8849,39.6577
+TR222,"3",TR,Çanakkale,Çanakkale,"2","2","1",TR222,26.7991,39.9332
+TR310,"3",TR,Izmir,Izmir,"3","1","1",TR310,27.4507,38.2226
+TR321,"3",TR,Aydin,Aydin,"3","2","1",TR321,28.0308,37.7515
+TR322,"3",TR,Denizli,Denizli,"3","2","3",TR322,29.2332,37.7478
+TR323,"3",TR,Mugla,Mugla,"3","2","1",TR323,28.5049,37.0408
+TR331,"3",TR,Manisa,Manisa,"3","2","3",TR331,28.1366,38.7615
+TR332,"3",TR,Afyon,Afyon,"3","2","3",TR332,30.629,38.6258
+TR333,"3",TR,Kütahya,Kütahya,"3","2","3",TR333,29.5546,39.2738
+TR334,"3",TR,Usak,Usak,"4","2","3",TR334,29.3492,38.5629
+TR411,"3",TR,Bursa,Bursa,"3","1","1",TR411,29.061,39.9997
+TR412,"3",TR,Eskisehir,Eskisehir,"4","2","3",TR412,31.0683,39.6026
+TR413,"3",TR,Bilecik,Bilecik,"3","2","3",TR413,30.1086,40.1095
+TR421,"3",TR,Kocaeli,Kocaeli,"4","1","1",TR421,30.1016,40.8989
+TR422,"3",TR,Sakarya,Sakarya,"2","1","1",TR422,30.5093,40.7496
+TR423,"3",TR,Düzce,Düzce,"2","1","1",TR423,31.2408,40.8889
+TR424,"3",TR,Bolu,Bolu,"3","2","3",TR424,31.6016,40.5848
+TR425,"3",TR,Yalova,Yalova,"2","1","1",TR425,29.2492,40.5945
+TR510,"3",TR,Ankara,Ankara,"2","1","3",TR510,32.5952,39.7927
+TR521,"3",TR,Konya,Konya,"4","2","3",TR521,32.5975,38.0224
+TR522,"3",TR,Karaman,Karaman,"2","2","3",TR522,33.2274,37.188
+TR611,"3",TR,Antalya,Antalya,"2","1","1",TR611,30.0895,36.7595
+TR612,"3",TR,Isparta,Isparta,"3","2","3",TR612,30.9307,37.8991
+TR613,"3",TR,Burdur,Burdur,"3","2","3",TR613,30.1216,37.5159
+TR621,"3",TR,Adana,Adana,"2","1","1",TR621,35.5944,37.3957
+TR622,"3",TR,Içel,Içel,"2","1","1",TR622,33.8533,36.6983
+TR631,"3",TR,Hatay,Hatay,"3","1","1",TR631,36.2595,36.4413
+TR632,"3",TR,Kahramanmaras,Kahramanmaras,"3","2","3",TR632,36.9753,37.8935
+TR633,"3",TR,Osmaniye,Osmaniye,"3","1","2",TR633,36.3151,37.1653
+TR711,"3",TR,Kirikkale,Kirikkale,"3","1","3",TR711,33.7086,39.8553
+TR712,"3",TR,Aksaray,Aksaray,"4","2","3",TR712,33.8389,38.4318
+TR713,"3",TR,Nigde,Nigde,"3","2","3",TR713,34.681,37.8992
+TR714,"3",TR,Nevsehir,Nevsehir,"1","2","3",TR714,34.673,38.7861
+TR715,"3",TR,Kirsehir,Kirsehir,"4","2","3",TR715,34.121,39.3179
+TR721,"3",TR,Kayseri,Kayseri,"2","1","3",TR721,35.8241,38.6047
+TR722,"3",TR,Sivas,Sivas,"3","2","3",TR722,37.3063,39.5698
+TR723,"3",TR,Yozgat,Yozgat,"4","2","3",TR723,35.2269,39.6604
+TR811,"3",TR,Zonguldak,Zonguldak,"3","1","1",TR811,31.8612,41.2406
+TR812,"3",TR,Karabük,Karabük,"3","2","3",TR812,32.6314,41.1836
+TR813,"3",TR,Bartin,Bartin,"3","2","1",TR813,32.4907,41.5849
+TR821,"3",TR,Kastamonu,Kastamonu,"3","2","1",TR821,33.6696,41.499
+TR822,"3",TR,Çankiri,Çankiri,"3","3","3",TR822,33.391,40.6858
+TR823,"3",TR,Sinop,Sinop,"3","2","1",TR823,34.8721,41.6296
+TR831,"3",TR,Samsun,Samsun,"2","2","1",TR831,35.9971,41.2313
+TR832,"3",TR,Tokat,Tokat,"3","2","3",TR832,36.5715,40.3858
+TR833,"3",TR,Çorum,Çorum,"2","2","3",TR833,34.6475,40.5718
+TR834,"3",TR,Amasya,Amasya,"3","2","3",TR834,35.6919,40.7195
+TR901,"3",TR,Trabzon,Trabzon,"3","1","1",TR901,39.4998,40.8829
+TR902,"3",TR,Ordu,Ordu,"3","2","1",TR902,37.5008,40.8066
+TR903,"3",TR,Giresun,Giresun,"3","2","1",TR903,38.5989,40.5941
+TR904,"3",TR,Rize,Rize,"3","2","1",TR904,40.8574,40.9259
+TR905,"3",TR,Artvin,Artvin,"3","3","1",TR905,41.8072,41.126
+TR906,"3",TR,Gümüshane,Gümüshane,"3","3","3",TR906,39.3873,40.3652
+TRA11,"3",TR,Erzurum,Erzurum,"3","2","3",TRA11,41.5435,40.0419
+TRA12,"3",TR,Erzincan,Erzincan,"3","2","3",TRA12,38.9254,39.7031
+TRA13,"3",TR,Bayburt,Bayburt,"3","3","3",TRA13,40.1885,40.2621
+TRA21,"3",TR,Agri,Agri,"3","2","3",TRA21,43.2409,39.5635
+TRA22,"3",TR,Kars,Kars,"3","2","3",TRA22,43.0721,40.4381
+TRA23,"3",TR,Igdir,Igdir,"2","2","3",TRA23,43.9868,39.899
+TRA24,"3",TR,Ardahan,Ardahan,"3","2","3",TRA24,42.8128,41.1041
+TRB11,"3",TR,Malatya,Malatya,"3","2","3",TRB11,38.1462,38.5503
+TRB12,"3",TR,Elazig,Elazig,"3","2","3",TRB12,39.3814,38.5605
+TRB13,"3",TR,Bingöl,Bingöl,"3","3","3",TRB13,40.6772,39.0377
+TRB14,"3",TR,Tunceli,Tunceli,"3","3","3",TRB14,39.4686,39.199
+TRB21,"3",TR,Van,Van,"3","2","3",TRB21,43.6013,38.4682
+TRB22,"3",TR,Mus,Mus,"3","2","3",TRB22,41.5699,38.9077
+TRB23,"3",TR,Bitlis,Bitlis,"3","2","3",TRB23,42.3974,38.483
+TRB24,"3",TR,Hakkari,Hakkari,"3","2","3",TRB24,44.0689,37.4617
+TRC11,"3",TR,Gaziantep,Gaziantep,"2","1","3",TRC11,37.3883,37.0781
+TRC12,"3",TR,Adiyaman,Adiyaman,"3","2","3",TRC12,38.2753,37.7974
+TRC13,"3",TR,Kilis,Kilis,"3","2","3",TRC13,37.0731,36.8132
+TRC21,"3",TR,Sanliurfa,Sanliurfa,"4","2","3",TRC21,39.0951,37.2475
+TRC22,"3",TR,Diyarbakir,Diyarbakir,"4","2","3",TRC22,40.3535,38.1039
+TRC31,"3",TR,Mardin,Mardin,"4","2","3",TRC31,40.8533,37.3934
+TRC32,"3",TR,Batman,Batman,"2","2","3",TRC32,41.2465,37.8368
+TRC33,"3",TR,Sirnak,Sirnak,"3","2","3",TRC33,42.5392,37.457
+TRC34,"3",TR,Siirt,Siirt,"3","2","3",TRC34,42.1228,37.8906
+UKC11,"3",UK,Hartlepool and Stockton-on-Tees,Hartlepool and Stockton-on-Tees,"4","1","1",UKC11,-1.3217,54.5912
+UKC12,"3",UK,South Teesside,South Teesside,"4","1","1",UKC12,-1.0388,54.5382
+UKC13,"3",UK,Darlington,Darlington,"4","1","2",UKC13,-1.5356,54.5467
+UKC14,"3",UK,Durham CC,Durham CC,"4","1","1",UKC14,-1.8228,54.6995
+UKC21,"3",UK,Northumberland,Northumberland,"4","2","1",UKC21,-2.0467,55.2486
+UKC22,"3",UK,Tyneside,Tyneside,"4","1","1",UKC22,-1.5924,54.9344
+UKC23,"3",UK,Sunderland,Sunderland,"4","1","1",UKC23,-1.426,54.8953
+UKD11,"3",UK,West Cumbria,West Cumbria,"4","2","1",UKD11,-3.2971,54.5951
+UKD12,"3",UK,East Cumbria,East Cumbria,"4","2","1",UKD12,-2.7221,54.6035
+UKD33,"3",UK,Manchester,Manchester,"4","1","2",UKD33,-2.2387,53.4382
+UKD34,"3",UK,Greater Manchester South West,Greater Manchester South West,"4","1","2",UKD34,-2.3615,53.4485
+UKD35,"3",UK,Greater Manchester South East,Greater Manchester South East,"4","1","2",UKD35,-2.0986,53.4308
+UKD36,"3",UK,Greater Manchester North West,Greater Manchester North West,"4","1","2",UKD36,-2.5235,53.5439
+UKD37,"3",UK,Greater Manchester North East,Greater Manchester North East,"4","1","2",UKD37,-2.1632,53.5822
+UKD41,"3",UK,Blackburn with Darwen,Blackburn with Darwen,"4","1","2",UKD41,-2.4677,53.6947
+UKD42,"3",UK,Blackpool,Blackpool,"4","1","1",UKD42,-3.0342,53.8158
+UKD44,"3",UK,Lancaster and Wyre,Lancaster and Wyre,"4","1","1",UKD44,-2.7131,54.0346
+UKD45,"3",UK,Mid Lancashire,Mid Lancashire,"4","1","1",UKD45,-2.5353,53.871
+UKD46,"3",UK,East Lancashire,East Lancashire,"4","1","2",UKD46,-2.2448,53.7891
+UKD47,"3",UK,Chorley and West Lancashire,Chorley and West Lancashire,"4","1","1",UKD47,-2.7576,53.6274
+UKD61,"3",UK,Warrington,Warrington,"4","1","1",UKD61,-2.5265,53.396
+UKD62,"3",UK,Cheshire East,Cheshire East,"4","1","2",UKD62,-2.1654,53.2405
+UKD63,"3",UK,Cheshire West and Chester,Cheshire West and Chester,"4","1","1",UKD63,-2.7827,53.2029
+UKD71,"3",UK,East Merseyside,East Merseyside,"4","1","1",UKD71,-2.7648,53.4336
+UKD72,"3",UK,Liverpool,Liverpool,"4","1","1",UKD72,-2.9191,53.4151
+UKD73,"3",UK,Sefton,Sefton,"4","1","1",UKD73,-2.9776,53.4845
+UKD74,"3",UK,Wirral,Wirral,"4","1","1",UKD74,-3.0411,53.3386
+UKE11,"3",UK,"Kingston upon Hull, City of","Kingston upon Hull, City of","4","1","1",UKE11,-0.3524,53.7607
+UKE12,"3",UK,East Riding of Yorkshire,East Riding of Yorkshire,"4","1","1",UKE12,-0.5266,53.8991
+UKE13,"3",UK,North and North East Lincolnshire,North and North East Lincolnshire,"4","2","1",UKE13,-0.5552,53.5819
+UKE21,"3",UK,York,York,"4","2","2",UKE21,-1.0267,53.9493
+UKE22,"3",UK,North Yorkshire CC,North Yorkshire CC,"4","2","1",UKE22,-1.4285,54.1903
+UKE31,"3",UK,"Barnsley, Doncaster and Rotherham","Barnsley, Doncaster and Rotherham","4","1","2",UKE31,-1.2621,53.5092
+UKE32,"3",UK,Sheffield,Sheffield,"4","1","2",UKE32,-1.5587,53.3949
+UKE41,"3",UK,Bradford,Bradford,"4","1","3",UKE41,-1.849,53.8312
+UKE42,"3",UK,Leeds,Leeds,"4","1","2",UKE42,-1.5347,53.8076
+UKE44,"3",UK,Calderdale and Kirklees,Calderdale and Kirklees,"4","1","3",UKE44,-1.8587,53.6421
+UKE45,"3",UK,Wakefield,Wakefield,"4","1","2",UKE45,-1.4167,53.6664
+UKF11,"3",UK,Derby,Derby,"4","1","3",UKF11,-1.4699,52.9143
+UKF12,"3",UK,East Derbyshire,East Derbyshire,"4","1","3",UKF12,-1.3683,53.2384
+UKF13,"3",UK,South and West Derbyshire,South and West Derbyshire,"4","1","3",UKF13,-1.6628,53.1245
+UKF14,"3",UK,Nottingham,Nottingham,"4","1","3",UKF14,-1.1846,52.9725
+UKF15,"3",UK,North Nottinghamshire,North Nottinghamshire,"4","1","2",UKF15,-0.9843,53.2245
+UKF16,"3",UK,South Nottinghamshire,South Nottinghamshire,"4","1","3",UKF16,-1.0488,52.9323
+UKF21,"3",UK,Leicester,Leicester,"4","1","3",UKF21,-1.1281,52.6366
+UKF22,"3",UK,Leicestershire CC and Rutland,Leicestershire CC and Rutland,"4","1","3",UKF22,-0.7705,52.7116
+UKF24,"3",UK,West Northamptonshire,West Northamptonshire,"4","2","3",UKF24,-1.0236,52.2361
+UKF25,"3",UK,North Northamptonshire,North Northamptonshire,"4","1","3",UKF25,-0.6328,52.423
+UKF30,"3",UK,Lincolnshire,Lincolnshire,"4","2","1",UKF30,-0.2667,53.0953
+UKG11,"3",UK,"Herefordshire, County of","Herefordshire, County of","4","3","2",UKG11,-2.7438,52.0912
+UKG12,"3",UK,Worcestershire,Worcestershire,"4","2","3",UKG12,-2.177,52.2467
+UKG13,"3",UK,Warwickshire,Warwickshire,"4","1","3",UKG13,-1.5364,52.2048
+UKG21,"3",UK,Telford and Wrekin,Telford and Wrekin,"4","2","3",UKG21,-2.4487,52.7298
+UKG22,"3",UK,Shropshire CC,Shropshire CC,"4","2","3",UKG22,-2.7117,52.6471
+UKG23,"3",UK,Stoke-on-Trent,Stoke-on-Trent,"4","1","3",UKG23,-2.1618,53.0147
+UKG24,"3",UK,Staffordshire CC,Staffordshire CC,"4","1","3",UKG24,-2.0409,52.8307
+UKG31,"3",UK,Birmingham,Birmingham,"4","1","3",UKG31,-1.8734,52.4945
+UKG32,"3",UK,Solihull,Solihull,"4","1","3",UKG32,-1.7805,52.4171
+UKG33,"3",UK,Coventry,Coventry,"4","1","3",UKG33,-1.5308,52.4129
+UKG36,"3",UK,Dudley,Dudley,"4","1","3",UKG36,-2.1269,52.4925
+UKG37,"3",UK,Sandwell,Sandwell,"4","1","3",UKG37,-2.0045,52.5206
+UKG38,"3",UK,Walsall,Walsall,"4","1","3",UKG38,-1.9765,52.5833
+UKG39,"3",UK,Wolverhampton,Wolverhampton,"4","1","3",UKG39,-2.0924,52.5797
+UKH11,"3",UK,Peterborough,Peterborough,"4","1","2",UKH11,-0.263,52.5975
+UKH12,"3",UK,Cambridgeshire CC,Cambridgeshire CC,"4","2","3",UKH12,0.0223,52.3414
+UKH14,"3",UK,Suffolk,Suffolk,"4","2","1",UKH14,1.0394,52.224
+UKH15,"3",UK,Norwich and East Norfolk,Norwich and East Norfolk,"4","1","1",UKH15,1.3671,52.6912
+UKH16,"3",UK,North and West Norfolk,North and West Norfolk,"4","3","1",UKH16,0.9236,52.8793
+UKH17,"3",UK,Breckland and South Norfolk,Breckland and South Norfolk,"4","3","2",UKH17,1.0017,52.5613
+UKH21,"3",UK,Luton,Luton,"4","1","2",UKH21,-0.4192,51.8929
+UKH23,"3",UK,Hertfordshire,Hertfordshire,"4","1","2",UKH23,-0.222,51.8242
+UKH24,"3",UK,Bedford,Bedford,"4","1","3",UKH24,-0.4785,52.2062
+UKH25,"3",UK,Central Bedfordshire,Central Bedfordshire,"4","1","3",UKH25,-0.432,52.0104
+UKH31,"3",UK,Southend-on-Sea,Southend-on-Sea,"4","1","1",UKH31,0.7027,51.5494
+UKH32,"3",UK,Thurrock,Thurrock,"4","1","1",UKH32,0.362,51.5133
+UKH34,"3",UK,Essex Haven Gateway,Essex Haven Gateway,"4","2","1",UKH34,0.7187,51.9152
+UKH35,"3",UK,West Essex,West Essex,"4","2","2",UKH35,0.2393,51.8413
+UKH36,"3",UK,Heart of Essex,Heart of Essex,"4","1","1",UKH36,0.5204,51.7027
+UKH37,"3",UK,Essex Thames Gateway,Essex Thames Gateway,"4","1","1",UKH37,0.5234,51.5722
+UKI31,"3",UK,Camden and City of London,Camden and City of London,"4","1","1",UKI31,-0.1797,51.5542
+UKI32,"3",UK,Westminster,Westminster,"4","1","1",UKI32,-0.1626,51.5131
+UKI33,"3",UK,Kensington & Chelsea and Hammersmith & Fulham,Kensington & Chelsea and Hammersmith & Fulham,"4","1","1",UKI33,-0.214,51.5051
+UKI34,"3",UK,Wandsworth,Wandsworth,"4","1","1",UKI34,-0.1828,51.4512
+UKI41,"3",UK,Hackney and Newham,Hackney and Newham,"4","1","1",UKI41,0.0072,51.5364
+UKI42,"3",UK,Tower Hamlets,Tower Hamlets,"4","1","1",UKI42,-0.035,51.5213
+UKI43,"3",UK,Haringey and Islington,Haringey and Islington,"4","1","2",UKI43,-0.1079,51.5789
+UKI44,"3",UK,Lewisham and Southwark,Lewisham and Southwark,"4","1","1",UKI44,-0.0495,51.4612
+UKI45,"3",UK,Lambeth,Lambeth,"4","1","1",UKI45,-0.1156,51.4509
+UKI51,"3",UK,Bexley and Greenwich,Bexley and Greenwich,"4","1","1",UKI51,0.1056,51.4565
+UKI52,"3",UK,Barking & Dagenham and Havering,Barking & Dagenham and Havering,"4","1","1",UKI52,0.1927,51.5585
+UKI53,"3",UK,Redbridge and Waltham Forest,Redbridge and Waltham Forest,"4","1","2",UKI53,0.0281,51.593
+UKI54,"3",UK,Enfield,Enfield,"4","1","2",UKI54,-0.0825,51.6453
+UKI61,"3",UK,Bromley,Bromley,"4","1","2",UKI61,0.0413,51.3778
+UKI62,"3",UK,Croydon,Croydon,"4","1","2",UKI62,-0.0827,51.3645
+UKI63,"3",UK,"Merton, Kingston upon Thames and Sutton","Merton, Kingston upon Thames and Sutton","4","1","2",UKI63,-0.1785,51.3796
+UKI71,"3",UK,Barnet,Barnet,"4","1","2",UKI71,-0.2132,51.6147
+UKI72,"3",UK,Brent,Brent,"4","1","2",UKI72,-0.2633,51.5586
+UKI73,"3",UK,Ealing,Ealing,"4","1","2",UKI73,-0.3217,51.5197
+UKI74,"3",UK,Harrow and Hillingdon,Harrow and Hillingdon,"4","1","2",UKI74,-0.3884,51.5831
+UKI75,"3",UK,Hounslow and Richmond upon Thames,Hounslow and Richmond upon Thames,"4","1","1",UKI75,-0.3359,51.4569
+UKJ11,"3",UK,Berkshire,Berkshire,"4","1","2",UKJ11,-1.311,51.4527
+UKJ12,"3",UK,Milton Keynes,Milton Keynes,"4","1","3",UKJ12,-0.7187,52.0822
+UKJ13,"3",UK,Buckinghamshire CC,Buckinghamshire CC,"4","2","2",UKJ13,-0.8031,51.7881
+UKJ14,"3",UK,Oxfordshire,Oxfordshire,"4","2","3",UKJ14,-1.3403,51.7749
+UKJ21,"3",UK,Brighton and Hove,Brighton and Hove,"4","1","1",UKJ21,-0.1473,50.8442
+UKJ22,"3",UK,East Sussex CC,East Sussex CC,"4","2","1",UKJ22,0.2767,50.9583
+UKJ25,"3",UK,West Surrey,West Surrey,"4","1","2",UKJ25,-0.5724,51.2601
+UKJ26,"3",UK,East Surrey,East Surrey,"4","1","2",UKJ26,-0.1832,51.2263
+UKJ27,"3",UK,West Sussex (South West),West Sussex (South West),"4","1","1",UKJ27,-0.6464,50.9319
+UKJ28,"3",UK,West Sussex (North East),West Sussex (North East),"4","1","2",UKJ28,-0.2232,51.0252
+UKJ31,"3",UK,Portsmouth,Portsmouth,"4","1","1",UKJ31,-1.0691,50.8192
+UKJ32,"3",UK,Southampton,Southampton,"4","1","1",UKJ32,-1.4068,50.9157
+UKJ34,"3",UK,Isle of Wight,Isle of Wight,"4","2","1",UKJ34,-1.2965,50.6717
+UKJ35,"3",UK,South Hampshire,South Hampshire,"4","1","1",UKJ35,-1.2804,50.8712
+UKJ36,"3",UK,Central Hampshire,Central Hampshire,"4","1","1",UKJ36,-1.3511,51.0973
+UKJ37,"3",UK,North Hampshire,North Hampshire,"4","1","2",UKJ37,-1.0829,51.2778
+UKJ41,"3",UK,Medway,Medway,"4","1","1",UKJ41,0.5133,51.415
+UKJ43,"3",UK,Kent Thames Gateway,Kent Thames Gateway,"4","1","1",UKJ43,0.3815,51.401
+UKJ44,"3",UK,East Kent,East Kent,"4","1","1",UKJ44,1.092,51.1728
+UKJ45,"3",UK,Mid Kent,Mid Kent,"4","2","2",UKJ45,0.7213,51.169
+UKJ46,"3",UK,West Kent,West Kent,"4","2","1",UKJ46,0.2882,51.224
+UKK11,"3",UK,"Bristol, City of","Bristol, City of","4","1","1",UKK11,-2.6395,51.4957
+UKK12,"3",UK,"Bath and North East Somerset, North Somerset and South Gloucestershire","Bath and North East Somerset, North Somerset and South Gloucestershire","4","1","1",UKK12,-2.4526,51.4851
+UKK13,"3",UK,Gloucestershire,Gloucestershire,"4","2","1",UKK13,-2.121,51.8221
+UKK14,"3",UK,Swindon,Swindon,"4","2","2",UKK14,-1.7145,51.5976
+UKK15,"3",UK,Wiltshire CC,Wiltshire CC,"4","2","2",UKK15,-1.9613,51.3259
+UKK21,"3",UK,Bournemouth and Poole,Bournemouth and Poole,"4","1","1",UKK21,-1.8687,50.734
+UKK22,"3",UK,Dorset CC,Dorset CC,"4","1","1",UKK22,-2.3308,50.8454
+UKK23,"3",UK,Somerset,Somerset,"4","2","1",UKK23,-2.647,51.1208
+UKK30,"3",UK,Cornwall and Isles of Scilly,Cornwall and Isles of Scilly,"4","2","1",UKK30,-4.7762,50.4401
+UKK41,"3",UK,Plymouth,Plymouth,"4","1","1",UKK41,-4.1141,50.3902
+UKK42,"3",UK,Torbay,Torbay,"4","1","1",UKK42,-3.5869,50.4309
+UKK43,"3",UK,Devon CC,Devon CC,"4","2","1",UKK43,-3.7995,50.7507
+UKL11,"3",UK,Isle of Anglesey,Isle of Anglesey,"4","3","1",UKL11,-4.3673,53.2787
+UKL12,"3",UK,Gwynedd,Gwynedd,"2","3","1",UKL12,-3.9504,52.8825
+UKL13,"3",UK,Conwy and Denbighshire,Conwy and Denbighshire,"2","2","1",UKL13,-3.5961,53.1324
+UKL14,"3",UK,South West Wales,South West Wales,"4","3","1",UKL14,-4.0768,52.0636
+UKL15,"3",UK,Central Valleys,Central Valleys,"3","1","2",UKL15,-3.4123,51.6599
+UKL16,"3",UK,Gwent Valleys,Gwent Valleys,"2","1","2",UKL16,-3.1812,51.6845
+UKL17,"3",UK,Bridgend and Neath Port Talbot,Bridgend and Neath Port Talbot,"2","1","1",UKL17,-3.697,51.635
+UKL18,"3",UK,Swansea,Swansea,"4","1","1",UKL18,-3.9584,51.6974
+UKL21,"3",UK,Monmouthshire and Newport,Monmouthshire and Newport,"4","1","1",UKL21,-2.8912,51.7402
+UKL22,"3",UK,Cardiff and Vale of Glamorgan,Cardiff and Vale of Glamorgan,"4","1","1",UKL22,-3.3603,51.4534
+UKL23,"3",UK,Flintshire and Wrexham,Flintshire and Wrexham,"4","1","1",UKL23,-3.0509,53.0757
+UKL24,"3",UK,Powys,Powys,"2","3","2",UKL24,-3.4157,52.3223
+UKM50,"3",UK,Aberdeen City and Aberdeenshire,Aberdeen City and Aberdeenshire,"4","2","1",UKM50,-2.6876,57.2021
+UKM61,"3",UK,Caithness & Sutherland and Ross & Cromarty,Caithness & Sutherland and Ross & Cromarty,"2","3","1",UKM61,-4.7678,57.9087
+UKM62,"3",UK,"Inverness & Nairn and Moray, Badenoch & Strathspey","Inverness & Nairn and Moray, Badenoch & Strathspey","2","2","1",UKM62,-3.9693,57.2842
+UKM63,"3",UK,"Lochaber, Skye & Lochalsh, Arran & Cumbrae and Argyll & Bute","Lochaber, Skye & Lochalsh, Arran & Cumbrae and Argyll & Bute","3","3","1",UKM63,-4.8797,56.6028
+UKM64,"3",UK,Na h-Eileanan Siar (Western Isles),Na h-Eileanan Siar (Western Isles),"4","3","1",UKM64,-6.6737,58.125
+UKM65,"3",UK,Orkney Islands,Orkney Islands,"4","3","1",UKM65,-3.177,59.034
+UKM66,"3",UK,Shetland Islands,Shetland Islands,"4","3","1",UKM66,-1.2392,60.2949
+UKM71,"3",UK,Angus and Dundee City,Angus and Dundee City,"4","1","1",UKM71,-2.9029,56.7194
+UKM72,"3",UK,Clackmannanshire and Fife,Clackmannanshire and Fife,"4","1","1",UKM72,-3.1427,56.2284
+UKM73,"3",UK,East Lothian and Midlothian,East Lothian and Midlothian,"4","1","1",UKM73,-2.9318,55.8713
+UKM75,"3",UK,"Edinburgh, City of","Edinburgh, City of","4","1","1",UKM75,-3.2978,55.9199
+UKM76,"3",UK,Falkirk,Falkirk,"4","1","1",UKM76,-3.796,55.9929
+UKM77,"3",UK,Perth & Kinross and Stirling,Perth & Kinross and Stirling,"2","2","1",UKM77,-3.971,56.4825
+UKM78,"3",UK,West Lothian,West Lothian,"4","1","1",UKM78,-3.5733,55.8824
+UKM81,"3",UK,"East Dunbartonshire, West Dunbartonshire and Helensburgh & Lomond","East Dunbartonshire, West Dunbartonshire and Helensburgh & Lomond","2","1","1",UKM81,-4.6275,56.0444
+UKM82,"3",UK,Glasgow City,Glasgow City,"4","1","1",UKM82,-4.2497,55.8422
+UKM83,"3",UK,"Inverclyde, East Renfrewshire and Renfrewshire","Inverclyde, East Renfrewshire and Renfrewshire","4","1","1",UKM83,-4.5413,55.8326
+UKM84,"3",UK,North Lanarkshire,North Lanarkshire,"4","1","2",UKM84,-3.9629,55.8939
+UKM91,"3",UK,Scottish Borders,Scottish Borders,"4","3","1",UKM91,-2.8134,55.5763
+UKM92,"3",UK,Dumfries & Galloway,Dumfries & Galloway,"4","3","1",UKM92,-3.9335,55.0893
+UKM93,"3",UK,East Ayrshire and North Ayrshire mainland,East Ayrshire and North Ayrshire mainland,"4","2","1",UKM93,-4.2119,55.4392
+UKM94,"3",UK,South Ayrshire,South Ayrshire,"4","2","1",UKM94,-4.7202,55.2239
+UKM95,"3",UK,South Lanarkshire,South Lanarkshire,"4","1","2",UKM95,-3.8237,55.6309
+UKN06,"3",UK,Belfast,Belfast,"4","1","1",UKN06,-5.9325,54.6037
+UKN07,"3",UK,"Armagh City, Banbridge and Craigavon","Armagh City, Banbridge and Craigavon","4","2","2",UKN07,-6.4644,54.3774
+UKN08,"3",UK,"Newry, Mourne and Down","Newry, Mourne and Down","4","3","1",UKN08,-6.127,54.1618
+UKN09,"3",UK,Ards and North Down,Ards and North Down,"4","1","1",UKN09,-5.5646,54.582
+UKN10,"3",UK,Derry City and Strabane,Derry City and Strabane,"4","2","1",UKN10,-7.2839,54.8423
+UKN11,"3",UK,Mid Ulster,Mid Ulster,"4","3","2",UKN11,-6.7533,54.6273
+UKN12,"3",UK,Causeway Coast and Glens,Causeway Coast and Glens,"4","3","1",UKN12,-6.595,55.0618
+UKN13,"3",UK,Antrim and Newtownabbey,Antrim and Newtownabbey,"4","2","1",UKN13,-6.2006,54.6943
+UKN14,"3",UK,Lisburn and Castlereagh,Lisburn and Castlereagh,"4","1","2",UKN14,-6.041,54.5051
+UKN15,"3",UK,Mid and East Antrim,Mid and East Antrim,"4","2","1",UKN15,-6.1795,54.8886
+UKN16,"3",UK,Fermanagh and Omagh,Fermanagh and Omagh,"4","3","2",UKN16,-7.6159,54.4213
